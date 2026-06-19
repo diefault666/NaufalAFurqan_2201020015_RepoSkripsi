@@ -1,0 +1,36 @@
+D06 - Ringkasan Final Uji Jarak LoRa
+
+File:
+- LoRa Uji Jarak.txt
+
+Hasil:
+1. Jarak 50 meter:
+   - Paket valid: 49
+   - RSSI: -99 sampai -87 dBm
+   - SNR: 9,25 sampai 10,00 dB
+   - Timeout: 1
+   - Kesimpulan: stabil setelah koneksi masuk.
+
+2. Jarak 200 meter:
+   - Paket valid: 30
+   - RSSI: -101 sampai -96 dBm
+   - SNR: -10,00 sampai 3,25 dB
+   - Timeout: 8
+   - Kesimpulan: mulai kurang stabil.
+
+3. Jarak 500 meter:
+   - Paket valid: 60
+   - RSSI: -115 sampai -96 dBm
+   - SNR: -5,75 sampai 0,75 dB
+   - Timeout: 0 pada file pengamatan
+   - Kesimpulan: masih menerima paket, tetapi sinyal lemah.
+
+4. Jarak 1 km:
+   - Paket valid: 9
+   - RSSI: -101 sampai -99 dBm
+   - SNR: -9,50 sampai -2,75 dB
+   - Timeout: 4
+   - Kesimpulan: masih bisa menerima sebagian paket, tetapi belum stabil.
+
+Kesimpulan:
+D-6 berhasil. Komunikasi LoRa mampu mengirim payload Smart Buoy pada beberapa variasi jarak. Kinerja terbaik terlihat pada jarak 50 meter, sedangkan pada jarak yang lebih jauh kestabilan mulai menurun dan timeout mulai muncul.

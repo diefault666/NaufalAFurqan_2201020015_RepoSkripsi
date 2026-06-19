@@ -1,0 +1,2957 @@
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3018000,1.840,0.092,2.80,-4.06,-2.31,TENANG,2243
+RSSI: -33 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3018000
+Heave     : 1.840 m
+Hs        : 0.092 m
+Tp        : 2.80 s
+Roll      : -4.06 deg
+Pitch     : -2.31 deg
+Status    : TENANG
+CRC       : 2243
+
+Raw Payload: 3020000,1.841,0.094,2.80,-4.15,-2.47,TENANG,2246
+RSSI: -33 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3020000
+Heave     : 1.841 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -4.15 deg
+Pitch     : -2.47 deg
+Status    : TENANG
+CRC       : 2246
+
+Raw Payload: 3022000,1.845,0.095,2.80,-4.07,-2.37,TENANG,2253
+RSSI: -33 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3022000
+Heave     : 1.845 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -4.07 deg
+Pitch     : -2.37 deg
+Status    : TENANG
+CRC       : 2253
+
+Raw Payload: 3024000,1.845,0.093,2.80,-4.11,-2.67,TENANG,2251
+RSSI: -34 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3024000
+Heave     : 1.845 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -4.11 deg
+Pitch     : -2.67 deg
+Status    : TENANG
+CRC       : 2251
+
+Raw Payload: 3026000,1.846,0.097,2.80,-4.03,-2.40,TENANG,2250
+RSSI: -34 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3026000
+Heave     : 1.846 m
+Hs        : 0.097 m
+Tp        : 2.80 s
+Roll      : -4.03 deg
+Pitch     : -2.40 deg
+Status    : TENANG
+CRC       : 2250
+
+Sending JSON to Google Sheets: {"timestamp":"3026000","heave":1.846,"hs":0.097,"tp":2.80,"roll":-4.03,"pitch":-2.40,"status":"TENANG","rssi":-34,"snr":9.75,"crc":2250,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3030000,1.842,0.093,2.80,-4.03,-2.52,TENANG,2240
+RSSI: -34 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3030000
+Heave     : 1.842 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -4.03 deg
+Pitch     : -2.52 deg
+Status    : TENANG
+CRC       : 2240
+
+Raw Payload: 3032000,1.842,0.094,2.80,-4.15,-2.50,TENANG,2244
+RSSI: -35 dBm | SNR: 10.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3032000
+Heave     : 1.842 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -4.15 deg
+Pitch     : -2.50 deg
+Status    : TENANG
+CRC       : 2244
+
+Raw Payload: 3034000,1.840,0.094,2.80,-4.12,-2.40,TENANG,2240
+RSSI: -34 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3034000
+Heave     : 1.840 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -4.12 deg
+Pitch     : -2.40 deg
+Status    : TENANG
+CRC       : 2240
+
+Raw Payload: 3036000,1.840,0.094,2.80,-4.16,-2.53,TENANG,2250
+RSSI: -34 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3036000
+Heave     : 1.840 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -4.16 deg
+Pitch     : -2.53 deg
+Status    : TENANG
+CRC       : 2250
+
+Sending JSON to Google Sheets: {"timestamp":"3036000","heave":1.840,"hs":0.094,"tp":2.80,"roll":-4.16,"pitch":-2.53,"status":"TENANG","rssi":-34,"snr":9.75,"crc":2250,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3040000,1.842,0.093,2.80,-4.20,-2.45,TENANG,2242
+RSSI: -34 dBm | SNR: 10.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3040000
+Heave     : 1.842 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -4.20 deg
+Pitch     : -2.45 deg
+Status    : TENANG
+CRC       : 2242
+
+Raw Payload: 3042000,1.844,0.094,2.80,-4.12,-2.44,TENANG,2247
+RSSI: -34 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3042000
+Heave     : 1.844 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -4.12 deg
+Pitch     : -2.44 deg
+Status    : TENANG
+CRC       : 2247
+
+Raw Payload: 3044000,1.846,0.093,2.80,-4.07,-2.39,TENANG,2258
+RSSI: -34 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3044000
+Heave     : 1.846 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -4.07 deg
+Pitch     : -2.39 deg
+Status    : TENANG
+CRC       : 2258
+
+Raw Payload: 3046000,1.846,0.096,2.80,-4.03,-2.51,TENANG,2253
+RSSI: -34 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3046000
+Heave     : 1.846 m
+Hs        : 0.096 m
+Tp        : 2.80 s
+Roll      : -4.03 deg
+Pitch     : -2.51 deg
+Status    : TENANG
+CRC       : 2253
+
+Sending JSON to Google Sheets: {"timestamp":"3046000","heave":1.846,"hs":0.096,"tp":2.80,"roll":-4.03,"pitch":-2.51,"status":"TENANG","rssi":-34,"snr":9.75,"crc":2253,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3050000,1.845,0.095,2.80,-4.04,-2.48,TENANG,2253
+RSSI: -34 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3050000
+Heave     : 1.845 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -4.04 deg
+Pitch     : -2.48 deg
+Status    : TENANG
+CRC       : 2253
+
+Raw Payload: 3052000,1.847,0.093,2.80,-3.98,-2.56,TENANG,2266
+RSSI: -32 dBm | SNR: 8.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3052000
+Heave     : 1.847 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -3.98 deg
+Pitch     : -2.56 deg
+Status    : TENANG
+CRC       : 2266
+
+Raw Payload: 3054000,1.848,0.095,2.80,-4.01,-2.42,TENANG,2251
+RSSI: -33 dBm | SNR: 7.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3054000
+Heave     : 1.848 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -4.01 deg
+Pitch     : -2.42 deg
+Status    : TENANG
+CRC       : 2251
+
+Raw Payload: 3056000,1.848,0.094,2.80,-4.21,-2.51,TENANG,2254
+RSSI: -34 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3056000
+Heave     : 1.848 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -4.21 deg
+Pitch     : -2.51 deg
+Status    : TENANG
+CRC       : 2254
+
+Sending JSON to Google Sheets: {"timestamp":"3056000","heave":1.848,"hs":0.094,"tp":2.80,"roll":-4.21,"pitch":-2.51,"status":"TENANG","rssi":-34,"snr":9.50,"crc":2254,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+TIMEOUT: Data LoRa tidak diterima lebih dari 5 detik.
+Gateway masuk mode WAITING.
+LED biru menyala terus.
+
+Raw Payload: 3064000,1.847,0.093,2.80,-4.22,-2.56,TENANG,2257
+RSSI: -34 dBm | SNR: 9.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3064000
+Heave     : 1.847 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -4.22 deg
+Pitch     : -2.56 deg
+Status    : TENANG
+CRC       : 2257
+
+Raw Payload: 3066000,1.845,0.095,2.80,-4.10,-2.52,TENANG,2252
+RSSI: -33 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3066000
+Heave     : 1.845 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -4.10 deg
+Pitch     : -2.52 deg
+Status    : TENANG
+CRC       : 2252
+
+Sending JSON to Google Sheets: {"timestamp":"3066000","heave":1.845,"hs":0.095,"tp":2.80,"roll":-4.10,"pitch":-2.52,"status":"TENANG","rssi":-33,"snr":9.50,"crc":2252,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3070000,1.850,0.096,2.80,-4.13,-2.42,TENANG,2246
+RSSI: -33 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3070000
+Heave     : 1.850 m
+Hs        : 0.096 m
+Tp        : 2.80 s
+Roll      : -4.13 deg
+Pitch     : -2.42 deg
+Status    : TENANG
+CRC       : 2246
+
+Raw Payload: 3072000,1.851,0.094,2.80,-4.22,-2.46,TENANG,2251
+RSSI: -33 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3072000
+Heave     : 1.851 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -4.22 deg
+Pitch     : -2.46 deg
+Status    : TENANG
+CRC       : 2251
+
+Raw Payload: 3074000,1.851,0.096,2.80,-4.13,-2.50,TENANG,2250
+RSSI: -33 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3074000
+Heave     : 1.851 m
+Hs        : 0.096 m
+Tp        : 2.80 s
+Roll      : -4.13 deg
+Pitch     : -2.50 deg
+Status    : TENANG
+CRC       : 2250
+
+Raw Payload: 3076000,1.849,0.094,2.80,-4.02,-2.43,TENANG,2257
+RSSI: -33 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3076000
+Heave     : 1.849 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -4.02 deg
+Pitch     : -2.43 deg
+Status    : TENANG
+CRC       : 2257
+
+Sending JSON to Google Sheets: {"timestamp":"3076000","heave":1.849,"hs":0.094,"tp":2.80,"roll":-4.02,"pitch":-2.43,"status":"TENANG","rssi":-33,"snr":9.75,"crc":2257,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+TIMEOUT: Data LoRa tidak diterima lebih dari 5 detik.
+Gateway masuk mode WAITING.
+LED biru menyala terus.
+
+Raw Payload: 3082000,1.846,0.095,2.80,-4.13,-2.53,TENANG,2255
+RSSI: -34 dBm | SNR: 9.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3082000
+Heave     : 1.846 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -4.13 deg
+Pitch     : -2.53 deg
+Status    : TENANG
+CRC       : 2255
+
+Raw Payload: 3084000,1.848,0.092,2.80,-4.15,-2.42,TENANG,2256
+RSSI: -33 dBm | SNR: 9.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3084000
+Heave     : 1.848 m
+Hs        : 0.092 m
+Tp        : 2.80 s
+Roll      : -4.15 deg
+Pitch     : -2.42 deg
+Status    : TENANG
+CRC       : 2256
+
+Raw Payload: 3086000,1.851,0.093,2.80,-4.02,-2.47,TENANG,2254
+RSSI: -33 dBm | SNR: 9.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3086000
+Heave     : 1.851 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -4.02 deg
+Pitch     : -2.47 deg
+Status    : TENANG
+CRC       : 2254
+
+Sending JSON to Google Sheets: {"timestamp":"3086000","heave":1.851,"hs":0.093,"tp":2.80,"roll":-4.02,"pitch":-2.47,"status":"TENANG","rssi":-33,"snr":9.25,"crc":2254,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3090000,1.844,0.096,2.80,-4.12,-2.17,TENANG,2252
+RSSI: -33 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3090000
+Heave     : 1.844 m
+Hs        : 0.096 m
+Tp        : 2.80 s
+Roll      : -4.12 deg
+Pitch     : -2.17 deg
+Status    : TENANG
+CRC       : 2252
+
+Raw Payload: 3092000,1.845,0.095,2.80,-4.03,-2.44,TENANG,2254
+RSSI: -33 dBm | SNR: 10.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3092000
+Heave     : 1.845 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -4.03 deg
+Pitch     : -2.44 deg
+Status    : TENANG
+CRC       : 2254
+
+Raw Payload: 3094000,1.846,0.094,2.80,-4.01,-2.48,TENANG,2258
+RSSI: -33 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3094000
+Heave     : 1.846 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -4.01 deg
+Pitch     : -2.48 deg
+Status    : TENANG
+CRC       : 2258
+
+Raw Payload: 3096000,1.848,0.094,2.80,-4.10,-2.39,TENANG,2262
+RSSI: -33 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3096000
+Heave     : 1.848 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -4.10 deg
+Pitch     : -2.39 deg
+Status    : TENANG
+CRC       : 2262
+
+Sending JSON to Google Sheets: {"timestamp":"3096000","heave":1.848,"hs":0.094,"tp":2.80,"roll":-4.10,"pitch":-2.39,"status":"TENANG","rssi":-33,"snr":9.75,"crc":2262,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: -1
+Google Sheets Response: 
+Google Sheets: failed to send data.
+
+TIMEOUT: Data LoRa tidak diterima lebih dari 5 detik.
+Gateway masuk mode WAITING.
+LED biru menyala terus.
+
+Raw Payload: 3102000,1.848,0.095,2.80,-3.98,-2.48,TENANG,2266
+RSSI: -33 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3102000
+Heave     : 1.848 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -3.98 deg
+Pitch     : -2.48 deg
+Status    : TENANG
+CRC       : 2266
+
+Raw Payload: 3104000,1.848,0.094,2.80,-4.11,-2.35,TENANG,2249
+RSSI: -33 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3104000
+Heave     : 1.848 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -4.11 deg
+Pitch     : -2.35 deg
+Status    : TENANG
+CRC       : 2249
+
+Raw Payload: 3106000,1.847,0.096,2.80,-4.08,-2.53,TENANG,2258
+RSSI: -32 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3106000
+Heave     : 1.847 m
+Hs        : 0.096 m
+Tp        : 2.80 s
+Roll      : -4.08 deg
+Pitch     : -2.53 deg
+Status    : TENANG
+CRC       : 2258
+
+Sending JSON to Google Sheets: {"timestamp":"3106000","heave":1.847,"hs":0.096,"tp":2.80,"roll":-4.08,"pitch":-2.53,"status":"TENANG","rssi":-32,"snr":9.75,"crc":2258,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3110000,1.846,0.097,2.80,-4.04,-2.42,TENANG,2247
+RSSI: -33 dBm | SNR: 9.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3110000
+Heave     : 1.846 m
+Hs        : 0.097 m
+Tp        : 2.80 s
+Roll      : -4.04 deg
+Pitch     : -2.42 deg
+Status    : TENANG
+CRC       : 2247
+
+Raw Payload: 3112000,1.843,0.095,2.80,-4.11,-2.49,TENANG,2249
+RSSI: -33 dBm | SNR: 9.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3112000
+Heave     : 1.843 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -4.11 deg
+Pitch     : -2.49 deg
+Status    : TENANG
+CRC       : 2249
+
+Raw Payload: 3114000,1.841,0.095,2.80,-4.05,-2.52,TENANG,2246
+RSSI: -32 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3114000
+Heave     : 1.841 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -4.05 deg
+Pitch     : -2.52 deg
+Status    : TENANG
+CRC       : 2246
+
+Raw Payload: 3116000,1.845,0.091,2.80,-4.18,-2.37,TENANG,2255
+RSSI: -33 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3116000
+Heave     : 1.845 m
+Hs        : 0.091 m
+Tp        : 2.80 s
+Roll      : -4.18 deg
+Pitch     : -2.37 deg
+Status    : TENANG
+CRC       : 2255
+
+Sending JSON to Google Sheets: {"timestamp":"3116000","heave":1.845,"hs":0.091,"tp":2.80,"roll":-4.18,"pitch":-2.37,"status":"TENANG","rssi":-33,"snr":9.50,"crc":2255,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3120000,1.845,0.093,2.80,-3.91,-2.55,TENANG,2252
+RSSI: -33 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3120000
+Heave     : 1.845 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -3.91 deg
+Pitch     : -2.55 deg
+Status    : TENANG
+CRC       : 2252
+
+Raw Payload: 3122000,1.843,0.096,2.80,-4.10,-2.54,TENANG,2246
+RSSI: -32 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3122000
+Heave     : 1.843 m
+Hs        : 0.096 m
+Tp        : 2.80 s
+Roll      : -4.10 deg
+Pitch     : -2.54 deg
+Status    : TENANG
+CRC       : 2246
+
+Raw Payload: 3124000,1.844,0.093,2.80,-3.97,-2.37,TENANG,2261
+RSSI: -33 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3124000
+Heave     : 1.844 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -3.97 deg
+Pitch     : -2.37 deg
+Status    : TENANG
+CRC       : 2261
+
+Raw Payload: 3126000,1.842,0.095,2.80,-3.94,-2.60,TENANG,2256
+RSSI: -33 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3126000
+Heave     : 1.842 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -3.94 deg
+Pitch     : -2.60 deg
+Status    : TENANG
+CRC       : 2256
+
+Sending JSON to Google Sheets: {"timestamp":"3126000","heave":1.842,"hs":0.095,"tp":2.80,"roll":-3.94,"pitch":-2.60,"status":"TENANG","rssi":-33,"snr":9.50,"crc":2256,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3130000,1.838,0.093,2.80,-4.07,-2.49,TENANG,2256
+RSSI: -32 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3130000
+Heave     : 1.838 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -4.07 deg
+Pitch     : -2.49 deg
+Status    : TENANG
+CRC       : 2256
+
+Raw Payload: 3132000,1.838,0.095,2.80,-4.08,-2.44,TENANG,2256
+RSSI: -33 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3132000
+Heave     : 1.838 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -4.08 deg
+Pitch     : -2.44 deg
+Status    : TENANG
+CRC       : 2256
+
+Raw Payload: 3134000,1.838,0.094,2.80,-4.01,-2.52,TENANG,2249
+RSSI: -33 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3134000
+Heave     : 1.838 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -4.01 deg
+Pitch     : -2.52 deg
+Status    : TENANG
+CRC       : 2249
+
+Raw Payload: 3136000,1.844,0.093,2.80,-3.91,-2.34,TENANG,2255
+RSSI: -33 dBm | SNR: 9.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3136000
+Heave     : 1.844 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -3.91 deg
+Pitch     : -2.34 deg
+Status    : TENANG
+CRC       : 2255
+
+Sending JSON to Google Sheets: {"timestamp":"3136000","heave":1.844,"hs":0.093,"tp":2.80,"roll":-3.91,"pitch":-2.34,"status":"TENANG","rssi":-33,"snr":9.25,"crc":2255,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3140000,1.838,0.093,2.80,-4.24,-2.47,TENANG,2254
+RSSI: -32 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3140000
+Heave     : 1.838 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -4.24 deg
+Pitch     : -2.47 deg
+Status    : TENANG
+CRC       : 2254
+
+Raw Payload: 3142000,1.840,0.091,2.80,-4.26,-2.47,TENANG,2249
+RSSI: -32 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3142000
+Heave     : 1.840 m
+Hs        : 0.091 m
+Tp        : 2.80 s
+Roll      : -4.26 deg
+Pitch     : -2.47 deg
+Status    : TENANG
+CRC       : 2249
+
+Raw Payload: 3144000,1.846,0.092,2.80,-4.09,-2.46,TENANG,2258
+RSSI: -33 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3144000
+Heave     : 1.846 m
+Hs        : 0.092 m
+Tp        : 2.80 s
+Roll      : -4.09 deg
+Pitch     : -2.46 deg
+Status    : TENANG
+CRC       : 2258
+
+Raw Payload: 3146000,1.849,0.094,2.80,-4.09,-2.49,TENANG,2268
+RSSI: -32 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3146000
+Heave     : 1.849 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -4.09 deg
+Pitch     : -2.49 deg
+Status    : TENANG
+CRC       : 2268
+
+Sending JSON to Google Sheets: {"timestamp":"3146000","heave":1.849,"hs":0.094,"tp":2.80,"roll":-4.09,"pitch":-2.49,"status":"TENANG","rssi":-32,"snr":9.50,"crc":2268,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3150000,1.850,0.094,2.80,-3.93,-2.41,TENANG,2249
+RSSI: -32 dBm | SNR: 10.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3150000
+Heave     : 1.850 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -3.93 deg
+Pitch     : -2.41 deg
+Status    : TENANG
+CRC       : 2249
+
+Raw Payload: 3152000,1.851,0.095,2.80,-4.20,-2.32,TENANG,2244
+RSSI: -32 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3152000
+Heave     : 1.851 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -4.20 deg
+Pitch     : -2.32 deg
+Status    : TENANG
+CRC       : 2244
+
+Raw Payload: 3154000,1.852,0.095,2.80,-4.10,-2.42,TENANG,2247
+RSSI: -32 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3154000
+Heave     : 1.852 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -4.10 deg
+Pitch     : -2.42 deg
+Status    : TENANG
+CRC       : 2247
+
+Raw Payload: 3156000,1.849,0.095,2.80,-4.25,-2.55,TENANG,2265
+RSSI: -32 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3156000
+Heave     : 1.849 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -4.25 deg
+Pitch     : -2.55 deg
+Status    : TENANG
+CRC       : 2265
+
+Sending JSON to Google Sheets: {"timestamp":"3156000","heave":1.849,"hs":0.095,"tp":2.80,"roll":-4.25,"pitch":-2.55,"status":"TENANG","rssi":-32,"snr":9.75,"crc":2265,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+TIMEOUT: Data LoRa tidak diterima lebih dari 5 detik.
+Gateway masuk mode WAITING.
+LED biru menyala terus.
+
+Raw Payload: 3162000,1.853,0.091,2.80,-4.14,-2.45,TENANG,2250
+RSSI: -32 dBm | SNR: 9.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3162000
+Heave     : 1.853 m
+Hs        : 0.091 m
+Tp        : 2.80 s
+Roll      : -4.14 deg
+Pitch     : -2.45 deg
+Status    : TENANG
+CRC       : 2250
+
+Raw Payload: 3164000,1.850,0.097,2.80,-4.09,-2.37,TENANG,2260
+RSSI: -32 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3164000
+Heave     : 1.850 m
+Hs        : 0.097 m
+Tp        : 2.80 s
+Roll      : -4.09 deg
+Pitch     : -2.37 deg
+Status    : TENANG
+CRC       : 2260
+
+Raw Payload: 3166000,1.848,0.096,2.80,-3.99,-2.43,TENANG,2273
+RSSI: -33 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3166000
+Heave     : 1.848 m
+Hs        : 0.096 m
+Tp        : 2.80 s
+Roll      : -3.99 deg
+Pitch     : -2.43 deg
+Status    : TENANG
+CRC       : 2273
+
+Sending JSON to Google Sheets: {"timestamp":"3166000","heave":1.848,"hs":0.096,"tp":2.80,"roll":-3.99,"pitch":-2.43,"status":"TENANG","rssi":-33,"snr":9.50,"crc":2273,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3170000,1.849,0.095,2.80,-3.98,-2.48,TENANG,2272
+RSSI: -34 dBm | SNR: 9.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3170000
+Heave     : 1.849 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -3.98 deg
+Pitch     : -2.48 deg
+Status    : TENANG
+CRC       : 2272
+
+Raw Payload: 3172000,1.847,0.095,2.80,-4.01,-2.50,TENANG,2250
+RSSI: -33 dBm | SNR: 10.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3172000
+Heave     : 1.847 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -4.01 deg
+Pitch     : -2.50 deg
+Status    : TENANG
+CRC       : 2250
+
+Raw Payload: 3174000,1.847,0.095,2.80,-4.11,-2.52,TENANG,2255
+RSSI: -33 dBm | SNR: 9.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3174000
+Heave     : 1.847 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -4.11 deg
+Pitch     : -2.52 deg
+Status    : TENANG
+CRC       : 2255
+
+Raw Payload: 3176000,1.847,0.095,2.80,-3.95,-2.55,TENANG,2271
+RSSI: -32 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3176000
+Heave     : 1.847 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -3.95 deg
+Pitch     : -2.55 deg
+Status    : TENANG
+CRC       : 2271
+
+Sending JSON to Google Sheets: {"timestamp":"3176000","heave":1.847,"hs":0.095,"tp":2.80,"roll":-3.95,"pitch":-2.55,"status":"TENANG","rssi":-32,"snr":9.75,"crc":2271,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3180000,1.843,0.096,2.80,-4.01,-2.38,TENANG,2252
+RSSI: -33 dBm | SNR: 9.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3180000
+Heave     : 1.843 m
+Hs        : 0.096 m
+Tp        : 2.80 s
+Roll      : -4.01 deg
+Pitch     : -2.38 deg
+Status    : TENANG
+CRC       : 2252
+
+Raw Payload: 3182000,1.841,0.094,2.80,-4.13,-2.36,TENANG,2251
+RSSI: -33 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3182000
+Heave     : 1.841 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -4.13 deg
+Pitch     : -2.36 deg
+Status    : TENANG
+CRC       : 2251
+
+Raw Payload: 3184000,1.849,0.093,2.80,-4.06,-2.41,TENANG,2258
+RSSI: -33 dBm | SNR: 10.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3184000
+Heave     : 1.849 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -4.06 deg
+Pitch     : -2.41 deg
+Status    : TENANG
+CRC       : 2258
+
+Raw Payload: 3186000,1.852,0.094,2.80,-3.87,-2.33,TENANG,2264
+RSSI: -33 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3186000
+Heave     : 1.852 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -3.87 deg
+Pitch     : -2.33 deg
+Status    : TENANG
+CRC       : 2264
+
+Sending JSON to Google Sheets: {"timestamp":"3186000","heave":1.852,"hs":0.094,"tp":2.80,"roll":-3.87,"pitch":-2.33,"status":"TENANG","rssi":-33,"snr":10.00,"crc":2264,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+TIMEOUT: Data LoRa tidak diterima lebih dari 5 detik.
+Gateway masuk mode WAITING.
+LED biru menyala terus.
+
+Raw Payload: 3196000,1.850,0.095,2.80,-4.06,-2.42,TENANG,2256
+RSSI: -33 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3196000
+Heave     : 1.850 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -4.06 deg
+Pitch     : -2.42 deg
+Status    : TENANG
+CRC       : 2256
+
+Sending JSON to Google Sheets: {"timestamp":"3196000","heave":1.850,"hs":0.095,"tp":2.80,"roll":-4.06,"pitch":-2.42,"status":"TENANG","rssi":-33,"snr":10.00,"crc":2256,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: -11
+Google Sheets Response: 
+Google Sheets: failed to send data.
+
+TIMEOUT: Data LoRa tidak diterima lebih dari 5 detik.
+Gateway masuk mode WAITING.
+LED biru menyala terus.
+
+Raw Payload: 3204000,1.846,0.095,2.80,-3.96,-2.40,TENANG,2257
+RSSI: -34 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3204000
+Heave     : 1.846 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -3.96 deg
+Pitch     : -2.40 deg
+Status    : TENANG
+CRC       : 2257
+
+Raw Payload: 3206000,1.841,0.098,2.80,-3.99,-2.21,TENANG,2259
+RSSI: -33 dBm | SNR: 10.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3206000
+Heave     : 1.841 m
+Hs        : 0.098 m
+Tp        : 2.80 s
+Roll      : -3.99 deg
+Pitch     : -2.21 deg
+Status    : TENANG
+CRC       : 2259
+
+Raw Payload: 3208000,1.845,0.092,2.80,-4.25,-2.34,TENANG,2253
+RSSI: -34 dBm | SNR: 9.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3208000
+Heave     : 1.845 m
+Hs        : 0.092 m
+Tp        : 2.80 s
+Roll      : -4.25 deg
+Pitch     : -2.34 deg
+Status    : TENANG
+CRC       : 2253
+
+Sending JSON to Google Sheets: {"timestamp":"3208000","heave":1.845,"hs":0.092,"tp":2.80,"roll":-4.25,"pitch":-2.34,"status":"TENANG","rssi":-34,"snr":9.25,"crc":2253,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+TIMEOUT: Data LoRa tidak diterima lebih dari 5 detik.
+Gateway masuk mode WAITING.
+LED biru menyala terus.
+
+Raw Payload: 3216000,1.846,0.094,2.80,-4.12,-2.59,TENANG,2258
+RSSI: -34 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3216000
+Heave     : 1.846 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -4.12 deg
+Pitch     : -2.59 deg
+Status    : TENANG
+CRC       : 2258
+
+Raw Payload: 3218000,1.843,0.094,2.80,-4.04,-2.49,TENANG,2257
+RSSI: -34 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3218000
+Heave     : 1.843 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -4.04 deg
+Pitch     : -2.49 deg
+Status    : TENANG
+CRC       : 2257
+
+Sending JSON to Google Sheets: {"timestamp":"3218000","heave":1.843,"hs":0.094,"tp":2.80,"roll":-4.04,"pitch":-2.49,"status":"TENANG","rssi":-34,"snr":10.00,"crc":2257,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3222000,1.836,0.093,2.80,-4.08,-2.46,TENANG,2254
+RSSI: -34 dBm | SNR: 10.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3222000
+Heave     : 1.836 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -4.08 deg
+Pitch     : -2.46 deg
+Status    : TENANG
+CRC       : 2254
+
+Raw Payload: 3224000,1.838,0.093,2.80,-4.09,-2.48,TENANG,2261
+RSSI: -34 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3224000
+Heave     : 1.838 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -4.09 deg
+Pitch     : -2.48 deg
+Status    : TENANG
+CRC       : 2261
+
+Raw Payload: 3226000,1.838,0.092,2.80,-3.99,-2.40,TENANG,2262
+RSSI: -33 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3226000
+Heave     : 1.838 m
+Hs        : 0.092 m
+Tp        : 2.80 s
+Roll      : -3.99 deg
+Pitch     : -2.40 deg
+Status    : TENANG
+CRC       : 2262
+
+Raw Payload: 3228000,1.838,0.094,2.80,-4.15,-2.35,TENANG,2259
+RSSI: -34 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3228000
+Heave     : 1.838 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -4.15 deg
+Pitch     : -2.35 deg
+Status    : TENANG
+CRC       : 2259
+
+Sending JSON to Google Sheets: {"timestamp":"3228000","heave":1.838,"hs":0.094,"tp":2.80,"roll":-4.15,"pitch":-2.35,"status":"TENANG","rssi":-34,"snr":9.75,"crc":2259,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+TIMEOUT: Data LoRa tidak diterima lebih dari 5 detik.
+Gateway masuk mode WAITING.
+LED biru menyala terus.
+
+Raw Payload: 3234000,1.843,0.093,2.80,-4.06,-2.44,TENANG,2251
+RSSI: -33 dBm | SNR: 8.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3234000
+Heave     : 1.843 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -4.06 deg
+Pitch     : -2.44 deg
+Status    : TENANG
+CRC       : 2251
+
+Raw Payload: 3236000,1.839,0.095,2.80,-4.07,-2.43,TENANG,2260
+RSSI: -33 dBm | SNR: 9.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3236000
+Heave     : 1.839 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -4.07 deg
+Pitch     : -2.43 deg
+Status    : TENANG
+CRC       : 2260
+
+Raw Payload: 3238000,1.842,0.091,2.80,-3.94,-2.43,TENANG,2257
+RSSI: -33 dBm | SNR: 8.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3238000
+Heave     : 1.842 m
+Hs        : 0.091 m
+Tp        : 2.80 s
+Roll      : -3.94 deg
+Pitch     : -2.43 deg
+Status    : TENANG
+CRC       : 2257
+
+Sending JSON to Google Sheets: {"timestamp":"3238000","heave":1.842,"hs":0.091,"tp":2.80,"roll":-3.94,"pitch":-2.43,"status":"TENANG","rssi":-33,"snr":8.25,"crc":2257,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3242000,1.838,0.096,2.80,-4.12,-2.49,TENANG,2259
+RSSI: -34 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3242000
+Heave     : 1.838 m
+Hs        : 0.096 m
+Tp        : 2.80 s
+Roll      : -4.12 deg
+Pitch     : -2.49 deg
+Status    : TENANG
+CRC       : 2259
+
+Raw Payload: 3244000,1.833,0.096,2.80,-4.14,-2.60,TENANG,2251
+RSSI: -33 dBm | SNR: 10.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3244000
+Heave     : 1.833 m
+Hs        : 0.096 m
+Tp        : 2.80 s
+Roll      : -4.14 deg
+Pitch     : -2.60 deg
+Status    : TENANG
+CRC       : 2251
+
+Raw Payload: 3246000,1.835,0.092,2.80,-3.92,-2.42,TENANG,2256
+RSSI: -33 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3246000
+Heave     : 1.835 m
+Hs        : 0.092 m
+Tp        : 2.80 s
+Roll      : -3.92 deg
+Pitch     : -2.42 deg
+Status    : TENANG
+CRC       : 2256
+
+Raw Payload: 3248000,1.836,0.093,2.80,-4.02,-2.61,TENANG,2253
+RSSI: -35 dBm | SNR: 6.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3248000
+Heave     : 1.836 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -4.02 deg
+Pitch     : -2.61 deg
+Status    : TENANG
+CRC       : 2253
+
+Sending JSON to Google Sheets: {"timestamp":"3248000","heave":1.836,"hs":0.093,"tp":2.80,"roll":-4.02,"pitch":-2.61,"status":"TENANG","rssi":-35,"snr":6.25,"crc":2253,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+TIMEOUT: Data LoRa tidak diterima lebih dari 5 detik.
+Gateway masuk mode WAITING.
+LED biru menyala terus.
+
+Raw Payload: 3254000,1.841,0.092,2.80,-4.10,-2.44,TENANG,2245
+RSSI: -34 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3254000
+Heave     : 1.841 m
+Hs        : 0.092 m
+Tp        : 2.80 s
+Roll      : -4.10 deg
+Pitch     : -2.44 deg
+Status    : TENANG
+CRC       : 2245
+
+Raw Payload: 3256000,1.840,0.097,2.80,-3.93,-2.40,TENANG,2257
+RSSI: -34 dBm | SNR: 8.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3256000
+Heave     : 1.840 m
+Hs        : 0.097 m
+Tp        : 2.80 s
+Roll      : -3.93 deg
+Pitch     : -2.40 deg
+Status    : TENANG
+CRC       : 2257
+
+Raw Payload: 3258000,1.840,0.094,2.80,-3.91,-2.57,TENANG,2262
+RSSI: -35 dBm | SNR: 8.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3258000
+Heave     : 1.840 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -3.91 deg
+Pitch     : -2.57 deg
+Status    : TENANG
+CRC       : 2262
+
+Sending JSON to Google Sheets: {"timestamp":"3258000","heave":1.840,"hs":0.094,"tp":2.80,"roll":-3.91,"pitch":-2.57,"status":"TENANG","rssi":-35,"snr":8.25,"crc":2262,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+TIMEOUT: Data LoRa tidak diterima lebih dari 5 detik.
+Gateway masuk mode WAITING.
+LED biru menyala terus.
+
+Raw Payload: 3268000,1.844,0.092,2.80,-4.10,-2.39,TENANG,2257
+RSSI: -34 dBm | SNR: 6.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3268000
+Heave     : 1.844 m
+Hs        : 0.092 m
+Tp        : 2.80 s
+Roll      : -4.10 deg
+Pitch     : -2.39 deg
+Status    : TENANG
+CRC       : 2257
+
+Sending JSON to Google Sheets: {"timestamp":"3268000","heave":1.844,"hs":0.092,"tp":2.80,"roll":-4.10,"pitch":-2.39,"status":"TENANG","rssi":-34,"snr":6.75,"crc":2257,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3272000,1.837,0.093,2.80,-4.14,-2.62,TENANG,2255
+RSSI: -33 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3272000
+Heave     : 1.837 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -4.14 deg
+Pitch     : -2.62 deg
+Status    : TENANG
+CRC       : 2255
+
+Raw Payload: 3274000,1.842,0.093,2.80,-3.99,-2.71,TENANG,2265
+RSSI: -33 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3274000
+Heave     : 1.842 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -3.99 deg
+Pitch     : -2.71 deg
+Status    : TENANG
+CRC       : 2265
+
+Raw Payload: 3276000,1.839,0.096,2.80,-4.16,-2.63,TENANG,2267
+RSSI: -33 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3276000
+Heave     : 1.839 m
+Hs        : 0.096 m
+Tp        : 2.80 s
+Roll      : -4.16 deg
+Pitch     : -2.63 deg
+Status    : TENANG
+CRC       : 2267
+
+Raw Payload: 3278000,1.836,0.097,2.80,-4.08,-2.62,TENANG,2267
+RSSI: -33 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3278000
+Heave     : 1.836 m
+Hs        : 0.097 m
+Tp        : 2.80 s
+Roll      : -4.08 deg
+Pitch     : -2.62 deg
+Status    : TENANG
+CRC       : 2267
+
+Raw Payload: 3280000,1.840,0.093,2.80,-3.91,-2.44,TENANG,2252
+RSSI: -34 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3280000
+Heave     : 1.840 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -3.91 deg
+Pitch     : -2.44 deg
+Status    : TENANG
+CRC       : 2252
+
+Sending JSON to Google Sheets: {"timestamp":"3280000","heave":1.840,"hs":0.093,"tp":2.80,"roll":-3.91,"pitch":-2.44,"status":"TENANG","rssi":-34,"snr":9.75,"crc":2252,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3284000,1.844,0.093,2.80,-4.01,-2.35,TENANG,2252
+RSSI: -34 dBm | SNR: 9.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3284000
+Heave     : 1.844 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -4.01 deg
+Pitch     : -2.35 deg
+Status    : TENANG
+CRC       : 2252
+
+Raw Payload: 3286000,1.843,0.096,2.80,-3.92,-2.45,TENANG,2266
+RSSI: -33 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3286000
+Heave     : 1.843 m
+Hs        : 0.096 m
+Tp        : 2.80 s
+Roll      : -3.92 deg
+Pitch     : -2.45 deg
+Status    : TENANG
+CRC       : 2266
+
+Raw Payload: 3288000,1.843,0.095,2.80,-3.90,-2.59,TENANG,2270
+RSSI: -34 dBm | SNR: 8.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3288000
+Heave     : 1.843 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -3.90 deg
+Pitch     : -2.59 deg
+Status    : TENANG
+CRC       : 2270
+
+Raw Payload: 3290000,1.844,0.093,2.80,-3.86,-2.48,TENANG,2265
+RSSI: -33 dBm | SNR: 7.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3290000
+Heave     : 1.844 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -3.86 deg
+Pitch     : -2.48 deg
+Status    : TENANG
+CRC       : 2265
+
+Sending JSON to Google Sheets: {"timestamp":"3290000","heave":1.844,"hs":0.093,"tp":2.80,"roll":-3.86,"pitch":-2.48,"status":"TENANG","rssi":-33,"snr":7.25,"crc":2265,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3294000,1.832,0.094,2.80,-4.29,-2.36,TENANG,2262
+RSSI: -33 dBm | SNR: 8.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3294000
+Heave     : 1.832 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -4.29 deg
+Pitch     : -2.36 deg
+Status    : TENANG
+CRC       : 2262
+
+Raw Payload: 3296000,1.840,0.093,2.80,-3.95,-2.67,TENANG,2268
+RSSI: -34 dBm | SNR: 8.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3296000
+Heave     : 1.840 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -3.95 deg
+Pitch     : -2.67 deg
+Status    : TENANG
+CRC       : 2268
+
+Raw Payload: 3298000,1.838,0.094,2.80,-4.17,-2.43,TENANG,2267
+RSSI: -33 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3298000
+Heave     : 1.838 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -4.17 deg
+Pitch     : -2.43 deg
+Status    : TENANG
+CRC       : 2267
+
+Raw Payload: 3300000,1.836,0.093,2.80,-4.15,-2.32,TENANG,2244
+RSSI: -34 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3300000
+Heave     : 1.836 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -4.15 deg
+Pitch     : -2.32 deg
+Status    : TENANG
+CRC       : 2244
+
+Sending JSON to Google Sheets: {"timestamp":"3300000","heave":1.836,"hs":0.093,"tp":2.80,"roll":-4.15,"pitch":-2.32,"status":"TENANG","rssi":-34,"snr":9.75,"crc":2244,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3304000,1.846,0.093,2.80,-3.80,-2.55,TENANG,2255
+RSSI: -34 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3304000
+Heave     : 1.846 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -3.80 deg
+Pitch     : -2.55 deg
+Status    : TENANG
+CRC       : 2255
+
+Raw Payload: 3306000,1.847,0.094,2.80,-4.12,-2.45,TENANG,2254
+RSSI: -33 dBm | SNR: 6.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3306000
+Heave     : 1.847 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -4.12 deg
+Pitch     : -2.45 deg
+Status    : TENANG
+CRC       : 2254
+
+Raw Payload: 3308000,1.846,0.091,2.80,-4.07,-2.55,TENANG,2257
+RSSI: -34 dBm | SNR: 6.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3308000
+Heave     : 1.846 m
+Hs        : 0.091 m
+Tp        : 2.80 s
+Roll      : -4.07 deg
+Pitch     : -2.55 deg
+Status    : TENANG
+CRC       : 2257
+
+Raw Payload: 3310000,1.848,0.092,2.80,-4.14,-2.63,TENANG,2250
+RSSI: -34 dBm | SNR: 7.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3310000
+Heave     : 1.848 m
+Hs        : 0.092 m
+Tp        : 2.80 s
+Roll      : -4.14 deg
+Pitch     : -2.63 deg
+Status    : TENANG
+CRC       : 2250
+
+Sending JSON to Google Sheets: {"timestamp":"3310000","heave":1.848,"hs":0.092,"tp":2.80,"roll":-4.14,"pitch":-2.63,"status":"TENANG","rssi":-34,"snr":7.75,"crc":2250,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3314000,1.842,0.097,2.80,-4.23,-2.69,TENANG,2259
+RSSI: -33 dBm | SNR: 8.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3314000
+Heave     : 1.842 m
+Hs        : 0.097 m
+Tp        : 2.80 s
+Roll      : -4.23 deg
+Pitch     : -2.69 deg
+Status    : TENANG
+CRC       : 2259
+
+Raw Payload: 3316000,1.838,0.094,2.80,-4.24,-2.54,TENANG,2258
+RSSI: -32 dBm | SNR: 7.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3316000
+Heave     : 1.838 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -4.24 deg
+Pitch     : -2.54 deg
+Status    : TENANG
+CRC       : 2258
+
+Raw Payload: 3318000,1.839,0.092,2.80,-4.39,-2.18,TENANG,2265
+RSSI: -33 dBm | SNR: 7.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3318000
+Heave     : 1.839 m
+Hs        : 0.092 m
+Tp        : 2.80 s
+Roll      : -4.39 deg
+Pitch     : -2.18 deg
+Status    : TENANG
+CRC       : 2265
+
+Raw Payload: 3320000,1.847,0.095,2.80,-4.07,-2.53,TENANG,2254
+RSSI: -32 dBm | SNR: 7.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3320000
+Heave     : 1.847 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -4.07 deg
+Pitch     : -2.53 deg
+Status    : TENANG
+CRC       : 2254
+
+Sending JSON to Google Sheets: {"timestamp":"3320000","heave":1.847,"hs":0.095,"tp":2.80,"roll":-4.07,"pitch":-2.53,"status":"TENANG","rssi":-32,"snr":7.25,"crc":2254,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3324000,1.844,0.093,2.80,-4.00,-2.57,TENANG,2250
+RSSI: -32 dBm | SNR: 7.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3324000
+Heave     : 1.844 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -4.00 deg
+Pitch     : -2.57 deg
+Status    : TENANG
+CRC       : 2250
+
+Raw Payload: 3326000,1.846,0.096,2.80,-4.04,-2.41,TENANG,2254
+RSSI: -34 dBm | SNR: 8.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3326000
+Heave     : 1.846 m
+Hs        : 0.096 m
+Tp        : 2.80 s
+Roll      : -4.04 deg
+Pitch     : -2.41 deg
+Status    : TENANG
+CRC       : 2254
+
+Raw Payload: 3328000,1.841,0.098,2.80,-4.04,-2.60,TENANG,2254
+RSSI: -33 dBm | SNR: 9.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3328000
+Heave     : 1.841 m
+Hs        : 0.098 m
+Tp        : 2.80 s
+Roll      : -4.04 deg
+Pitch     : -2.60 deg
+Status    : TENANG
+CRC       : 2254
+
+Raw Payload: 3330000,1.845,0.091,2.80,-4.09,-2.49,TENANG,2256
+RSSI: -33 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3330000
+Heave     : 1.845 m
+Hs        : 0.091 m
+Tp        : 2.80 s
+Roll      : -4.09 deg
+Pitch     : -2.49 deg
+Status    : TENANG
+CRC       : 2256
+
+Sending JSON to Google Sheets: {"timestamp":"3330000","heave":1.845,"hs":0.091,"tp":2.80,"roll":-4.09,"pitch":-2.49,"status":"TENANG","rssi":-33,"snr":10.00,"crc":2256,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3334000,1.839,0.098,2.80,-4.17,-2.55,TENANG,2266
+RSSI: -34 dBm | SNR: 8.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3334000
+Heave     : 1.839 m
+Hs        : 0.098 m
+Tp        : 2.80 s
+Roll      : -4.17 deg
+Pitch     : -2.55 deg
+Status    : TENANG
+CRC       : 2266
+
+Raw Payload: 3336000,1.831,0.091,2.80,-4.09,-2.53,TENANG,2252
+RSSI: -34 dBm | SNR: 7.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3336000
+Heave     : 1.831 m
+Hs        : 0.091 m
+Tp        : 2.80 s
+Roll      : -4.09 deg
+Pitch     : -2.53 deg
+Status    : TENANG
+CRC       : 2252
+
+Raw Payload: 3338000,1.833,0.094,2.80,-4.22,-2.74,TENANG,2257
+RSSI: -34 dBm | SNR: 7.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3338000
+Heave     : 1.833 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -4.22 deg
+Pitch     : -2.74 deg
+Status    : TENANG
+CRC       : 2257
+
+Raw Payload: 3340000,1.832,0.093,2.80,-3.95,-2.37,TENANG,2256
+RSSI: -32 dBm | SNR: 9.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3340000
+Heave     : 1.832 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -3.95 deg
+Pitch     : -2.37 deg
+Status    : TENANG
+CRC       : 2256
+
+Sending JSON to Google Sheets: {"timestamp":"3340000","heave":1.832,"hs":0.093,"tp":2.80,"roll":-3.95,"pitch":-2.37,"status":"TENANG","rssi":-32,"snr":9.00,"crc":2256,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+TIMEOUT: Data LoRa tidak diterima lebih dari 5 detik.
+Gateway masuk mode WAITING.
+LED biru menyala terus.
+
+Raw Payload: 3346000,1.834,0.093,2.80,-3.76,-2.32,TENANG,2258
+RSSI: -34 dBm | SNR: 8.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3346000
+Heave     : 1.834 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -3.76 deg
+Pitch     : -2.32 deg
+Status    : TENANG
+CRC       : 2258
+
+Raw Payload: 3348000,1.838,0.091,2.80,-4.05,-2.51,TENANG,2256
+RSSI: -34 dBm | SNR: 7.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3348000
+Heave     : 1.838 m
+Hs        : 0.091 m
+Tp        : 2.80 s
+Roll      : -4.05 deg
+Pitch     : -2.51 deg
+Status    : TENANG
+CRC       : 2256
+
+Raw Payload: 3350000,1.836,0.097,2.80,-3.89,-2.87,TENANG,2273
+RSSI: -34 dBm | SNR: 8.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3350000
+Heave     : 1.836 m
+Hs        : 0.097 m
+Tp        : 2.80 s
+Roll      : -3.89 deg
+Pitch     : -2.87 deg
+Status    : TENANG
+CRC       : 2273
+
+Sending JSON to Google Sheets: {"timestamp":"3350000","heave":1.836,"hs":0.097,"tp":2.80,"roll":-3.89,"pitch":-2.87,"status":"TENANG","rssi":-34,"snr":8.25,"crc":2273,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+TIMEOUT: Data LoRa tidak diterima lebih dari 5 detik.
+Gateway masuk mode WAITING.
+LED biru menyala terus.
+
+Raw Payload: 3362000,1.837,0.093,2.80,-3.95,-2.40,TENANG,2259
+RSSI: -33 dBm | SNR: 6.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3362000
+Heave     : 1.837 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -3.95 deg
+Pitch     : -2.40 deg
+Status    : TENANG
+CRC       : 2259
+
+Sending JSON to Google Sheets: {"timestamp":"3362000","heave":1.837,"hs":0.093,"tp":2.80,"roll":-3.95,"pitch":-2.40,"status":"TENANG","rssi":-33,"snr":6.00,"crc":2259,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+TIMEOUT: Data LoRa tidak diterima lebih dari 5 detik.
+Gateway masuk mode WAITING.
+LED biru menyala terus.
+
+Raw Payload: 3370000,1.850,0.097,2.80,-4.06,-2.50,TENANG,2251
+RSSI: -35 dBm | SNR: 8.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3370000
+Heave     : 1.850 m
+Hs        : 0.097 m
+Tp        : 2.80 s
+Roll      : -4.06 deg
+Pitch     : -2.50 deg
+Status    : TENANG
+CRC       : 2251
+
+Raw Payload: 3372000,1.850,0.095,2.80,-4.10,-2.62,TENANG,2249
+RSSI: -32 dBm | SNR: 8.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3372000
+Heave     : 1.850 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -4.10 deg
+Pitch     : -2.62 deg
+Status    : TENANG
+CRC       : 2249
+
+Raw Payload: 3374000,1.847,0.095,2.80,-4.04,-2.36,TENANG,2261
+RSSI: -34 dBm | SNR: 8.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3374000
+Heave     : 1.847 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -4.04 deg
+Pitch     : -2.36 deg
+Status    : TENANG
+CRC       : 2261
+
+Sending JSON to Google Sheets: {"timestamp":"3374000","heave":1.847,"hs":0.095,"tp":2.80,"roll":-4.04,"pitch":-2.36,"status":"TENANG","rssi":-34,"snr":8.50,"crc":2261,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3378000,1.843,0.095,2.80,-4.00,-2.60,TENANG,2254
+RSSI: -34 dBm | SNR: 6.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3378000
+Heave     : 1.843 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -4.00 deg
+Pitch     : -2.60 deg
+Status    : TENANG
+CRC       : 2254
+
+Raw Payload: 3380000,1.840,0.096,2.80,-4.18,-2.54,TENANG,2257
+RSSI: -34 dBm | SNR: 9.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3380000
+Heave     : 1.840 m
+Hs        : 0.096 m
+Tp        : 2.80 s
+Roll      : -4.18 deg
+Pitch     : -2.54 deg
+Status    : TENANG
+CRC       : 2257
+
+Raw Payload: 3382000,1.842,0.097,2.80,-4.18,-2.48,TENANG,2265
+RSSI: -34 dBm | SNR: 8.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3382000
+Heave     : 1.842 m
+Hs        : 0.097 m
+Tp        : 2.80 s
+Roll      : -4.18 deg
+Pitch     : -2.48 deg
+Status    : TENANG
+CRC       : 2265
+
+Raw Payload: 3384000,1.841,0.095,2.80,-4.21,-2.47,TENANG,2257
+RSSI: -33 dBm | SNR: 8.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3384000
+Heave     : 1.841 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -4.21 deg
+Pitch     : -2.47 deg
+Status    : TENANG
+CRC       : 2257
+
+Sending JSON to Google Sheets: {"timestamp":"3384000","heave":1.841,"hs":0.095,"tp":2.80,"roll":-4.21,"pitch":-2.47,"status":"TENANG","rssi":-33,"snr":8.00,"crc":2257,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3388000,1.836,0.090,2.80,-3.92,-2.54,TENANG,2265
+RSSI: -33 dBm | SNR: 8.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3388000
+Heave     : 1.836 m
+Hs        : 0.090 m
+Tp        : 2.80 s
+Roll      : -3.92 deg
+Pitch     : -2.54 deg
+Status    : TENANG
+CRC       : 2265
+
+Raw Payload: 3390000,1.834,0.092,2.80,-3.98,-2.72,TENANG,2264
+RSSI: -32 dBm | SNR: 8.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3390000
+Heave     : 1.834 m
+Hs        : 0.092 m
+Tp        : 2.80 s
+Roll      : -3.98 deg
+Pitch     : -2.72 deg
+Status    : TENANG
+CRC       : 2264
+
+Raw Payload: 3392000,1.834,0.095,2.80,-3.98,-2.63,TENANG,2269
+RSSI: -35 dBm | SNR: 7.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3392000
+Heave     : 1.834 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -3.98 deg
+Pitch     : -2.63 deg
+Status    : TENANG
+CRC       : 2269
+
+Raw Payload: 3394000,1.838,0.091,2.80,-4.01,-2.27,TENANG,2256
+RSSI: -33 dBm | SNR: 7.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3394000
+Heave     : 1.838 m
+Hs        : 0.091 m
+Tp        : 2.80 s
+Roll      : -4.01 deg
+Pitch     : -2.27 deg
+Status    : TENANG
+CRC       : 2256
+
+Sending JSON to Google Sheets: {"timestamp":"3394000","heave":1.838,"hs":0.091,"tp":2.80,"roll":-4.01,"pitch":-2.27,"status":"TENANG","rssi":-33,"snr":7.75,"crc":2256,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3398000,1.841,0.092,2.80,-4.02,-2.39,TENANG,2259
+RSSI: -34 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3398000
+Heave     : 1.841 m
+Hs        : 0.092 m
+Tp        : 2.80 s
+Roll      : -4.02 deg
+Pitch     : -2.39 deg
+Status    : TENANG
+CRC       : 2259
+
+Raw Payload: 3400000,1.838,0.095,2.80,-4.15,-2.63,TENANG,2253
+RSSI: -34 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3400000
+Heave     : 1.838 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -4.15 deg
+Pitch     : -2.63 deg
+Status    : TENANG
+CRC       : 2253
+
+Raw Payload: 3402000,1.836,0.094,2.80,-3.97,-2.63,TENANG,2261
+RSSI: -34 dBm | SNR: 9.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3402000
+Heave     : 1.836 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -3.97 deg
+Pitch     : -2.63 deg
+Status    : TENANG
+CRC       : 2261
+
+Raw Payload: 3404000,1.837,0.091,2.80,-4.16,-2.53,TENANG,2252
+RSSI: -33 dBm | SNR: 7.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3404000
+Heave     : 1.837 m
+Hs        : 0.091 m
+Tp        : 2.80 s
+Roll      : -4.16 deg
+Pitch     : -2.53 deg
+Status    : TENANG
+CRC       : 2252
+
+Sending JSON to Google Sheets: {"timestamp":"3404000","heave":1.837,"hs":0.091,"tp":2.80,"roll":-4.16,"pitch":-2.53,"status":"TENANG","rssi":-33,"snr":7.50,"crc":2252,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+TIMEOUT: Data LoRa tidak diterima lebih dari 5 detik.
+Gateway masuk mode WAITING.
+LED biru menyala terus.
+
+Raw Payload: 3410000,1.842,0.089,2.80,-4.07,-2.65,TENANG,2255
+RSSI: -35 dBm | SNR: 7.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3410000
+Heave     : 1.842 m
+Hs        : 0.089 m
+Tp        : 2.80 s
+Roll      : -4.07 deg
+Pitch     : -2.65 deg
+Status    : TENANG
+CRC       : 2255
+
+Raw Payload: 3412000,1.842,0.095,2.80,-4.04,-2.39,TENANG,2252
+RSSI: -33 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3412000
+Heave     : 1.842 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -4.04 deg
+Pitch     : -2.39 deg
+Status    : TENANG
+CRC       : 2252
+
+Raw Payload: 3414000,1.843,0.090,2.80,-4.18,-2.49,TENANG,2256
+RSSI: -34 dBm | SNR: 8.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3414000
+Heave     : 1.843 m
+Hs        : 0.090 m
+Tp        : 2.80 s
+Roll      : -4.18 deg
+Pitch     : -2.49 deg
+Status    : TENANG
+CRC       : 2256
+
+Sending JSON to Google Sheets: {"timestamp":"3414000","heave":1.843,"hs":0.090,"tp":2.80,"roll":-4.18,"pitch":-2.49,"status":"TENANG","rssi":-34,"snr":8.75,"crc":2256,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3418000,1.840,0.094,2.80,-4.09,-2.52,TENANG,2255
+RSSI: -33 dBm | SNR: 7.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3418000
+Heave     : 1.840 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -4.09 deg
+Pitch     : -2.52 deg
+Status    : TENANG
+CRC       : 2255
+
+Raw Payload: 3420000,1.846,0.092,2.80,-4.06,-2.61,TENANG,2249
+RSSI: -34 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3420000
+Heave     : 1.846 m
+Hs        : 0.092 m
+Tp        : 2.80 s
+Roll      : -4.06 deg
+Pitch     : -2.61 deg
+Status    : TENANG
+CRC       : 2249
+
+Raw Payload: 3422000,1.845,0.095,2.80,-3.95,-2.55,TENANG,2263
+RSSI: -34 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3422000
+Heave     : 1.845 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -3.95 deg
+Pitch     : -2.55 deg
+Status    : TENANG
+CRC       : 2263
+
+Raw Payload: 3424000,1.843,0.095,2.80,-4.00,-2.43,TENANG,2247
+RSSI: -34 dBm | SNR: 9.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3424000
+Heave     : 1.843 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -4.00 deg
+Pitch     : -2.43 deg
+Status    : TENANG
+CRC       : 2247
+
+Sending JSON to Google Sheets: {"timestamp":"3424000","heave":1.843,"hs":0.095,"tp":2.80,"roll":-4.00,"pitch":-2.43,"status":"TENANG","rssi":-34,"snr":9.25,"crc":2247,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: -1
+Google Sheets Response: 
+Google Sheets: failed to send data.
+
+TIMEOUT: Data LoRa tidak diterima lebih dari 5 detik.
+Gateway masuk mode WAITING.
+LED biru menyala terus.
+
+Raw Payload: 3430000,1.847,0.095,2.80,-3.83,-2.57,TENANG,2263
+RSSI: -34 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3430000
+Heave     : 1.847 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -3.83 deg
+Pitch     : -2.57 deg
+Status    : TENANG
+CRC       : 2263
+
+Raw Payload: 3432000,1.840,0.097,2.80,-4.05,-2.69,TENANG,2258
+RSSI: -34 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3432000
+Heave     : 1.840 m
+Hs        : 0.097 m
+Tp        : 2.80 s
+Roll      : -4.05 deg
+Pitch     : -2.69 deg
+Status    : TENANG
+CRC       : 2258
+
+Raw Payload: 3434000,1.839,0.091,2.80,-3.90,-2.40,TENANG,2254
+RSSI: -34 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3434000
+Heave     : 1.839 m
+Hs        : 0.091 m
+Tp        : 2.80 s
+Roll      : -3.90 deg
+Pitch     : -2.40 deg
+Status    : TENANG
+CRC       : 2254
+
+Sending JSON to Google Sheets: {"timestamp":"3434000","heave":1.839,"hs":0.091,"tp":2.80,"roll":-3.90,"pitch":-2.40,"status":"TENANG","rssi":-34,"snr":9.75,"crc":2254,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3438000,1.844,0.093,2.80,-4.06,-2.43,TENANG,2257
+RSSI: -33 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3438000
+Heave     : 1.844 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -4.06 deg
+Pitch     : -2.43 deg
+Status    : TENANG
+CRC       : 2257
+
+Raw Payload: 3440000,1.842,0.096,2.80,-4.39,-2.01,TENANG,2251
+RSSI: -33 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3440000
+Heave     : 1.842 m
+Hs        : 0.096 m
+Tp        : 2.80 s
+Roll      : -4.39 deg
+Pitch     : -2.01 deg
+Status    : TENANG
+CRC       : 2251
+
+Raw Payload: 3442000,1.845,0.092,2.80,-4.10,-2.75,TENANG,2252
+RSSI: -35 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3442000
+Heave     : 1.845 m
+Hs        : 0.092 m
+Tp        : 2.80 s
+Roll      : -4.10 deg
+Pitch     : -2.75 deg
+Status    : TENANG
+CRC       : 2252
+
+Raw Payload: 3444000,1.845,0.095,2.80,-3.95,-2.55,TENANG,2267
+RSSI: -36 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3444000
+Heave     : 1.845 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -3.95 deg
+Pitch     : -2.55 deg
+Status    : TENANG
+CRC       : 2267
+
+Sending JSON to Google Sheets: {"timestamp":"3444000","heave":1.845,"hs":0.095,"tp":2.80,"roll":-3.95,"pitch":-2.55,"status":"TENANG","rssi":-36,"snr":9.75,"crc":2267,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3448000,1.839,0.097,2.80,-3.96,-2.35,TENANG,2275
+RSSI: -39 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3448000
+Heave     : 1.839 m
+Hs        : 0.097 m
+Tp        : 2.80 s
+Roll      : -3.96 deg
+Pitch     : -2.35 deg
+Status    : TENANG
+CRC       : 2275
+
+Raw Payload: 3450000,1.839,0.094,2.80,-3.96,-2.60,TENANG,2263
+RSSI: -39 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3450000
+Heave     : 1.839 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -3.96 deg
+Pitch     : -2.60 deg
+Status    : TENANG
+CRC       : 2263
+
+Raw Payload: 3452000,1.837,0.095,2.80,-3.88,-2.53,TENANG,2267
+RSSI: -40 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3452000
+Heave     : 1.837 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -3.88 deg
+Pitch     : -2.53 deg
+Status    : TENANG
+CRC       : 2267
+
+Raw Payload: 3454000,1.835,0.094,2.80,-4.07,-2.64,TENANG,2260
+RSSI: -39 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3454000
+Heave     : 1.835 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -4.07 deg
+Pitch     : -2.64 deg
+Status    : TENANG
+CRC       : 2260
+
+Sending JSON to Google Sheets: {"timestamp":"3454000","heave":1.835,"hs":0.094,"tp":2.80,"roll":-4.07,"pitch":-2.64,"status":"TENANG","rssi":-39,"snr":9.75,"crc":2260,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+TIMEOUT: Data LoRa tidak diterima lebih dari 5 detik.
+Gateway masuk mode WAITING.
+LED biru menyala terus.
+
+Raw Payload: 3462000,1.841,0.095,2.80,-3.96,-2.54,TENANG,2263
+RSSI: -39 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3462000
+Heave     : 1.841 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -3.96 deg
+Pitch     : -2.54 deg
+Status    : TENANG
+CRC       : 2263
+
+Raw Payload: 3464000,1.842,0.096,2.80,-4.12,-2.49,TENANG,2260
+RSSI: -40 dBm | SNR: 8.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3464000
+Heave     : 1.842 m
+Hs        : 0.096 m
+Tp        : 2.80 s
+Roll      : -4.12 deg
+Pitch     : -2.49 deg
+Status    : TENANG
+CRC       : 2260
+
+Sending JSON to Google Sheets: {"timestamp":"3464000","heave":1.842,"hs":0.096,"tp":2.80,"roll":-4.12,"pitch":-2.49,"status":"TENANG","rssi":-40,"snr":8.00,"crc":2260,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3468000,1.842,0.096,2.80,-4.02,-2.49,TENANG,2263
+RSSI: -41 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3468000
+Heave     : 1.842 m
+Hs        : 0.096 m
+Tp        : 2.80 s
+Roll      : -4.02 deg
+Pitch     : -2.49 deg
+Status    : TENANG
+CRC       : 2263
+
+Raw Payload: 3470000,1.843,0.095,2.80,-3.92,-2.43,TENANG,2258
+RSSI: -40 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3470000
+Heave     : 1.843 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -3.92 deg
+Pitch     : -2.43 deg
+Status    : TENANG
+CRC       : 2258
+
+Raw Payload: 3472000,1.845,0.093,2.80,-3.79,-2.54,TENANG,2267
+RSSI: -40 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3472000
+Heave     : 1.845 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -3.79 deg
+Pitch     : -2.54 deg
+Status    : TENANG
+CRC       : 2267
+
+Raw Payload: 3474000,1.842,0.095,2.80,-3.94,-2.28,TENANG,2266
+RSSI: -41 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3474000
+Heave     : 1.842 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -3.94 deg
+Pitch     : -2.28 deg
+Status    : TENANG
+CRC       : 2266
+
+Sending JSON to Google Sheets: {"timestamp":"3474000","heave":1.842,"hs":0.095,"tp":2.80,"roll":-3.94,"pitch":-2.28,"status":"TENANG","rssi":-41,"snr":9.75,"crc":2266,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3478000,1.847,0.095,2.80,-4.13,-2.17,TENANG,2265
+RSSI: -40 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3478000
+Heave     : 1.847 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -4.13 deg
+Pitch     : -2.17 deg
+Status    : TENANG
+CRC       : 2265
+
+Raw Payload: 3480000,1.856,0.100,2.80,-3.84,-2.18,TENANG,2253
+RSSI: -39 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3480000
+Heave     : 1.856 m
+Hs        : 0.100 m
+Tp        : 2.80 s
+Roll      : -3.84 deg
+Pitch     : -2.18 deg
+Status    : TENANG
+CRC       : 2253
+
+Raw Payload: 3482000,1.848,0.096,2.80,-3.95,-2.18,TENANG,2272
+RSSI: -40 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3482000
+Heave     : 1.848 m
+Hs        : 0.096 m
+Tp        : 2.80 s
+Roll      : -3.95 deg
+Pitch     : -2.18 deg
+Status    : TENANG
+CRC       : 2272
+
+Raw Payload: 3484000,1.847,0.096,2.80,-4.15,-2.01,TENANG,2258
+RSSI: -40 dBm | SNR: 9.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3484000
+Heave     : 1.847 m
+Hs        : 0.096 m
+Tp        : 2.80 s
+Roll      : -4.15 deg
+Pitch     : -2.01 deg
+Status    : TENANG
+CRC       : 2258
+
+Sending JSON to Google Sheets: {"timestamp":"3484000","heave":1.847,"hs":0.096,"tp":2.80,"roll":-4.15,"pitch":-2.01,"status":"TENANG","rssi":-40,"snr":9.00,"crc":2258,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3488000,1.842,0.094,2.80,-4.03,-2.09,TENANG,2260
+RSSI: -40 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3488000
+Heave     : 1.842 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -4.03 deg
+Pitch     : -2.09 deg
+Status    : TENANG
+CRC       : 2260
+
+Raw Payload: 3490000,1.844,0.091,2.80,-3.89,-2.39,TENANG,2268
+RSSI: -41 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3490000
+Heave     : 1.844 m
+Hs        : 0.091 m
+Tp        : 2.80 s
+Roll      : -3.89 deg
+Pitch     : -2.39 deg
+Status    : TENANG
+CRC       : 2268
+
+Raw Payload: 3492000,1.845,0.092,2.80,-3.88,-2.36,TENANG,2268
+RSSI: -40 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3492000
+Heave     : 1.845 m
+Hs        : 0.092 m
+Tp        : 2.80 s
+Roll      : -3.88 deg
+Pitch     : -2.36 deg
+Status    : TENANG
+CRC       : 2268
+
+Raw Payload: 3494000,1.846,0.094,2.80,-4.10,-2.26,TENANG,2258
+RSSI: -40 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3494000
+Heave     : 1.846 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -4.10 deg
+Pitch     : -2.26 deg
+Status    : TENANG
+CRC       : 2258
+
+Sending JSON to Google Sheets: {"timestamp":"3494000","heave":1.846,"hs":0.094,"tp":2.80,"roll":-4.10,"pitch":-2.26,"status":"TENANG","rssi":-40,"snr":10.00,"crc":2258,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3498000,1.838,0.093,2.80,-3.76,-2.15,TENANG,2271
+RSSI: -40 dBm | SNR: 9.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3498000
+Heave     : 1.838 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -3.76 deg
+Pitch     : -2.15 deg
+Status    : TENANG
+CRC       : 2271
+
+Raw Payload: 3500000,1.840,0.089,2.80,-3.86,-2.26,TENANG,2256
+RSSI: -40 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3500000
+Heave     : 1.840 m
+Hs        : 0.089 m
+Tp        : 2.80 s
+Roll      : -3.86 deg
+Pitch     : -2.26 deg
+Status    : TENANG
+CRC       : 2256
+
+Raw Payload: 3502000,1.837,0.094,2.80,-3.83,-2.31,TENANG,2253
+RSSI: -40 dBm | SNR: 9.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3502000
+Heave     : 1.837 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -3.83 deg
+Pitch     : -2.31 deg
+Status    : TENANG
+CRC       : 2253
+
+Raw Payload: 3504000,1.845,0.092,2.80,-3.86,-2.30,TENANG,2254
+RSSI: -40 dBm | SNR: 10.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3504000
+Heave     : 1.845 m
+Hs        : 0.092 m
+Tp        : 2.80 s
+Roll      : -3.86 deg
+Pitch     : -2.30 deg
+Status    : TENANG
+CRC       : 2254
+
+Sending JSON to Google Sheets: {"timestamp":"3504000","heave":1.845,"hs":0.092,"tp":2.80,"roll":-3.86,"pitch":-2.30,"status":"TENANG","rssi":-40,"snr":10.50,"crc":2254,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3508000,1.853,0.093,2.80,-4.33,-2.24,TENANG,2254
+RSSI: -41 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3508000
+Heave     : 1.853 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -4.33 deg
+Pitch     : -2.24 deg
+Status    : TENANG
+CRC       : 2254
+
+Raw Payload: 3510000,1.850,0.097,2.80,-4.44,-2.31,TENANG,2248
+RSSI: -41 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3510000
+Heave     : 1.850 m
+Hs        : 0.097 m
+Tp        : 2.80 s
+Roll      : -4.44 deg
+Pitch     : -2.31 deg
+Status    : TENANG
+CRC       : 2248
+
+Raw Payload: 3512000,1.841,0.093,2.80,-3.88,-2.31,TENANG,2253
+RSSI: -38 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3512000
+Heave     : 1.841 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -3.88 deg
+Pitch     : -2.31 deg
+Status    : TENANG
+CRC       : 2253
+
+Raw Payload: 3514000,1.841,0.095,2.80,-4.13,-2.16,TENANG,2249
+RSSI: -38 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3514000
+Heave     : 1.841 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -4.13 deg
+Pitch     : -2.16 deg
+Status    : TENANG
+CRC       : 2249
+
+Sending JSON to Google Sheets: {"timestamp":"3514000","heave":1.841,"hs":0.095,"tp":2.80,"roll":-4.13,"pitch":-2.16,"status":"TENANG","rssi":-38,"snr":9.50,"crc":2249,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+TIMEOUT: Data LoRa tidak diterima lebih dari 5 detik.
+Gateway masuk mode WAITING.
+LED biru menyala terus.
+
+Raw Payload: 3520000,1.845,0.091,2.80,-4.22,-2.39,TENANG,2251
+RSSI: -37 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3520000
+Heave     : 1.845 m
+Hs        : 0.091 m
+Tp        : 2.80 s
+Roll      : -4.22 deg
+Pitch     : -2.39 deg
+Status    : TENANG
+CRC       : 2251
+
+Raw Payload: 3522000,1.847,0.093,2.80,-3.86,-2.33,TENANG,2260
+RSSI: -34 dBm | SNR: 8.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3522000
+Heave     : 1.847 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -3.86 deg
+Pitch     : -2.33 deg
+Status    : TENANG
+CRC       : 2260
+
+Raw Payload: 3524000,1.850,0.093,2.80,-3.93,-2.15,TENANG,2254
+RSSI: -34 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3524000
+Heave     : 1.850 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -3.93 deg
+Pitch     : -2.15 deg
+Status    : TENANG
+CRC       : 2254
+
+Sending JSON to Google Sheets: {"timestamp":"3524000","heave":1.850,"hs":0.093,"tp":2.80,"roll":-3.93,"pitch":-2.15,"status":"TENANG","rssi":-34,"snr":10.00,"crc":2254,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+TIMEOUT: Data LoRa tidak diterima lebih dari 5 detik.
+Gateway masuk mode WAITING.
+LED biru menyala terus.
+
+Raw Payload: 3532000,1.850,0.095,2.80,-4.23,-2.40,TENANG,2247
+RSSI: -34 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3532000
+Heave     : 1.850 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -4.23 deg
+Pitch     : -2.40 deg
+Status    : TENANG
+CRC       : 2247
+
+Raw Payload: 3534000,1.849,0.097,2.80,-4.13,-2.16,TENANG,2261
+RSSI: -34 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3534000
+Heave     : 1.849 m
+Hs        : 0.097 m
+Tp        : 2.80 s
+Roll      : -4.13 deg
+Pitch     : -2.16 deg
+Status    : TENANG
+CRC       : 2261
+
+Sending JSON to Google Sheets: {"timestamp":"3534000","heave":1.849,"hs":0.097,"tp":2.80,"roll":-4.13,"pitch":-2.16,"status":"TENANG","rssi":-34,"snr":9.50,"crc":2261,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3538000,1.841,0.096,2.80,-4.08,-2.19,TENANG,2263
+RSSI: -32 dBm | SNR: 9.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3538000
+Heave     : 1.841 m
+Hs        : 0.096 m
+Tp        : 2.80 s
+Roll      : -4.08 deg
+Pitch     : -2.19 deg
+Status    : TENANG
+CRC       : 2263
+
+Raw Payload: 3540000,1.840,0.094,2.80,-4.04,-2.19,TENANG,2249
+RSSI: -33 dBm | SNR: 9.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3540000
+Heave     : 1.840 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -4.04 deg
+Pitch     : -2.19 deg
+Status    : TENANG
+CRC       : 2249
+
+Raw Payload: 3542000,1.842,0.091,2.80,-4.09,-2.20,TENANG,2247
+RSSI: -33 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3542000
+Heave     : 1.842 m
+Hs        : 0.091 m
+Tp        : 2.80 s
+Roll      : -4.09 deg
+Pitch     : -2.20 deg
+Status    : TENANG
+CRC       : 2247
+
+Raw Payload: 3544000,1.843,0.094,2.80,-3.97,-2.23,TENANG,2262
+RSSI: -33 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3544000
+Heave     : 1.843 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -3.97 deg
+Pitch     : -2.23 deg
+Status    : TENANG
+CRC       : 2262
+
+Sending JSON to Google Sheets: {"timestamp":"3544000","heave":1.843,"hs":0.094,"tp":2.80,"roll":-3.97,"pitch":-2.23,"status":"TENANG","rssi":-33,"snr":9.50,"crc":2262,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3548000,1.840,0.094,2.80,-3.92,-2.19,TENANG,2263
+RSSI: -33 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3548000
+Heave     : 1.840 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -3.92 deg
+Pitch     : -2.19 deg
+Status    : TENANG
+CRC       : 2263
+
+Raw Payload: 3550000,1.838,0.095,2.80,-3.94,-2.42,TENANG,2262
+RSSI: -33 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3550000
+Heave     : 1.838 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -3.94 deg
+Pitch     : -2.42 deg
+Status    : TENANG
+CRC       : 2262
+
+Raw Payload: 3552000,1.837,0.094,2.80,-4.14,-2.30,TENANG,2252
+RSSI: -32 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3552000
+Heave     : 1.837 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -4.14 deg
+Pitch     : -2.30 deg
+Status    : TENANG
+CRC       : 2252
+
+Raw Payload: 3554000,1.837,0.093,2.80,-3.97,-2.19,TENANG,2270
+RSSI: -33 dBm | SNR: 8.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3554000
+Heave     : 1.837 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -3.97 deg
+Pitch     : -2.19 deg
+Status    : TENANG
+CRC       : 2270
+
+Sending JSON to Google Sheets: {"timestamp":"3554000","heave":1.837,"hs":0.093,"tp":2.80,"roll":-3.97,"pitch":-2.19,"status":"TENANG","rssi":-33,"snr":8.50,"crc":2270,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: -1
+Google Sheets Response: 
+Google Sheets: failed to send data.
+
+TIMEOUT: Data LoRa tidak diterima lebih dari 5 detik.
+Gateway masuk mode WAITING.
+LED biru menyala terus.
+
+Raw Payload: 3560000,1.840,0.092,2.80,-4.15,-2.27,TENANG,2250
+RSSI: -34 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3560000
+Heave     : 1.840 m
+Hs        : 0.092 m
+Tp        : 2.80 s
+Roll      : -4.15 deg
+Pitch     : -2.27 deg
+Status    : TENANG
+CRC       : 2250
+
+Raw Payload: 3562000,1.839,0.093,2.80,-3.95,-2.45,TENANG,2268
+RSSI: -34 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3562000
+Heave     : 1.839 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -3.95 deg
+Pitch     : -2.45 deg
+Status    : TENANG
+CRC       : 2268
+
+Raw Payload: 3564000,1.839,0.092,2.80,-4.05,-2.46,TENANG,2262
+RSSI: -34 dBm | SNR: 9.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3564000
+Heave     : 1.839 m
+Hs        : 0.092 m
+Tp        : 2.80 s
+Roll      : -4.05 deg
+Pitch     : -2.46 deg
+Status    : TENANG
+CRC       : 2262
+
+Sending JSON to Google Sheets: {"timestamp":"3564000","heave":1.839,"hs":0.092,"tp":2.80,"roll":-4.05,"pitch":-2.46,"status":"TENANG","rssi":-34,"snr":9.25,"crc":2262,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3568000,1.841,0.093,2.80,-4.01,-2.41,TENANG,2251
+RSSI: -34 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3568000
+Heave     : 1.841 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -4.01 deg
+Pitch     : -2.41 deg
+Status    : TENANG
+CRC       : 2251
+
+Raw Payload: 3570000,1.843,0.094,2.80,-4.05,-2.37,TENANG,2256
+RSSI: -34 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3570000
+Heave     : 1.843 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -4.05 deg
+Pitch     : -2.37 deg
+Status    : TENANG
+CRC       : 2256
+
+Raw Payload: 3572000,1.841,0.094,2.80,-4.11,-2.21,TENANG,2246
+RSSI: -33 dBm | SNR: 7.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3572000
+Heave     : 1.841 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -4.11 deg
+Pitch     : -2.21 deg
+Status    : TENANG
+CRC       : 2246
+
+Raw Payload: 3574000,1.841,0.094,2.80,-3.98,-1.98,TENANG,2275
+RSSI: -32 dBm | SNR: 7.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3574000
+Heave     : 1.841 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -3.98 deg
+Pitch     : -1.98 deg
+Status    : TENANG
+CRC       : 2275
+
+Sending JSON to Google Sheets: {"timestamp":"3574000","heave":1.841,"hs":0.094,"tp":2.80,"roll":-3.98,"pitch":-1.98,"status":"TENANG","rssi":-32,"snr":7.25,"crc":2275,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3578000,1.844,0.093,2.80,-3.92,-2.11,TENANG,2261
+RSSI: -32 dBm | SNR: 7.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3578000
+Heave     : 1.844 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -3.92 deg
+Pitch     : -2.11 deg
+Status    : TENANG
+CRC       : 2261
+
+Raw Payload: 3580000,1.844,0.096,2.80,-4.13,-2.33,TENANG,2255
+RSSI: -32 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3580000
+Heave     : 1.844 m
+Hs        : 0.096 m
+Tp        : 2.80 s
+Roll      : -4.13 deg
+Pitch     : -2.33 deg
+Status    : TENANG
+CRC       : 2255
+
+Raw Payload: 3582000,1.846,0.094,2.80,-4.15,-2.39,TENANG,2265
+RSSI: -34 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3582000
+Heave     : 1.846 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -4.15 deg
+Pitch     : -2.39 deg
+Status    : TENANG
+CRC       : 2265
+
+Raw Payload: 3584000,1.845,0.095,2.80,-4.14,-2.19,TENANG,2264
+RSSI: -33 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3584000
+Heave     : 1.845 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -4.14 deg
+Pitch     : -2.19 deg
+Status    : TENANG
+CRC       : 2264
+
+Sending JSON to Google Sheets: {"timestamp":"3584000","heave":1.845,"hs":0.095,"tp":2.80,"roll":-4.14,"pitch":-2.19,"status":"TENANG","rssi":-33,"snr":9.75,"crc":2264,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3588000,1.839,0.091,2.80,-4.21,-2.36,TENANG,2264
+RSSI: -34 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3588000
+Heave     : 1.839 m
+Hs        : 0.091 m
+Tp        : 2.80 s
+Roll      : -4.21 deg
+Pitch     : -2.36 deg
+Status    : TENANG
+CRC       : 2264
+
+Raw Payload: 3590000,1.836,0.095,2.80,-3.91,-2.36,TENANG,2264
+RSSI: -34 dBm | SNR: 7.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3590000
+Heave     : 1.836 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -3.91 deg
+Pitch     : -2.36 deg
+Status    : TENANG
+CRC       : 2264
+
+Raw Payload: 3592000,1.838,0.093,2.80,-3.90,-2.39,TENANG,2268
+RSSI: -33 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3592000
+Heave     : 1.838 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -3.90 deg
+Pitch     : -2.39 deg
+Status    : TENANG
+CRC       : 2268
+
+Raw Payload: 3594000,1.839,0.093,2.80,-3.95,-2.27,TENANG,2273
+RSSI: -32 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3594000
+Heave     : 1.839 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -3.95 deg
+Pitch     : -2.27 deg
+Status    : TENANG
+CRC       : 2273
+
+Sending JSON to Google Sheets: {"timestamp":"3594000","heave":1.839,"hs":0.093,"tp":2.80,"roll":-3.95,"pitch":-2.27,"status":"TENANG","rssi":-32,"snr":9.75,"crc":2273,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3598000,1.840,0.094,2.80,-3.92,-2.25,TENANG,2265
+RSSI: -33 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3598000
+Heave     : 1.840 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -3.92 deg
+Pitch     : -2.25 deg
+Status    : TENANG
+CRC       : 2265
+
+Raw Payload: 3600000,1.839,0.095,2.80,-4.04,-2.18,TENANG,2254
+RSSI: -33 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3600000
+Heave     : 1.839 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -4.04 deg
+Pitch     : -2.18 deg
+Status    : TENANG
+CRC       : 2254
+
+Raw Payload:   1 V- jO    
+RSSI: -102 dBm | SNR: -12.50
+Packet error: jumlah field = 1
+Packet discarded.
+
+Raw Payload: 3602000,1.837,0.094,2.80,-4.11,-2.33,TENANG,2248
+RSSI: -32 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3602000
+Heave     : 1.837 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -4.11 deg
+Pitch     : -2.33 deg
+Status    : TENANG
+CRC       : 2248
+
+Raw Payload: 3604000,1.837,0.094,2.80,-4.11,-2.44,TENANG,2252
+RSSI: -32 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3604000
+Heave     : 1.837 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -4.11 deg
+Pitch     : -2.44 deg
+Status    : TENANG
+CRC       : 2252
+
+Sending JSON to Google Sheets: {"timestamp":"3604000","heave":1.837,"hs":0.094,"tp":2.80,"roll":-4.11,"pitch":-2.44,"status":"TENANG","rssi":-32,"snr":9.50,"crc":2252,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+TIMEOUT: Data LoRa tidak diterima lebih dari 5 detik.
+Gateway masuk mode WAITING.
+LED biru menyala terus.
+
+Raw Payload: 3610000,1.841,0.094,2.80,-3.92,-2.21,TENANG,2247
+RSSI: -33 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3610000
+Heave     : 1.841 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -3.92 deg
+Pitch     : -2.21 deg
+Status    : TENANG
+CRC       : 2247
+
+Raw Payload: 3612000,1.839,0.094,2.80,-3.94,-2.24,TENANG,2261
+RSSI: -34 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3612000
+Heave     : 1.839 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -3.94 deg
+Pitch     : -2.24 deg
+Status    : TENANG
+CRC       : 2261
+
+Raw Payload: 3614000,1.842,0.092,2.80,-4.07,-2.34,TENANG,2251
+RSSI: -33 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3614000
+Heave     : 1.842 m
+Hs        : 0.092 m
+Tp        : 2.80 s
+Roll      : -4.07 deg
+Pitch     : -2.34 deg
+Status    : TENANG
+CRC       : 2251
+
+Sending JSON to Google Sheets: {"timestamp":"3614000","heave":1.842,"hs":0.092,"tp":2.80,"roll":-4.07,"pitch":-2.34,"status":"TENANG","rssi":-33,"snr":9.75,"crc":2251,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3618000,1.839,0.093,2.80,-4.14,-2.21,TENANG,2256
+RSSI: -33 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3618000
+Heave     : 1.839 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -4.14 deg
+Pitch     : -2.21 deg
+Status    : TENANG
+CRC       : 2256
+
+Raw Payload: 3620000,1.838,0.092,2.80,-4.02,-2.45,TENANG,2250
+RSSI: -33 dBm | SNR: 10.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3620000
+Heave     : 1.838 m
+Hs        : 0.092 m
+Tp        : 2.80 s
+Roll      : -4.02 deg
+Pitch     : -2.45 deg
+Status    : TENANG
+CRC       : 2250
+
+Raw Payload: 3622000,1.841,0.092,2.80,-4.27,-2.27,TENANG,2253
+RSSI: -33 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 3622000
+Heave     : 1.841 m
+Hs        : 0.092 m
+Tp        : 2.80 s
+Roll      : -4.27 deg
+Pitch     : -2.27 deg
+Status    : TENANG
+CRC       : 2253
+
+Raw Payload: 3624000,1.840,0.095,2.80,-3.92,-2.29,TENANG,2260
+RSSI: -32 dBm | SNR: 9.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 3624000
+Heave     : 1.840 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -3.92 deg
+Pitch     : -2.29 deg
+Status    : TENANG
+CRC       : 2260
+
+Sending JSON to Google Sheets: {"timestamp":"3624000","heave":1.840,"hs":0.095,"tp":2.80,"roll":-3.92,"pitch":-2.29,"status":"TENANG","rssi":-32,"snr":9.25,"crc":2260,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets: request accepted.
+Google Sheets: data sent successfully.
+
+Raw Payload: 3628000,1.841,0.095,2.80,-4.03,-2.25,TENANG,2254
+RSSI: -34 dBm | SNR: 6.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3628000
+Heave     : 1.841 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -4.03 deg
+Pitch     : -2.25 deg
+Status    : TENANG
+CRC       : 2254
+
+Raw Payload: 3630000,1.845,0.091,2.80,-3.97,-2.27,TENANG,2261
+RSSI: -34 dBm | SNR: 8.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 3630000
+Heave     : 1.845 m
+Hs        : 0.091 m
+Tp        : 2.80 s
+Roll      : -3.97 deg
+Pitch     : -2.27 deg
+Status    : TENANG
+CRC       : 2261
+

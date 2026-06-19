@@ -1,0 +1,1396 @@
+Raw Payload: 1590000,1.829,0.095,2.80,-1.44,0.58,TENANG,2217
+RSSI: -33 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 1590000
+Heave     : 1.829 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -1.44 deg
+Pitch     : 0.58 deg
+Status    : TENANG
+CRC       : 2217
+
+Sending JSON to Google Sheets: {"timestamp":"1590000","heave":1.829,"hs":0.095,"tp":2.80,"roll":-1.44,"pitch":0.58,"status":"TENANG","rssi":-33,"snr":9.50,"crc":2217,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets Response: <HTML>
+<HEAD>
+<TITLE>Moved Temporarily</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<!-- GSE Default Error -->
+<H1>Moved Temporarily</H1>
+The document has moved <A HREF="https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnTd1-rpx4Ue8DObhjvXOMgktOdKBR-3iLIcpTpJGEAVYtVpfB2zW8CaU7nW0gviCLyu32NxjE-UnIAS-byF-gP9EFRRW5ghUOyrVTP429IVWMRsBME5vLincpyYmOBwtfrVPCA1eKObPfpTwiABKQAeXGu1TxCkKZraI1LZkRT8bzHnqZiXvtCaHQZtp1bD3qBDKeDlIRu7_5F1pgZtWoyNFLf948RGZrSWnuYytt-CvrS4vcH2b_hV974GM6xt-9nGfqz-sHDTlqXXgfTGKOND5qeprg&amp;lib=Mjxy466_R4h0v7SmFMdaZ0yAOG8mWCnmf">here</A>.
+</BODY>
+</HTML>
+
+Google Sheets: data sent successfully.
+
+Raw Payload: 1594000,1.829,0.094,2.80,-1.54,0.54,TENANG,2217
+RSSI: -34 dBm | SNR: 11.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 1594000
+Heave     : 1.829 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -1.54 deg
+Pitch     : 0.54 deg
+Status    : TENANG
+CRC       : 2217
+
+Raw Payload: 1596000,1.828,0.092,2.80,-1.57,0.70,TENANG,2217
+RSSI: -33 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 1596000
+Heave     : 1.828 m
+Hs        : 0.092 m
+Tp        : 2.80 s
+Roll      : -1.57 deg
+Pitch     : 0.70 deg
+Status    : TENANG
+CRC       : 2217
+
+Sending JSON to Google Sheets: {"timestamp":"1596000","heave":1.828,"hs":0.092,"tp":2.80,"roll":-1.57,"pitch":0.70,"status":"TENANG","rssi":-33,"snr":9.50,"crc":2217,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets Response: <HTML>
+<HEAD>
+<TITLE>Moved Temporarily</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<!-- GSE Default Error -->
+<H1>Moved Temporarily</H1>
+The document has moved <A HREF="https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnRtFnLDjEDpbisQ8asMPY3AjEgLfuORrXe33faYdGPk6LvqVu-mn1EsTjtoaUl-mBJ_UqL1T7y9nMbK-hi9FVUh_GR_srA9uOgikLAkXERTjj8vq-RlIT7de2u3t_3oWgJVlOnQAN9aFfWVEPGlisSPZ04XDXHFWQvXbIaWquE93PwfEOsnb2UJQIx_odnYuzXABzCT3pkACCTxJDgCZF92BbSV3br8OOwg8dGHAWcyDyO30O2gmuJ55SmvjOh35BiBs42ZSfUpmi5_hewbcKpuv0Ti_w&amp;lib=Mjxy466_R4h0v7SmFMdaZ0yAOG8mWCnmf">here</A>.
+</BODY>
+</HTML>
+
+Google Sheets: data sent successfully.
+
+Raw Payload: 1600000,1.824,0.095,2.80,-1.53,0.65,TENANG,2202
+RSSI: -32 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 1600000
+Heave     : 1.824 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -1.53 deg
+Pitch     : 0.65 deg
+Status    : TENANG
+CRC       : 2202
+
+Raw Payload: 1602000,1.825,0.091,2.80,-1.70,0.37,TENANG,2199
+RSSI: -32 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 1602000
+Heave     : 1.825 m
+Hs        : 0.091 m
+Tp        : 2.80 s
+Roll      : -1.70 deg
+Pitch     : 0.37 deg
+Status    : TENANG
+CRC       : 2199
+
+Sending JSON to Google Sheets: {"timestamp":"1602000","heave":1.825,"hs":0.091,"tp":2.80,"roll":-1.70,"pitch":0.37,"status":"TENANG","rssi":-32,"snr":10.00,"crc":2199,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets Response: <HTML>
+<HEAD>
+<TITLE>Moved Temporarily</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<!-- GSE Default Error -->
+<H1>Moved Temporarily</H1>
+The document has moved <A HREF="https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnRdgOekPXQibt2OS_ntiabHZ5KJRVsFScOpwNteMfgqcbHJ51uGwZ5aZmvm5hEznQrBmu2y3WC22d0Y5tTbU6WRT9fASeQvzvpeFLjTT679zK5lcAey1E9BaXvwRgt4qjEzui6yjfcv9vpxae9DmP0yukMSlnY_ki_et3lSzv2x0DAjULpvOCnCkrfpbl3syeUkxoP_AM7m0TDpADHm7-nPcNr5ImfXChsM_u2N0V5voalcoWWMKfMbzii1tyhiNerZ2mga5QmzMP_A46V2eVtSh9xWUg&amp;lib=Mjxy466_R4h0v7SmFMdaZ0yAOG8mWCnmf">here</A>.
+</BODY>
+</HTML>
+
+Google Sheets: data sent successfully.
+
+Raw Payload: 1606000,1.827,0.091,2.80,-1.67,0.52,TENANG,2208
+RSSI: -33 dBm | SNR: 10.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 1606000
+Heave     : 1.827 m
+Hs        : 0.091 m
+Tp        : 2.80 s
+Roll      : -1.67 deg
+Pitch     : 0.52 deg
+Status    : TENANG
+CRC       : 2208
+
+Raw Payload: 1608000,1.825,0.093,2.80,-1.64,0.86,TENANG,2214
+RSSI: -32 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 1608000
+Heave     : 1.825 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -1.64 deg
+Pitch     : 0.86 deg
+Status    : TENANG
+CRC       : 2214
+
+Sending JSON to Google Sheets: {"timestamp":"1608000","heave":1.825,"hs":0.093,"tp":2.80,"roll":-1.64,"pitch":0.86,"status":"TENANG","rssi":-32,"snr":10.00,"crc":2214,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets Response: <HTML>
+<HEAD>
+<TITLE>Moved Temporarily</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<!-- GSE Default Error -->
+<H1>Moved Temporarily</H1>
+The document has moved <A HREF="https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnTdGm6d5enzkvAFA4aYZ0Eo2BlmhrYigr1OrE6geTp6ZbqJOu1ml5bA-vsWqyeN1pk-fHyuPRvKYFVeaU26oCsoNteyg0q_EdIF-S_1-nY1YLGuSBDej_oz3XWI6-EExF7YeUjjBQVKM6idru4s01_-tv8hcRxWj8WVvzrdycchjn7-ehkZ1hUo7xTdiqvModMUU52Q7VGv2wYQARYkI_W4Rh20zM3UeNv8rKQDlry-CLeuisa9fFQki4U1qlJ4SKNYhk7QywobLXW2ED9_HDK-a8u0lg&amp;lib=Mjxy466_R4h0v7SmFMdaZ0yAOG8mWCnmf">here</A>.
+</BODY>
+</HTML>
+
+Google Sheets: data sent successfully.
+
+Raw Payload: 1612000,1.832,0.093,2.80,-1.70,0.57,TENANG,2202
+RSSI: -34 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 1612000
+Heave     : 1.832 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -1.70 deg
+Pitch     : 0.57 deg
+Status    : TENANG
+CRC       : 2202
+
+Raw Payload: 1614000,1.831,0.093,2.80,-1.44,0.73,TENANG,2202
+RSSI: -34 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 1614000
+Heave     : 1.831 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -1.44 deg
+Pitch     : 0.73 deg
+Status    : TENANG
+CRC       : 2202
+
+Sending JSON to Google Sheets: {"timestamp":"1614000","heave":1.831,"hs":0.093,"tp":2.80,"roll":-1.44,"pitch":0.73,"status":"TENANG","rssi":-34,"snr":9.75,"crc":2202,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets Response: <HTML>
+<HEAD>
+<TITLE>Moved Temporarily</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<!-- GSE Default Error -->
+<H1>Moved Temporarily</H1>
+The document has moved <A HREF="https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnQfDbGShPpP5SwDf5b4T2kmXKAMyAZq9jLwFXQVSwvPBddSQO7QfpcB-gRmy-oEBKXNbIP-a2DJI1YCM6Wss3q-toFUGywrbImPwT0gbFCKLtmxaDCQeXA21ZUWqUo9rWYsdwbB-a-LhN5T8-KOYxDlPnMK9KmE1G4XS6AryQBu5kbCdmT08YHvr0odmX3CA7TnKMIsWLNfEuXqYYdtTSXvfQdrybM3w1Hn2o1Vkljaoi9xXawSH8MD1_-vVlH4dctzUehUnKUe1r1_BOgRa77kOhiIhw&amp;lib=Mjxy466_R4h0v7SmFMdaZ0yAOG8mWCnmf">here</A>.
+</BODY>
+</HTML>
+
+Google Sheets: data sent successfully.
+
+Raw Payload: 1618000,1.827,0.091,2.80,-1.54,0.33,TENANG,2206
+RSSI: -36 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 1618000
+Heave     : 1.827 m
+Hs        : 0.091 m
+Tp        : 2.80 s
+Roll      : -1.54 deg
+Pitch     : 0.33 deg
+Status    : TENANG
+CRC       : 2206
+
+Raw Payload: 1620000,1.826,0.095,2.80,-1.64,0.49,TENANG,2210
+RSSI: -34 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 1620000
+Heave     : 1.826 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -1.64 deg
+Pitch     : 0.49 deg
+Status    : TENANG
+CRC       : 2210
+
+Sending JSON to Google Sheets: {"timestamp":"1620000","heave":1.826,"hs":0.095,"tp":2.80,"roll":-1.64,"pitch":0.49,"status":"TENANG","rssi":-34,"snr":9.75,"crc":2210,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets Response: <HTML>
+<HEAD>
+<TITLE>Moved Temporarily</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<!-- GSE Default Error -->
+<H1>Moved Temporarily</H1>
+The document has moved <A HREF="https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnTwMvThNiy09gd8S0s9IsZlDiOBm9Y5x0TUyYuHZc-qDwg_LcF7yQnBCsUAmt3jYFSSrsKbq1iWmeu824uZyF4Eg-KyTdhOB3WSZRUD4-w2951SdOClwvKWGSJkqpUionZ8xw_4Wf0nWLAhGonk-trlznojZFkCEJttw9gk4yUzv6PNRlQgr_LLgsl_YY-BI0JGsfP1slSWFug-MxTS_20kpskPRaigzozA3Wfqsnu91eXwOwiYJLfkf2Xe1CU8QC2tYzy3wRi3AAd4jagv41n1fVOb3g&amp;lib=Mjxy466_R4h0v7SmFMdaZ0yAOG8mWCnmf">here</A>.
+</BODY>
+</HTML>
+
+Google Sheets: data sent successfully.
+
+Raw Payload: 1624000,1.830,0.093,2.80,-1.58,0.80,TENANG,2205
+RSSI: -34 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 1624000
+Heave     : 1.830 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -1.58 deg
+Pitch     : 0.80 deg
+Status    : TENANG
+CRC       : 2205
+
+Raw Payload: 1626000,1.832,0.093,2.80,-1.68,0.69,TENANG,2217
+RSSI: -34 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 1626000
+Heave     : 1.832 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -1.68 deg
+Pitch     : 0.69 deg
+Status    : TENANG
+CRC       : 2217
+
+Sending JSON to Google Sheets: {"timestamp":"1626000","heave":1.832,"hs":0.093,"tp":2.80,"roll":-1.68,"pitch":0.69,"status":"TENANG","rssi":-34,"snr":9.75,"crc":2217,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets Response: <HTML>
+<HEAD>
+<TITLE>Moved Temporarily</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<!-- GSE Default Error -->
+<H1>Moved Temporarily</H1>
+The document has moved <A HREF="https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnQQd9RQ-y6EkHZQrsYW4MCWaUC9BDgf8px2vwa_2xEsImwPNrK0CKFXrc2ptNm_BKx44DuEV35oY83vtR6ARLhGu2sZ9Pnz07SIUyRC2qgusqN7llcrL0_1r8xcMfoXygw9Nh9f1Njt51emEGorlTCMPU8sDhgYuLxYB0eeNc7egritMHQjafVNAdd07ih3cgXR3fLlOwMrlyOjUBn0qoMW7DYrtHrGzv90bLX0cKT5jUn72gu4hbDlafVv1txkLfRaM9GGAuUpXoiOZ5N3EYSG_90uOg&amp;lib=Mjxy466_R4h0v7SmFMdaZ0yAOG8mWCnmf">here</A>.
+</BODY>
+</HTML>
+
+Google Sheets: data sent successfully.
+
+Raw Payload: 1630000,1.826,0.092,2.80,-1.66,0.52,TENANG,2204
+RSSI: -33 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 1630000
+Heave     : 1.826 m
+Hs        : 0.092 m
+Tp        : 2.80 s
+Roll      : -1.66 deg
+Pitch     : 0.52 deg
+Status    : TENANG
+CRC       : 2204
+
+Raw Payload: 1632000,1.828,0.094,2.80,-1.58,0.65,TENANG,2215
+RSSI: -33 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 1632000
+Heave     : 1.828 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -1.58 deg
+Pitch     : 0.65 deg
+Status    : TENANG
+CRC       : 2215
+
+Sending JSON to Google Sheets: {"timestamp":"1632000","heave":1.828,"hs":0.094,"tp":2.80,"roll":-1.58,"pitch":0.65,"status":"TENANG","rssi":-33,"snr":9.75,"crc":2215,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets Response: <HTML>
+<HEAD>
+<TITLE>Moved Temporarily</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<!-- GSE Default Error -->
+<H1>Moved Temporarily</H1>
+The document has moved <A HREF="https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnTpZfbBunxfzDJuLPqi99k1ojrAKiG2tv_cCz_OZgzKthquC9-52_P6u0ImRQ4XPSobmm3RjKPpxCMi2HCyp08low0rZUBUt6cLzZBFzkDr5e89924ZeGRLfK1SjimM4_M1sNP6z-UD0fwE2w--WDD6j-FT5W_0NFApsIu453k3xTUMAps7-PoHrE34gS91XOE2ai2UK94WJIt2ft-ZifAi7UFtTmbHtos76_7obsg0BxDyKqe9j2BkMTfn2iE0mlR4XoBU3UFsvmu5YSglUi_xweTXEg&amp;lib=Mjxy466_R4h0v7SmFMdaZ0yAOG8mWCnmf">here</A>.
+</BODY>
+</HTML>
+
+Google Sheets: data sent successfully.
+
+Raw Payload: 1636000,1.830,0.095,2.80,-1.64,0.47,TENANG,2210
+RSSI: -33 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 1636000
+Heave     : 1.830 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -1.64 deg
+Pitch     : 0.47 deg
+Status    : TENANG
+CRC       : 2210
+
+Raw Payload: 1638000,1.829,0.091,2.80,-1.67,0.48,TENANG,2220
+RSSI: -34 dBm | SNR: 7.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 1638000
+Heave     : 1.829 m
+Hs        : 0.091 m
+Tp        : 2.80 s
+Roll      : -1.67 deg
+Pitch     : 0.48 deg
+Status    : TENANG
+CRC       : 2220
+
+Sending JSON to Google Sheets: {"timestamp":"1638000","heave":1.829,"hs":0.091,"tp":2.80,"roll":-1.67,"pitch":0.48,"status":"TENANG","rssi":-34,"snr":7.25,"crc":2220,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets Response: <HTML>
+<HEAD>
+<TITLE>Moved Temporarily</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<!-- GSE Default Error -->
+<H1>Moved Temporarily</H1>
+The document has moved <A HREF="https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnTmUufWNXZy9KoDFttI6DX6G_OH18yGVI1IGG1vlYMja_LFEPQsqSXmc_OHPlNXlm_-5ImcG8pY7YE5Xi5mb5zM7wed52Kwbx40cyHVxGlX4wmmIH4Q81D_waZnHSMiePx80TtB3DtxoeIk5Qck-A07afpRTDZf9Cn_56lGueWyr2h3SEBNJ9tWhhTMGd1jvpDngLLfEKNCtkNt400F27_JWuAtm37vS5m5NRs0LJE21C5JQ141RinXhaOL0m8odLcWBw1lHBm7yccdjdkWDs6KgK6_-Q&amp;lib=Mjxy466_R4h0v7SmFMdaZ0yAOG8mWCnmf">here</A>.
+</BODY>
+</HTML>
+
+Google Sheets: data sent successfully.
+
+Raw Payload: 1642000,1.833,0.093,2.80,-1.65,0.58,TENANG,2211
+RSSI: -32 dBm | SNR: 6.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 1642000
+Heave     : 1.833 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -1.65 deg
+Pitch     : 0.58 deg
+Status    : TENANG
+CRC       : 2211
+
+Raw Payload: 1644000,1.832,0.095,2.80,-1.47,0.41,TENANG,2206
+RSSI: -33 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 1644000
+Heave     : 1.832 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -1.47 deg
+Pitch     : 0.41 deg
+Status    : TENANG
+CRC       : 2206
+
+Sending JSON to Google Sheets: {"timestamp":"1644000","heave":1.832,"hs":0.095,"tp":2.80,"roll":-1.47,"pitch":0.41,"status":"TENANG","rssi":-33,"snr":9.75,"crc":2206,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets Response: <HTML>
+<HEAD>
+<TITLE>Moved Temporarily</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<!-- GSE Default Error -->
+<H1>Moved Temporarily</H1>
+The document has moved <A HREF="https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnTwJwqLKyDgOM4IjwyElGdk93SiNOCVkdj_bJ6r_ulDqPc_IO1B-DhpHuuRNXLQ1uOFpAj_oOytxyisjc3dN3n15IvTttAn_2INHX5YmwRObYJScQwioyoaCLR3PceiIjedhBVd8LWRoaDHCsp0xPJrHgHCaxMDjRvMVlzIzv1qgWFV_-1FPvJxFl6CvHtn2qypije8sITf1boxEjupjeueUtEUeUnd1LbEglDko-owfxtxiAfRkX6m6QqOa607HKC3zwNp1m9Z82GEmJ21lhCyfx_ndg&amp;lib=Mjxy466_R4h0v7SmFMdaZ0yAOG8mWCnmf">here</A>.
+</BODY>
+</HTML>
+
+Google Sheets: data sent successfully.
+
+Raw Payload: 1648000,1.833,0.092,2.80,-1.51,0.37,TENANG,2208
+RSSI: -32 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 1648000
+Heave     : 1.833 m
+Hs        : 0.092 m
+Tp        : 2.80 s
+Roll      : -1.51 deg
+Pitch     : 0.37 deg
+Status    : TENANG
+CRC       : 2208
+
+Raw Payload: 1650000,1.827,0.095,2.80,-1.73,0.49,TENANG,2214
+RSSI: -33 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 1650000
+Heave     : 1.827 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -1.73 deg
+Pitch     : 0.49 deg
+Status    : TENANG
+CRC       : 2214
+
+Sending JSON to Google Sheets: {"timestamp":"1650000","heave":1.827,"hs":0.095,"tp":2.80,"roll":-1.73,"pitch":0.49,"status":"TENANG","rssi":-33,"snr":9.75,"crc":2214,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets Response: <HTML>
+<HEAD>
+<TITLE>Moved Temporarily</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<!-- GSE Default Error -->
+<H1>Moved Temporarily</H1>
+The document has moved <A HREF="https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnQ2j0Rq_H4YDDWlJGUJpUFwCushBlcDQ-SBDuOYYljPkqUfa_Nd3O1ugUXDAPOupAkfRgM3bbebkVlHKN1nki-BnseDPHDzzeKXRzMcLNH25AePXKOuF3ARPehAde8bTzZUT8aoAzDri3wzlS_H1Gvu25QjVc1IfPeacEM6VKXPRnR9uuSWxr9hpJJHFpPwHPW1qmxpLCgaemawO4mHk182TDGpwTQIM5Vkj_Y2J7GsZVAF2aaciEaKP65cfs0uArL8yP0PiYQGOSb83qhQWHm3YghmMQ&amp;lib=Mjxy466_R4h0v7SmFMdaZ0yAOG8mWCnmf">here</A>.
+</BODY>
+</HTML>
+
+Google Sheets: data sent successfully.
+
+Raw Payload: 1654000,1.828,0.092,2.80,-1.44,0.68,TENANG,2215
+RSSI: -33 dBm | SNR: 9.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 1654000
+Heave     : 1.828 m
+Hs        : 0.092 m
+Tp        : 2.80 s
+Roll      : -1.44 deg
+Pitch     : 0.68 deg
+Status    : TENANG
+CRC       : 2215
+
+Raw Payload: 1656000,1.828,0.095,2.80,-1.46,0.71,TENANG,2216
+RSSI: -33 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 1656000
+Heave     : 1.828 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -1.46 deg
+Pitch     : 0.71 deg
+Status    : TENANG
+CRC       : 2216
+
+Sending JSON to Google Sheets: {"timestamp":"1656000","heave":1.828,"hs":0.095,"tp":2.80,"roll":-1.46,"pitch":0.71,"status":"TENANG","rssi":-33,"snr":9.75,"crc":2216,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets Response: <HTML>
+<HEAD>
+<TITLE>Moved Temporarily</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<!-- GSE Default Error -->
+<H1>Moved Temporarily</H1>
+The document has moved <A HREF="https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnT81jUOOGv3-eqJ1P6SNenKj6ICNvFxD_f63cIpBb4vxPFntTEfL7kqKB8Z4Pyb893KixadOig8GQj3xZ7wxs0MyOSa1oiX8uG0OUwRXQjdahlKwUfr9uJSB0Wv_UfBI9NkRCiuJhijWaDkPbGfV7nhgGVsU7w9s4BWTH8TMaNogyLMBg6Ip5YDuHawE2AJ8uAP930nHRsNomnZbMMBCFPxz2cBK_UMICo3o025lBFEYFZvY1MwYEsCesMeBVeC9fNVzpmCGENJZeIzB8DH9umMSNwtWw&amp;lib=Mjxy466_R4h0v7SmFMdaZ0yAOG8mWCnmf">here</A>.
+</BODY>
+</HTML>
+
+Google Sheets: data sent successfully.
+
+TIMEOUT: Data LoRa tidak diterima lebih dari 5 detik.
+Gateway masuk mode WAITING.
+LED biru menyala terus.
+
+Raw Payload: 1662000,1.822,0.091,2.80,-1.82,0.39,TENANG,2207
+RSSI: -32 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 1662000
+Heave     : 1.822 m
+Hs        : 0.091 m
+Tp        : 2.80 s
+Roll      : -1.82 deg
+Pitch     : 0.39 deg
+Status    : TENANG
+CRC       : 2207
+
+Sending JSON to Google Sheets: {"timestamp":"1662000","heave":1.822,"hs":0.091,"tp":2.80,"roll":-1.82,"pitch":0.39,"status":"TENANG","rssi":-32,"snr":9.50,"crc":2207,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets Response: <HTML>
+<HEAD>
+<TITLE>Moved Temporarily</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<!-- GSE Default Error -->
+<H1>Moved Temporarily</H1>
+The document has moved <A HREF="https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnQU060zn8y1MB3dia1cXtFGL96yBUXgRA4aMppl4kTSSU_FqJnRD0jV6FvhjnWMZd3eegywEsvBEmDrqy7qthuauZoyjxs36dRe80-ZQ9S4bFXcgRBtXSweotRCO_cgum1P_usMONgl9Hy6LpYPnVdfV57JpYE9j3gwnzWTKRz4UnDta2KiJyJq2iMnjN3mIbcVEMU4J7I0aeMD67edi4N6SkbJc63ZOdABQ3uvppMAC0mt2hTNrZoKlNtckgj5xc_A3cXOk00dGrwwkPnEE9T0jqJ7fg&amp;lib=Mjxy466_R4h0v7SmFMdaZ0yAOG8mWCnmf">here</A>.
+</BODY>
+</HTML>
+
+Google Sheets: data sent successfully.
+
+Raw Payload: 1666000,1.828,0.093,2.80,-1.60,0.59,TENANG,2217
+RSSI: -33 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 1666000
+Heave     : 1.828 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -1.60 deg
+Pitch     : 0.59 deg
+Status    : TENANG
+CRC       : 2217
+
+Raw Payload: 1668000,1.828,0.094,2.80,-1.52,0.77,TENANG,2221
+RSSI: -33 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 1668000
+Heave     : 1.828 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -1.52 deg
+Pitch     : 0.77 deg
+Status    : TENANG
+CRC       : 2221
+
+Sending JSON to Google Sheets: {"timestamp":"1668000","heave":1.828,"hs":0.094,"tp":2.80,"roll":-1.52,"pitch":0.77,"status":"TENANG","rssi":-33,"snr":9.50,"crc":2221,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets Response: <HTML>
+<HEAD>
+<TITLE>Moved Temporarily</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<!-- GSE Default Error -->
+<H1>Moved Temporarily</H1>
+The document has moved <A HREF="https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnQGyvVT3kwYlb3VLdYAU8KHB1Z7bELqvRFuUZHLdYurossTN--8M9ZOH1MfbMwFMK77uOIprlwdyE6GYr8jDcSdAECqlU-TCDp5FtkiGp544QKjHUqhFte-c8LePdAbM9qGHa9E4YGjwWfpl7bYY2lk7vmyUafGL02Ge__zGDuXvemngsWZ2-px8DLfga1G61m0-b-nnhxSno8Ym2DApnnfEE0JNvO0Kh5hNJ4XcrycrKyLF6vUI68itx0ryAqZDf3AglFlqaQyYNctiJam5Qqw8HYSTQ&amp;lib=Mjxy466_R4h0v7SmFMdaZ0yAOG8mWCnmf">here</A>.
+</BODY>
+</HTML>
+
+Google Sheets: data sent successfully.
+
+Raw Payload: 1672000,1.823,0.092,2.80,-1.45,0.64,TENANG,2207
+RSSI: -32 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 1672000
+Heave     : 1.823 m
+Hs        : 0.092 m
+Tp        : 2.80 s
+Roll      : -1.45 deg
+Pitch     : 0.64 deg
+Status    : TENANG
+CRC       : 2207
+
+Raw Payload: 1674000,1.824,0.094,2.80,-1.75,0.66,TENANG,2217
+RSSI: -33 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 1674000
+Heave     : 1.824 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -1.75 deg
+Pitch     : 0.66 deg
+Status    : TENANG
+CRC       : 2217
+
+Sending JSON to Google Sheets: {"timestamp":"1674000","heave":1.824,"hs":0.094,"tp":2.80,"roll":-1.75,"pitch":0.66,"status":"TENANG","rssi":-33,"snr":9.75,"crc":2217,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets Response: <HTML>
+<HEAD>
+<TITLE>Moved Temporarily</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<!-- GSE Default Error -->
+<H1>Moved Temporarily</H1>
+The document has moved <A HREF="https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnQUHTp1B3CdEyecdB0UvOkIgjeEFNf_h9wV-jajYMBuO0P5UVeoKj8moVobJTWKNVej3WFsQ9UElCP0Vv7nWHA_Ad-KNFAI8ew2QR-63MgsAnXrEOwY15Jp6i_htjoEVttTlvFM5g9HrmDV2DCmfpRZS1475H2BYC95QTDZXsOjEq4Oni319kDW1qkfDAfmUqfsbkQ_4bq0WKgBRQrTcSFTU3plcyhGpb371vpCM1R0FZLTySzRRBx1a-ZDWt1MZSobtPTIBP9mBfqjZp1by39FHfa7xg&amp;lib=Mjxy466_R4h0v7SmFMdaZ0yAOG8mWCnmf">here</A>.
+</BODY>
+</HTML>
+
+Google Sheets: data sent successfully.
+
+Raw Payload: 1678000,1.829,0.094,2.80,-1.54,0.68,TENANG,2225
+RSSI: -33 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 1678000
+Heave     : 1.829 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -1.54 deg
+Pitch     : 0.68 deg
+Status    : TENANG
+CRC       : 2225
+
+Raw Payload: 1680000,1.832,0.093,2.80,-1.68,0.51,TENANG,2208
+RSSI: -32 dBm | SNR: 10.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 1680000
+Heave     : 1.832 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -1.68 deg
+Pitch     : 0.51 deg
+Status    : TENANG
+CRC       : 2208
+
+Sending JSON to Google Sheets: {"timestamp":"1680000","heave":1.832,"hs":0.093,"tp":2.80,"roll":-1.68,"pitch":0.51,"status":"TENANG","rssi":-32,"snr":10.50,"crc":2208,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets Response: <HTML>
+<HEAD>
+<TITLE>Moved Temporarily</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<!-- GSE Default Error -->
+<H1>Moved Temporarily</H1>
+The document has moved <A HREF="https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnTbtjr_zbM669yO6g0jFV-ViLHwu18likSZO-mds7JKGosF1xH-kjuGlMOI2hzms4s0xNZdnjiFtGm-QAZUi8Nbn-1aZN9q-83EPSQTHTCv_Qm2W_2ABz7LQBpvHTunEEev5qftqPNGO9UYihT6H5gzDs7_b8Rm0WhmMUJUaPYXWHJX8yRk1uJCxNdMPjS7ll4bRyVu-Gjg4gtmHEWzHf75F7cxjtBRMkTGLsMUVh6_-e74ypr3jsn4MlwN2AmQHBRhb93ron1ltw7O0lUHDO3O0Oj-3A&amp;lib=Mjxy466_R4h0v7SmFMdaZ0yAOG8mWCnmf">here</A>.
+</BODY>
+</HTML>
+
+Google Sheets: data sent successfully.
+
+Raw Payload: 1684000,1.834,0.094,2.80,-1.60,0.42,TENANG,2207
+RSSI: -33 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 1684000
+Heave     : 1.834 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -1.60 deg
+Pitch     : 0.42 deg
+Status    : TENANG
+CRC       : 2207
+
+Raw Payload: 1686000,1.831,0.092,2.80,-1.59,0.54,TENANG,2215
+RSSI: -33 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 1686000
+Heave     : 1.831 m
+Hs        : 0.092 m
+Tp        : 2.80 s
+Roll      : -1.59 deg
+Pitch     : 0.54 deg
+Status    : TENANG
+CRC       : 2215
+
+Sending JSON to Google Sheets: {"timestamp":"1686000","heave":1.831,"hs":0.092,"tp":2.80,"roll":-1.59,"pitch":0.54,"status":"TENANG","rssi":-33,"snr":10.00,"crc":2215,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets Response: <HTML>
+<HEAD>
+<TITLE>Moved Temporarily</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<!-- GSE Default Error -->
+<H1>Moved Temporarily</H1>
+The document has moved <A HREF="https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnRowA-53azxWmjf61ZR5-q1uQ_HUpGEQWXiDVX62iL2MX3BNzN4cIsnLT2O8TBWVa-XFZ7iuMoKfWlreSUqAEaDfY4ub_12DmVrejFUUfZmg-3Bm78zjKYAkjPCllG99_LRBTV3sdoiGozCrcIny4NHjqLEPXGKWJaV8QWzRzj3UIB0pB99YyEgGo0mUxl1kpJgtQxu_RUU18NerA47SpVnJM2K3k1ZAjzIbyVH-8SMtVgxb08b5RbD4CNXHZiT8kFOwNU83A2m5aRIMHKMeXvH7T0sDA&amp;lib=Mjxy466_R4h0v7SmFMdaZ0yAOG8mWCnmf">here</A>.
+</BODY>
+</HTML>
+
+Google Sheets: data sent successfully.
+
+Raw Payload: 1690000,1.835,0.094,2.80,-1.84,0.65,TENANG,2216
+RSSI: -33 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 1690000
+Heave     : 1.835 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -1.84 deg
+Pitch     : 0.65 deg
+Status    : TENANG
+CRC       : 2216
+
+Raw Payload: 1692000,1.836,0.095,2.80,-1.53,0.54,TENANG,2214
+RSSI: -33 dBm | SNR: 9.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 1692000
+Heave     : 1.836 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -1.53 deg
+Pitch     : 0.54 deg
+Status    : TENANG
+CRC       : 2214
+
+Sending JSON to Google Sheets: {"timestamp":"1692000","heave":1.836,"hs":0.095,"tp":2.80,"roll":-1.53,"pitch":0.54,"status":"TENANG","rssi":-33,"snr":9.00,"crc":2214,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets Response: <HTML>
+<HEAD>
+<TITLE>Moved Temporarily</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<!-- GSE Default Error -->
+<H1>Moved Temporarily</H1>
+The document has moved <A HREF="https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnRioCarBLpIs8-ye6U4TKafqCUijyGp_NAWCHsFN9dTpDp93seQ1YVe6hd7ur1G8eN4dptsx2yiqwx2YMHROa818NeyaOfwQI9m5lA2gvJ_UpvqU7oL2d7ZADjtMox-7jdRsNiI5UScOLJuedw3WwwE3RbsP9ComgXTM1NQV4lL9cY1a7sn1JhBP1XrbTebBnQNZIvtnIev5mT8VBk_XwN8a3reBeu5Y9po6MUag7EG1Xf2nqibkanToELeSuHANE9jkmKm9Nu8lt8bbFl3kiGEmke2JQ&amp;lib=Mjxy466_R4h0v7SmFMdaZ0yAOG8mWCnmf">here</A>.
+</BODY>
+</HTML>
+
+Google Sheets: data sent successfully.
+
+Raw Payload: 1696000,1.835,0.092,2.80,-1.49,0.49,TENANG,2223
+RSSI: -33 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 1696000
+Heave     : 1.835 m
+Hs        : 0.092 m
+Tp        : 2.80 s
+Roll      : -1.49 deg
+Pitch     : 0.49 deg
+Status    : TENANG
+CRC       : 2223
+
+Raw Payload: 1698000,1.831,0.094,2.80,-1.57,0.62,TENANG,2217
+RSSI: -32 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 1698000
+Heave     : 1.831 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -1.57 deg
+Pitch     : 0.62 deg
+Status    : TENANG
+CRC       : 2217
+
+Sending JSON to Google Sheets: {"timestamp":"1698000","heave":1.831,"hs":0.094,"tp":2.80,"roll":-1.57,"pitch":0.62,"status":"TENANG","rssi":-32,"snr":10.00,"crc":2217,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets Response: <HTML>
+<HEAD>
+<TITLE>Moved Temporarily</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<!-- GSE Default Error -->
+<H1>Moved Temporarily</H1>
+The document has moved <A HREF="https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnTntUo3bnRSJx2uw4gUfZcNc-7pDXbKYBZUfHBNBz_xAab5ejPL3rnuSe7N68k7BmqBx12kHJ-yUSSXfK1a-OYSe9vCVdboDliAqjupgh_g5Epp8sjBieko3aZST1oFhD7GYp4rHSFwwxB1uL3Cv3DSmQCPkGrWaxTpha00S4J56lJzfJGzcFKc-czMCnbE0ZwgTJ6gLzaaHfV31peN_CJOkFA1VszY07jFSNuZ6zEdgkBzcBgaFk8dwM3np5wAIxtnj4HNjVhwziinDVtJ5JtwSR4PnA&amp;lib=Mjxy466_R4h0v7SmFMdaZ0yAOG8mWCnmf">here</A>.
+</BODY>
+</HTML>
+
+Google Sheets: data sent successfully.
+
+Raw Payload: 1702000,1.833,0.094,2.80,-1.56,0.60,TENANG,2202
+RSSI: -32 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 1702000
+Heave     : 1.833 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -1.56 deg
+Pitch     : 0.60 deg
+Status    : TENANG
+CRC       : 2202
+
+Raw Payload: 1704000,1.833,0.094,2.80,-1.58,0.74,TENANG,2211
+RSSI: -32 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 1704000
+Heave     : 1.833 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -1.58 deg
+Pitch     : 0.74 deg
+Status    : TENANG
+CRC       : 2211
+
+Sending JSON to Google Sheets: {"timestamp":"1704000","heave":1.833,"hs":0.094,"tp":2.80,"roll":-1.58,"pitch":0.74,"status":"TENANG","rssi":-32,"snr":9.75,"crc":2211,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets Response: <HTML>
+<HEAD>
+<TITLE>Moved Temporarily</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<!-- GSE Default Error -->
+<H1>Moved Temporarily</H1>
+The document has moved <A HREF="https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnQHLDIWpJVvTABD4pALtKzDRKbpDbE1B42C312SqvSn_BHT1e8nc3x6Tzen_8J__OTdcRyV_-M52sSOv0tWds2F51JmmN7xct5RvwH2bYg0G_oKIbCX4sbQA6lrb9HyStfgHqDNggJWlfq1z-sc8NdpHURAfoU6WLo3INft6BF2JigFicotvddMYpPAQwBE87WilVw2y5ZG36t4WkkTQQfJsJuni96qxg5AKUfDwcMqmW8LYzpyOipa1YXkEEASPmNaRqICOOBpgmMg-fV5lsy6P9WI4Q&amp;lib=Mjxy466_R4h0v7SmFMdaZ0yAOG8mWCnmf">here</A>.
+</BODY>
+</HTML>
+
+Google Sheets: data sent successfully.
+
+Raw Payload: 1708000,1.837,0.092,2.80,-1.50,0.77,TENANG,2212
+RSSI: -33 dBm | SNR: 10.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 1708000
+Heave     : 1.837 m
+Hs        : 0.092 m
+Tp        : 2.80 s
+Roll      : -1.50 deg
+Pitch     : 0.77 deg
+Status    : TENANG
+CRC       : 2212
+
+Raw Payload: 1710000,1.837,0.094,2.80,-1.45,0.61,TENANG,2204
+RSSI: -33 dBm | SNR: 9.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 1710000
+Heave     : 1.837 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -1.45 deg
+Pitch     : 0.61 deg
+Status    : TENANG
+CRC       : 2204
+
+Sending JSON to Google Sheets: {"timestamp":"1710000","heave":1.837,"hs":0.094,"tp":2.80,"roll":-1.45,"pitch":0.61,"status":"TENANG","rssi":-33,"snr":9.25,"crc":2204,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets Response: <HTML>
+<HEAD>
+<TITLE>Moved Temporarily</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<!-- GSE Default Error -->
+<H1>Moved Temporarily</H1>
+The document has moved <A HREF="https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnSYKtxsdoy82PD8J7ePNKUU-wedFLtV0dSuyhU6wHA14LCIK8YeLqdZzwbQPIMy6OAdo8jio5b7jS4McOcr0VgjX9NHxMV45g63oMsd-xBdlL_n3mhE4kC812nIRSsRXekLD43uVi8o9u-yUQuQdTWqEnsJ1xP1_7S3yo2YUIudg5mReeyjAgtHktP_amQe1_dFEg6hR0uZXkI7D4YMGPQ9H_69k8KLAk6fFwhENI4Y5ihv-rHdynLWacN5hTTl4dkZlaod0ErRV5sJXHsFP7u6OgsQvQ&amp;lib=Mjxy466_R4h0v7SmFMdaZ0yAOG8mWCnmf">here</A>.
+</BODY>
+</HTML>
+
+Google Sheets: data sent successfully.
+
+Raw Payload: 1714000,1.835,0.094,2.80,-1.64,0.60,TENANG,2206
+RSSI: -32 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 1714000
+Heave     : 1.835 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -1.64 deg
+Pitch     : 0.60 deg
+Status    : TENANG
+CRC       : 2206
+
+Raw Payload: 1716000,1.832,0.093,2.80,-1.64,0.77,TENANG,2212
+RSSI: -34 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 1716000
+Heave     : 1.832 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -1.64 deg
+Pitch     : 0.77 deg
+Status    : TENANG
+CRC       : 2212
+
+Sending JSON to Google Sheets: {"timestamp":"1716000","heave":1.832,"hs":0.093,"tp":2.80,"roll":-1.64,"pitch":0.77,"status":"TENANG","rssi":-34,"snr":10.00,"crc":2212,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets Response: <HTML>
+<HEAD>
+<TITLE>Moved Temporarily</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<!-- GSE Default Error -->
+<H1>Moved Temporarily</H1>
+The document has moved <A HREF="https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnQO7DtZAePrbaCKhQeUjA69n2Bf4qqQB76PJWcsXEjfN0jxGyWIpbVVKZ46L92MV5UF0Ac1lqKbn0I2vzwHoujao3AqXsw2TF4h8RoGZrb7e0BMTPEnD-wvK_fgZoP4Y5QH9794E0dcSuK3mxRzD2RzWlrKDZ5PzDaphX8tbteYFc19W3tREWHg-g3_5NCZXmaaIOx4GZxiolN8zx4HPu0KoYAEmq6r2C7deBRY0ur5SroCtm9z_RZcUAp2yx70LmuIdovUz2U4gXxtCESFsdCG7XoQOg&amp;lib=Mjxy466_R4h0v7SmFMdaZ0yAOG8mWCnmf">here</A>.
+</BODY>
+</HTML>
+
+Google Sheets: data sent successfully.
+
+Raw Payload: 1720000,1.832,0.095,2.80,-1.57,0.64,TENANG,2207
+RSSI: -34 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 1720000
+Heave     : 1.832 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -1.57 deg
+Pitch     : 0.64 deg
+Status    : TENANG
+CRC       : 2207
+
+Raw Payload: 1722000,1.831,0.097,2.80,-1.45,0.52,TENANG,2204
+RSSI: -33 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 1722000
+Heave     : 1.831 m
+Hs        : 0.097 m
+Tp        : 2.80 s
+Roll      : -1.45 deg
+Pitch     : 0.52 deg
+Status    : TENANG
+CRC       : 2204
+
+Sending JSON to Google Sheets: {"timestamp":"1722000","heave":1.831,"hs":0.097,"tp":2.80,"roll":-1.45,"pitch":0.52,"status":"TENANG","rssi":-33,"snr":9.50,"crc":2204,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets Response: <HTML>
+<HEAD>
+<TITLE>Moved Temporarily</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<!-- GSE Default Error -->
+<H1>Moved Temporarily</H1>
+The document has moved <A HREF="https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnQeJK456-EliP4BYldgAPmLNZiOiyFAgqWNvI3pg3Vle7vQm5XnXQUbOsrrBrUrWLCwVAyWJWKw8n5_vP2ZlHdOri0y18QdtELSfPMG4qbuqL9MWQScl4Ku8ujh-TCFLhIpjZ-rdC-tm-x61_RKkVQcgA-d53R--0QtVAG8VmC1s8jOJcTdtysyum4yQEIBr0CSokgGqqpH1U_zh2gl_nXzpNWi3Ld6zeoInkYPrtEEudkh6MwHTJulZvq_NknxTXIu4gvcVlscf_JJqwcmMtp2gDHsoA&amp;lib=Mjxy466_R4h0v7SmFMdaZ0yAOG8mWCnmf">here</A>.
+</BODY>
+</HTML>
+
+Google Sheets: data sent successfully.
+
+Raw Payload: 1726000,1.823,0.093,2.80,-1.61,0.55,TENANG,2206
+RSSI: -36 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 1726000
+Heave     : 1.823 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -1.61 deg
+Pitch     : 0.55 deg
+Status    : TENANG
+CRC       : 2206
+
+Raw Payload: 1728000,1.825,0.089,2.80,-1.60,0.68,TENANG,2218
+RSSI: -36 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 1728000
+Heave     : 1.825 m
+Hs        : 0.089 m
+Tp        : 2.80 s
+Roll      : -1.60 deg
+Pitch     : 0.68 deg
+Status    : TENANG
+CRC       : 2218
+
+Sending JSON to Google Sheets: {"timestamp":"1728000","heave":1.825,"hs":0.089,"tp":2.80,"roll":-1.60,"pitch":0.68,"status":"TENANG","rssi":-36,"snr":10.00,"crc":2218,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets Response: <HTML>
+<HEAD>
+<TITLE>Moved Temporarily</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<!-- GSE Default Error -->
+<H1>Moved Temporarily</H1>
+The document has moved <A HREF="https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnTaogRgsmHKld-0B52NWsyEH623XWAq5CcizlwPCiZoecsvvYb8L7cKjAhSKRtXCelDMiSlfa6888an9_4eZqyZPkZt_Pz_8nkLspHdA0QorRLrvJ1nQZRKRFYxwfIXBbAAA2ewuFzHa7Qn9nLRDouBYsLPhyShrBnAM8DZp6kYYcq80swcvJmStJ1YZl5-sIOwUjsyrbhL9nbgcy_GEY1deViaPf4Vy4-nt8NFiGCN7WJc70Y5ozpIS99z7ezcCVCZ6qeLcFAkFcT2fbl3FIhRh-qJ4Q&amp;lib=Mjxy466_R4h0v7SmFMdaZ0yAOG8mWCnmf">here</A>.
+</BODY>
+</HTML>
+
+Google Sheets: data sent successfully.
+
+Raw Payload: 1732000,1.834,0.094,2.80,-1.56,0.54,TENANG,2209
+RSSI: -37 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 1732000
+Heave     : 1.834 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -1.56 deg
+Pitch     : 0.54 deg
+Status    : TENANG
+CRC       : 2209
+
+Raw Payload: 1734000,1.834,0.093,2.80,-1.59,0.61,TENANG,2211
+RSSI: -36 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 1734000
+Heave     : 1.834 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -1.59 deg
+Pitch     : 0.61 deg
+Status    : TENANG
+CRC       : 2211
+
+Sending JSON to Google Sheets: {"timestamp":"1734000","heave":1.834,"hs":0.093,"tp":2.80,"roll":-1.59,"pitch":0.61,"status":"TENANG","rssi":-36,"snr":10.00,"crc":2211,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets Response: <HTML>
+<HEAD>
+<TITLE>Moved Temporarily</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<!-- GSE Default Error -->
+<H1>Moved Temporarily</H1>
+The document has moved <A HREF="https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnQ3C2JDda9jw-gVq5iyTzgDHgGfpGdtCLMAW05FwlZ4YfTAcRRjMetmPS8B5-fejWH02v7nKPBXRzlP-esCSLJxGYsF2gM8LNed_zJH66yWob3hNg-8VlKnz7fWEZ4H_chJXAfFlsI1Wynbnhnqyb6ElGK30sYJ0sGcg9DkdksPA6T3Ggoc6wU15WV7Kcg-BusRAFRJS7LQLT0_iO07KaqHKDBrDNapddrCo0u5ojiy62b_kS9Eav-2P758RYPwy0EdiYlQelCbqTiRCSJ7SVu5sgGmPA&amp;lib=Mjxy466_R4h0v7SmFMdaZ0yAOG8mWCnmf">here</A>.
+</BODY>
+</HTML>
+
+Google Sheets: data sent successfully.
+
+Raw Payload: 1738000,1.834,0.094,2.80,-1.74,0.62,TENANG,2214
+RSSI: -34 dBm | SNR: 10.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 1738000
+Heave     : 1.834 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -1.74 deg
+Pitch     : 0.62 deg
+Status    : TENANG
+CRC       : 2214
+
+Raw Payload: 1740000,1.831,0.095,2.80,-1.45,0.46,TENANG,2205
+RSSI: -35 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 1740000
+Heave     : 1.831 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -1.45 deg
+Pitch     : 0.46 deg
+Status    : TENANG
+CRC       : 2205
+
+Sending JSON to Google Sheets: {"timestamp":"1740000","heave":1.831,"hs":0.095,"tp":2.80,"roll":-1.45,"pitch":0.46,"status":"TENANG","rssi":-35,"snr":10.00,"crc":2205,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets Response: <HTML>
+<HEAD>
+<TITLE>Moved Temporarily</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<!-- GSE Default Error -->
+<H1>Moved Temporarily</H1>
+The document has moved <A HREF="https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnT3K5NP9Vd1MQ9SNOK4CPsFLYE46wXZFZ9-oVkoTeTT6HRgf9icKip1vYOdmxYFv9FcX1pvhHHMqulVHlIjU4jdv4ONdciJlntDJlTYf8yiWfF5XTUFzCFJXtqFkopVTkWAjR2TC_w24OwEsYGcRsdQ62v65J-r0ALzCNBKC5gmNcGeL90i08JSpud55In-gttcW9TY_uRaJdULY6O-ooczrm7mHYIhFaXIVa5be5s6dUkLILUUqyNQ1ueOv52bPjzQ4BFfk5pZAvbZ3RzGPc0Y-SpUzQ&amp;lib=Mjxy466_R4h0v7SmFMdaZ0yAOG8mWCnmf">here</A>.
+</BODY>
+</HTML>
+
+Google Sheets: data sent successfully.
+
+Raw Payload: 1744000,1.837,0.092,2.80,-1.60,0.49,TENANG,2212
+RSSI: -35 dBm | SNR: 10.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 1744000
+Heave     : 1.837 m
+Hs        : 0.092 m
+Tp        : 2.80 s
+Roll      : -1.60 deg
+Pitch     : 0.49 deg
+Status    : TENANG
+CRC       : 2212
+
+Raw Payload: 1746000,1.835,0.096,2.80,-1.52,0.50,TENANG,2209
+RSSI: -35 dBm | SNR: 10.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 1746000
+Heave     : 1.835 m
+Hs        : 0.096 m
+Tp        : 2.80 s
+Roll      : -1.52 deg
+Pitch     : 0.50 deg
+Status    : TENANG
+CRC       : 2209
+
+Sending JSON to Google Sheets: {"timestamp":"1746000","heave":1.835,"hs":0.096,"tp":2.80,"roll":-1.52,"pitch":0.50,"status":"TENANG","rssi":-35,"snr":10.25,"crc":2209,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets Response: <HTML>
+<HEAD>
+<TITLE>Moved Temporarily</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<!-- GSE Default Error -->
+<H1>Moved Temporarily</H1>
+The document has moved <A HREF="https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnRMo4uvcRzWspZ1hWyVZaMCsdx7hHiP6MiI6UsiL8H_rV5fH3_5UsVAoGXY7HBONqc_OCzuVdrgpNFrL3VziWb6chcmOmI8EPzlzdNpB2l3Tx-LgUrNqEVbRoLikPXvnjyeT5hWp4DC-6Aueu5G1Pb_j-0H1m510udxAXBeUHJ8C-REAv7Ju5NrJD_2yoZ18fZex1ZcYfzQZ2RSzfemZEwDuFfgKdF67J-illGhT2-BMNz7Ol5FbQtUWNDfLWj5Qf62cCFLqlUZTaeamrnaSt6Vt8lzOA&amp;lib=Mjxy466_R4h0v7SmFMdaZ0yAOG8mWCnmf">here</A>.
+</BODY>
+</HTML>
+
+Google Sheets: data sent successfully.
+
+Raw Payload: 1750000,1.832,0.094,2.80,-1.64,0.41,TENANG,2202
+RSSI: -35 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 1750000
+Heave     : 1.832 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -1.64 deg
+Pitch     : 0.41 deg
+Status    : TENANG
+CRC       : 2202
+
+Raw Payload: 1752000,1.831,0.093,2.80,-1.50,0.66,TENANG,2204
+RSSI: -36 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 1752000
+Heave     : 1.831 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -1.50 deg
+Pitch     : 0.66 deg
+Status    : TENANG
+CRC       : 2204
+
+Sending JSON to Google Sheets: {"timestamp":"1752000","heave":1.831,"hs":0.093,"tp":2.80,"roll":-1.50,"pitch":0.66,"status":"TENANG","rssi":-36,"snr":10.00,"crc":2204,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets Response: <HTML>
+<HEAD>
+<TITLE>Moved Temporarily</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<!-- GSE Default Error -->
+<H1>Moved Temporarily</H1>
+The document has moved <A HREF="https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnRc0vGd3GMLHgjiFIs5B9i0Audt-7iKGwndh820P4SKSBI6i1SWnVKxYr7fmVlatulpb0F0LVr8-WFL1g13CzyZZfz0fThBhnToZnIwr8-eGM_9X0SvVMpdaVI8wFqnPAENpTLS_7lBQn0S_NUcAtXXuEHL8Ecbg5tWjIXNOsEtP53mR-d2ZhLPWdbh1u6Fq-b2twHOTeOOSWtK6GIWmBWoYGQ2CTy8cuoQRQkQOm5nsmp-Ogk1BPUlvZXvRKAGSzFOk4wlVupPx6Nhu4ArKDFHHczzZg&amp;lib=Mjxy466_R4h0v7SmFMdaZ0yAOG8mWCnmf">here</A>.
+</BODY>
+</HTML>
+
+Google Sheets: data sent successfully.
+
+Raw Payload: 1756000,1.825,0.092,2.80,-1.74,0.19,TENANG,2214
+RSSI: -35 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 1756000
+Heave     : 1.825 m
+Hs        : 0.092 m
+Tp        : 2.80 s
+Roll      : -1.74 deg
+Pitch     : 0.19 deg
+Status    : TENANG
+CRC       : 2214
+
+Raw Payload: 1758000,1.825,0.092,2.80,-1.62,0.60,TENANG,2209
+RSSI: -35 dBm | SNR: 10.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 1758000
+Heave     : 1.825 m
+Hs        : 0.092 m
+Tp        : 2.80 s
+Roll      : -1.62 deg
+Pitch     : 0.60 deg
+Status    : TENANG
+CRC       : 2209
+
+Sending JSON to Google Sheets: {"timestamp":"1758000","heave":1.825,"hs":0.092,"tp":2.80,"roll":-1.62,"pitch":0.60,"status":"TENANG","rssi":-35,"snr":10.25,"crc":2209,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets Response: <HTML>
+<HEAD>
+<TITLE>Moved Temporarily</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<!-- GSE Default Error -->
+<H1>Moved Temporarily</H1>
+The document has moved <A HREF="https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnQOb-RU9S6w972t74rAzumupUu_yBtWpTUg9VX0V3gri3ZEuYvjYKz8DNvYTnpIdfAI4xkTVw6yQEgeAv710wV2M9TbLGJHvLB--3_Si87GXe0IxjsGr08eDJVEaDuod0XEFElOCTfX3fpwxk3wgboGy0tCD1UEC81oRfnYXBHPISo0hfeQhITQ2eSl90WgStIImOufkiPEJKuszSzdN2vvFVFt1mVkj4WcVgqfSmU_GclCarQ_39XqYSXrVp28ILOulXiTl9PKC2kB0PP3ksJ3sCOw3g&amp;lib=Mjxy466_R4h0v7SmFMdaZ0yAOG8mWCnmf">here</A>.
+</BODY>
+</HTML>
+
+Google Sheets: data sent successfully.
+
+Raw Payload: 1762000,1.827,0.092,2.80,-1.61,0.62,TENANG,2207
+RSSI: -34 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 1762000
+Heave     : 1.827 m
+Hs        : 0.092 m
+Tp        : 2.80 s
+Roll      : -1.61 deg
+Pitch     : 0.62 deg
+Status    : TENANG
+CRC       : 2207
+
+Raw Payload: 1764000,1.824,0.094,2.80,-1.78,0.44,TENANG,2216
+RSSI: -36 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 1764000
+Heave     : 1.824 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -1.78 deg
+Pitch     : 0.44 deg
+Status    : TENANG
+CRC       : 2216
+
+Sending JSON to Google Sheets: {"timestamp":"1764000","heave":1.824,"hs":0.094,"tp":2.80,"roll":-1.78,"pitch":0.44,"status":"TENANG","rssi":-36,"snr":9.75,"crc":2216,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets Response: <HTML>
+<HEAD>
+<TITLE>Moved Temporarily</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<!-- GSE Default Error -->
+<H1>Moved Temporarily</H1>
+The document has moved <A HREF="https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnRHyFO1YnkBUejda2wmI9g9koqT2ZnlEgmaS4isZTnDPLysargX__0T7x0a1IGXBdrNZ7Kz76lrcxIyLNm9_s6k8r2AYnuiNKv_kHSEBuSogVDNFjEIiJzpvTJuj7St5782mFvs-DRSmUc33qKhSfkAwSZWGeqfK_corNJQd1gUJn6rdXjEQJ1X_tt-xRRojV-SbKz1YF1-FxFmWJ1ktvwCA5KYLmcdmpaQxX2geif6sZVYcKr2NoLWFrd2iW3uM-5J3p6jgAAnVZjCoEh68XpuRF5quA&amp;lib=Mjxy466_R4h0v7SmFMdaZ0yAOG8mWCnmf">here</A>.
+</BODY>
+</HTML>
+
+Google Sheets: data sent successfully.
+
+Raw Payload: 1768000,1.831,0.092,2.80,-1.56,0.69,TENANG,2219
+RSSI: -36 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 1768000
+Heave     : 1.831 m
+Hs        : 0.092 m
+Tp        : 2.80 s
+Roll      : -1.56 deg
+Pitch     : 0.69 deg
+Status    : TENANG
+CRC       : 2219
+
+Raw Payload: 1770000,1.832,0.095,2.80,-1.47,0.52,TENANG,2208
+RSSI: -36 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 1770000
+Heave     : 1.832 m
+Hs        : 0.095 m
+Tp        : 2.80 s
+Roll      : -1.47 deg
+Pitch     : 0.52 deg
+Status    : TENANG
+CRC       : 2208
+
+Sending JSON to Google Sheets: {"timestamp":"1770000","heave":1.832,"hs":0.095,"tp":2.80,"roll":-1.47,"pitch":0.52,"status":"TENANG","rssi":-36,"snr":9.75,"crc":2208,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets Response: <HTML>
+<HEAD>
+<TITLE>Moved Temporarily</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<!-- GSE Default Error -->
+<H1>Moved Temporarily</H1>
+The document has moved <A HREF="https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnTFNjvCxYH6Cjs9sdCS9XM4q-zOovpghBOxs2wmXSzF4M6_kr2eHkxerWr3Wois5pTaEOSSkKUtLhXg9Dt69jHKizNyudbM_fCPI4J7pjhc1N1-5LZzGiGgAcFD4nUMqWm57usPrjEWgUqyEcXT4_8nEaJWmxqNvBnAq6wi0y602pvWlVGeNqCrTVs-ebQmspavwg0zYf5iMDkWBLWAz0vSg46sDsyzjxx-sPr10pCHNBBvGtM6_HtNBDMukHXPwnrfBw0va-OIkC7NJclFofBmRtObEA&amp;lib=Mjxy466_R4h0v7SmFMdaZ0yAOG8mWCnmf">here</A>.
+</BODY>
+</HTML>
+
+Google Sheets: data sent successfully.
+
+Raw Payload: 1774000,1.829,0.096,2.80,-1.64,0.32,TENANG,2216
+RSSI: -36 dBm | SNR: 10.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 1774000
+Heave     : 1.829 m
+Hs        : 0.096 m
+Tp        : 2.80 s
+Roll      : -1.64 deg
+Pitch     : 0.32 deg
+Status    : TENANG
+CRC       : 2216
+
+Raw Payload: 1776000,1.826,0.094,2.80,-1.76,0.65,TENANG,2222
+RSSI: -36 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 1776000
+Heave     : 1.826 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -1.76 deg
+Pitch     : 0.65 deg
+Status    : TENANG
+CRC       : 2222
+
+Sending JSON to Google Sheets: {"timestamp":"1776000","heave":1.826,"hs":0.094,"tp":2.80,"roll":-1.76,"pitch":0.65,"status":"TENANG","rssi":-36,"snr":10.00,"crc":2222,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets Response: <HTML>
+<HEAD>
+<TITLE>Moved Temporarily</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<!-- GSE Default Error -->
+<H1>Moved Temporarily</H1>
+The document has moved <A HREF="https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnTRJ-70tG-ZZVLVzGGFs68tyvl5aEqjKumORKQRxqZqHbgK-GAdw4QbAwqUoZ6iGkcCWnsILGiiT5S8FbAKy74oM8iCHN7WILaXJ0CzbLIO8OYfRdx-B_jWgrVViKO_2P2KDnHYDkj4GYlUoAYZEwCWhuyK35467du2gRBMza5HQsQ5uTXxDdrgKZimDTQz-cX5kakxVXGIauRDaeeRa_LsAZpHsw1bfeF8VLwkquy6cozTCYNtD6VJL89whdAbu9Vqcsq1Gs3KKe0zU4O5h7ePFHDIlA&amp;lib=Mjxy466_R4h0v7SmFMdaZ0yAOG8mWCnmf">here</A>.
+</BODY>
+</HTML>
+
+Google Sheets: data sent successfully.
+
+Raw Payload: 1780000,1.832,0.091,2.80,-1.46,0.71,TENANG,2205
+RSSI: -36 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 1780000
+Heave     : 1.832 m
+Hs        : 0.091 m
+Tp        : 2.80 s
+Roll      : -1.46 deg
+Pitch     : 0.71 deg
+Status    : TENANG
+CRC       : 2205
+
+Raw Payload: 1782000,1.829,0.093,2.80,-1.71,0.61,TENANG,2212
+RSSI: -35 dBm | SNR: 10.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 1782000
+Heave     : 1.829 m
+Hs        : 0.093 m
+Tp        : 2.80 s
+Roll      : -1.71 deg
+Pitch     : 0.61 deg
+Status    : TENANG
+CRC       : 2212
+
+Sending JSON to Google Sheets: {"timestamp":"1782000","heave":1.829,"hs":0.093,"tp":2.80,"roll":-1.71,"pitch":0.61,"status":"TENANG","rssi":-35,"snr":10.25,"crc":2212,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets Response: <HTML>
+<HEAD>
+<TITLE>Moved Temporarily</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<!-- GSE Default Error -->
+<H1>Moved Temporarily</H1>
+The document has moved <A HREF="https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnSyci6fYahKtSHhMDTOFeSD3GA0FhG_rAPY76wMM78LyUQCd1EBDKYHzhRbdPmJ-I9wShlyjeFnHkXS8j_KTMypGBr6Q9Ey47UvIBtrAVydkv3PHSYaLqnqoFI_SSVZI1NQq9IqDgglUw_n-0Yexa6S4VHDOGAB0AuXOlNDcLN7JWwtnY5djg557Y7R-CxLuWEkxtdjL4LfHiEQqSKKvjsZ_3KMUE_VlnkiLH5Fv8L9A9qAdqm1wIo6CbVlYR0z2GSS21j4unOfTmfiGRCyl6FICIQ7-A&amp;lib=Mjxy466_R4h0v7SmFMdaZ0yAOG8mWCnmf">here</A>.
+</BODY>
+</HTML>
+
+Google Sheets: data sent successfully.
+
+Raw Payload: 1786000,1.830,0.090,2.80,-1.46,0.60,TENANG,2206
+RSSI: -36 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 1786000
+Heave     : 1.830 m
+Hs        : 0.090 m
+Tp        : 2.80 s
+Roll      : -1.46 deg
+Pitch     : 0.60 deg
+Status    : TENANG
+CRC       : 2206
+
+Raw Payload: 1788000,1.829,0.086,2.80,-1.64,0.16,TENANG,2222
+RSSI: -36 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 1788000
+Heave     : 1.829 m
+Hs        : 0.086 m
+Tp        : 2.80 s
+Roll      : -1.64 deg
+Pitch     : 0.16 deg
+Status    : TENANG
+CRC       : 2222
+
+Sending JSON to Google Sheets: {"timestamp":"1788000","heave":1.829,"hs":0.086,"tp":2.80,"roll":-1.64,"pitch":0.16,"status":"TENANG","rssi":-36,"snr":10.00,"crc":2222,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets Response: <HTML>
+<HEAD>
+<TITLE>Moved Temporarily</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<!-- GSE Default Error -->
+<H1>Moved Temporarily</H1>
+The document has moved <A HREF="https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnQkdttVS6LWlwcGKjVx9Ipkr7R4ZbFccXVbdvk_xo1VucFIjTYcJuwKBJdtfqcKI5NTRc_wpWjQBm7KRnl6qzy5h4IVft1Kp2lh45NMdtsMuP6penH_zwEAGfCipN5Fa3jxRXrqNileAGt29j83fVbmuA0-_EVcL90PHqXjF3OyvS6DtWazyLXzkFZyQSsJmp_q1oLvURab103lSpraJJJXwUFvA0s_8ETFeYFBDXXeJGwI7fr_U5MMpnUDdzc6hGztMLklbRj1EcFuVysn82L4NIj-6A&amp;lib=Mjxy466_R4h0v7SmFMdaZ0yAOG8mWCnmf">here</A>.
+</BODY>
+</HTML>
+
+Google Sheets: data sent successfully.
+
+Raw Payload: 1792000,1.816,0.096,2.80,-1.33,0.17,TENANG,2211
+RSSI: -36 dBm | SNR: 10.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 1792000
+Heave     : 1.816 m
+Hs        : 0.096 m
+Tp        : 2.80 s
+Roll      : -1.33 deg
+Pitch     : 0.17 deg
+Status    : TENANG
+CRC       : 2211
+
+Raw Payload: 1794000,1.825,0.091,2.80,-1.51,0.54,TENANG,2209
+RSSI: -36 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 1794000
+Heave     : 1.825 m
+Hs        : 0.091 m
+Tp        : 2.80 s
+Roll      : -1.51 deg
+Pitch     : 0.54 deg
+Status    : TENANG
+CRC       : 2209
+
+Sending JSON to Google Sheets: {"timestamp":"1794000","heave":1.825,"hs":0.091,"tp":2.80,"roll":-1.51,"pitch":0.54,"status":"TENANG","rssi":-36,"snr":9.75,"crc":2209,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets Response: <HTML>
+<HEAD>
+<TITLE>Moved Temporarily</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<!-- GSE Default Error -->
+<H1>Moved Temporarily</H1>
+The document has moved <A HREF="https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnSBg0uLbbBFqtHEsoElznrPhu0Qpx4yaKQD70nNe_y5ompmnIKx4IX2ondH2irzp8F_7UDIbqOkKMi8c8Mec3MpfUK8s_iPJIRvGT5eIeFLfEgP05spbgr8Lx-ooJZkZAAI_aD1rRnGi0Fi8Nxoudy0UySNpMY755cU2aU-1SB4n4Z44pMlUV1x-VzvL5VpIpWZoDIoyzMCuc3SbvI88CsCUjI7n3ujjnHwLjH2RsGHwsZ4UNFIuix84AR-q90pJj1UfjFdOqKMs_yAraju2UILsnh-4A&amp;lib=Mjxy466_R4h0v7SmFMdaZ0yAOG8mWCnmf">here</A>.
+</BODY>
+</HTML>
+
+Google Sheets: data sent successfully.
+
+Raw Payload: 1798000,1.832,0.094,2.80,-1.54,0.72,TENANG,2217
+RSSI: -36 dBm | SNR: 10.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 1798000
+Heave     : 1.832 m
+Hs        : 0.094 m
+Tp        : 2.80 s
+Roll      : -1.54 deg
+Pitch     : 0.72 deg
+Status    : TENANG
+CRC       : 2217
+
+Raw Payload: 1800000,1.823,0.091,2.80,-1.75,0.46,TENANG,2202
+RSSI: -36 dBm | SNR: 10.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 1800000
+Heave     : 1.823 m
+Hs        : 0.091 m
+Tp        : 2.80 s
+Roll      : -1.75 deg
+Pitch     : 0.46 deg
+Status    : TENANG
+CRC       : 2202
+
+Sending JSON to Google Sheets: {"timestamp":"1800000","heave":1.823,"hs":0.091,"tp":2.80,"roll":-1.75,"pitch":0.46,"status":"TENANG","rssi":-36,"snr":10.50,"crc":2202,"crc_ok":"YA","keterangan":"LoRa Gateway"}
+Google Sheets HTTP Code: 302
+Google Sheets Response: <HTML>
+<HEAD>
+<TITLE>Moved Temporarily</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<!-- GSE Default Error -->
+<H1>Moved Temporarily</H1>
+The document has moved <A HREF="https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnTsyaX5fu1VKKJmg2wOuceBu-kVqq0iUzf1DHc7_n30c-Ujoqd9eqnjPhxC41Sjs-dfTPCC3Gowv4LAepEpFo7NAjLSFNZXnft7XD-sxax--G4zlTUpXUnq9gptp8XxTZRjK1dJiecRIM-g3euvxFEZg7MZpaIblGwuVV7-FfezDpDhFVXaU8PKKS6fbR7F_gzCVFnYEOvBEcJ_tWTXa81gkbOWc8-RhtOdLy5BAPYKA6xdRbSvHoPJ2LHktEaeDyRyBMfebpX-SLqk3TjfMBGp76OO3g&amp;lib=Mjxy466_R4h0v7SmFMdaZ0yAOG8mWCnmf">here</A>.
+</BODY>
+</HTML>
+
+Google Sheets: data sent successfully.
+
+Raw Payload: 1804000,1.828,0.092,2.80,-1.69,0.59,TENANG,2219
+RSSI: -36 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 1804000
+Heave     : 1.828 m
+Hs        : 0.092 m
+Tp        : 2.80 s
+Roll      : -1.69 deg
+Pitch     : 0.59 deg
+Status    : TENANG
+CRC       : 2219
+

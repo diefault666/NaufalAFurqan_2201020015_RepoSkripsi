@@ -1,0 +1,30 @@
+C02 - Ringkasan Pembacaan 6 Posisi GY-87
+
+Data berhasil direkam pada enam kondisi:
+1. Z ke atas
+2. Z ke bawah
+3. X ke atas
+4. X ke bawah
+5. Y ke atas
+6. Y ke bawah
+
+Rata-rata pembacaan:
+- Z ke atas: ax_g=0,0940; ay_g=0,0137; az_g=1,0779
+- Z ke bawah: ax_g=-0,0015; ay_g=0,0031; az_g=-0,9401
+- X ke atas: ax_g=1,0207; ay_g=-0,0230; az_g=0,0843
+- X ke bawah: ax_g=-0,9648; ay_g=0,0067; az_g=0,1304
+- Y ke atas: ax_g=0,0379; ay_g=0,9898; az_g=0,0029
+- Y ke bawah: ax_g=0,0093; ay_g=-1,0010; az_g=0,0685
+
+Hasil estimasi kalibrasi akselerometer:
+- Bias X = 458,48 raw; LSB per 1g X = 16265,48
+- Bias Y = -91,82 raw; LSB per 1g Y = 16308,15
+- Bias Z = 1129,05 raw; LSB per 1g Z = 16531,99
+
+Estimasi bias giroskop dari kondisi diam:
+- Bias gx = -233,87 raw atau -1,7853 °/s
+- Bias gy = -60,78 raw atau -0,4639 °/s
+- Bias gz = -256,41 raw atau -1,9574 °/s
+
+Kesimpulan:
+Sensor GY-87/MPU6050 berhasil membaca orientasi pada semua sumbu. Data menunjukkan adanya offset akselerometer dan bias giroskop, sehingga kalibrasi wajib diterapkan sebelum algoritma Madgwick dan Kalman Filter.

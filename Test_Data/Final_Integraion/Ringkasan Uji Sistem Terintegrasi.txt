@@ -1,0 +1,26 @@
+E02 - Ringkasan Uji Sistem Terintegrasi
+
+File:
+- Uji Sistem Terintegrasi Log.txt
+
+Hasil:
+- Jumlah payload valid: 408 paket.
+- Durasi pengujian terbaca: sekitar 13 menit 32 detik.
+- Format payload: Timestamp, Heave, Hs, Tp, Roll, Pitch, Status, CRC.
+- CRC error: 0.
+- Packet discarded: 0.
+- Timeout: 1 kali.
+- Recovery setelah timeout: berhasil.
+- Status yang muncul:
+  1. TENANG = 307 paket
+  2. RENDAH = 79 paket
+  3. SEDANG = 22 paket
+- Rentang Hs: 0,052 m sampai 1,705 m.
+- Rata-rata Hs: sekitar 0,343 m.
+- Rentang RSSI: -64 sampai -31 dBm.
+- Rata-rata RSSI: sekitar -39,92 dBm.
+- Rentang SNR: 0,75 sampai 12,50 dB.
+- Rata-rata SNR: sekitar 9,61 dB.
+
+Kesimpulan:
+E-2 berhasil. Sistem terintegrasi mampu menjalankan proses pembacaan data pada buoy, pengolahan Madgwick-Kalman, perhitungan Hs, pengiriman LoRa, penerimaan gateway, validasi CRC, tampilan OLED, indikator LED/buzzer, timeout, dan recovery data setelah buoy aktif kembali. Catatan perbaikan terdapat pada nilai heave yang masih menunjukkan offset/drift.

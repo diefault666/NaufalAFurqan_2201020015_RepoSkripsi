@@ -1,0 +1,16 @@
+C07 - Ringkasan Final Kalman Heave Filter
+
+File yang diuji:
+1. KalmanHeave DIAM.txt
+2. KalmanHeave NAIK TURUN.txt
+3. KalmanHeave RECOVERY.txt
+
+Hasil:
+- Pada kondisi diam, heave_m dan heave_filtered_m stabil mendekati 0.
+- Pada kondisi naik-turun, heave_filtered_m berubah mengikuti gerakan sensor.
+- Pada kondisi recovery, heave_filtered_m kembali mendekati 0.
+- Kalman sederhana berhasil menghaluskan nilai heave hasil integrasi.
+- Masih terdapat error I2C pada uji gerak, sehingga kabel GY-87 perlu diperkuat sebelum uji lapangan.
+
+Kesimpulan:
+C-7 berhasil. Nilai heave_filtered_m sudah layak digunakan sebagai input tahap berikutnya, yaitu perhitungan Hs dari window data heave.

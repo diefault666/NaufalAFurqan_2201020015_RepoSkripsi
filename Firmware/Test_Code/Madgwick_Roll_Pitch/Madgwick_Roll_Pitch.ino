@@ -1,0 +1,205 @@
+#include <Wire.h>
+#include <MadgwickAHRS.h>
+
+#define DEBUG_SERIAL Serial0
+
+#define I2C_SDA 17
+#define I2C_SCL 18
+#define LED_BIRU_BUOY 1
+
+#define MPU6050_ADDR 0x68
+
+// Register MPU6050
+#define REG_PWR_MGMT_1   0x6B
+#define REG_ACCEL_CONFIG 0x1C
+#define REG_GYRO_CONFIG  0x1B
+#define REG_ACCEL_XOUT_H 0x3B
+
+// ====== NILAI KALIBRASI  ======
+float accel_bias_x = 458.48;
+float accel_bias_y = -91.82;
+float accel_bias_z = 1129.05;
+
+float accel_lsb_per_g_x = 16265.48;
+float accel_lsb_per_g_y = 16308.15;
+float accel_lsb_per_g_z = 16531.99;
+
+float gyro_bias_x = -233.87;
+float gyro_bias_y = -60.78;
+float gyro_bias_z = -256.41;
+
+const float GYRO_LSB_PER_DPS = 131.0;
+
+// Sampling
+const float SAMPLE_RATE_HZ = 50.0;
+const unsigned long SAMPLE_INTERVAL_US = 1000000UL / SAMPLE_RATE_HZ;
+unsigned long lastSampleMicros = 0;
+
+// Madgwick object
+Madgwick filter;
+
+// LED blink
+unsigned long lastLedMillis = 0;
+bool ledState = false;
+
+// Counter
+unsigned long sampleCounter = 0;
+
+bool read16Safe(uint8_t reg, int16_t &value) {
+  Wire.beginTransmission(MPU6050_ADDR);
+  Wire.write(reg);
+  uint8_t error = Wire.endTransmission(false);
+
+  if (error != 0) {
+    return false;
+  }
+
+  uint8_t bytesReceived = Wire.requestFrom(MPU6050_ADDR, (uint8_t)2);
+
+  if (bytesReceived < 2) {
+    return false;
+  }
+
+  value = (Wire.read() << 8) | Wire.read();
+  return true;
+}
+
+void writeRegister(uint8_t reg, uint8_t value) {
+  Wire.beginTransmission(MPU6050_ADDR);
+  Wire.write(reg);
+  Wire.write(value);
+  Wire.endTransmission();
+}
+
+void setupMPU6050() {
+  // Bangunkan MPU6050
+  writeRegister(REG_PWR_MGMT_1, 0x00);
+  delay(100);
+
+  // Accel range ±2g
+  writeRegister(REG_ACCEL_CONFIG, 0x00);
+
+  // Gyro range ±250 deg/s
+  writeRegister(REG_GYRO_CONFIG, 0x00);
+
+  delay(100);
+}
+
+bool readMPU6050(
+  int16_t &ax_raw,
+  int16_t &ay_raw,
+  int16_t &az_raw,
+  int16_t &gx_raw,
+  int16_t &gy_raw,
+  int16_t &gz_raw
+) {
+  bool ok = true;
+
+  ok &= read16Safe(REG_ACCEL_XOUT_H, ax_raw);
+  ok &= read16Safe(REG_ACCEL_XOUT_H + 2, ay_raw);
+  ok &= read16Safe(REG_ACCEL_XOUT_H + 4, az_raw);
+
+  // Temperature register ada di 0x41 dan 0x42, kita lewati
+  ok &= read16Safe(REG_ACCEL_XOUT_H + 8, gx_raw);
+  ok &= read16Safe(REG_ACCEL_XOUT_H + 10, gy_raw);
+  ok &= read16Safe(REG_ACCEL_XOUT_H + 12, gz_raw);
+
+  return ok;
+}
+
+void blinkLedActivity() {
+  unsigned long now = millis();
+
+  if (now - lastLedMillis >= 500) {
+    lastLedMillis = now;
+    ledState = !ledState;
+    digitalWrite(LED_BIRU_BUOY, ledState ? HIGH : LOW);
+  }
+}
+
+void setup() {
+  pinMode(LED_BIRU_BUOY, OUTPUT);
+
+  DEBUG_SERIAL.begin(115200);
+  delay(3000);
+
+  DEBUG_SERIAL.println();
+  DEBUG_SERIAL.println("====================================");
+  DEBUG_SERIAL.println("SMART BUOY - TEST C04");
+  DEBUG_SERIAL.println("Madgwick Roll/Pitch GY-87");
+  DEBUG_SERIAL.println("SDA: GPIO17 | SCL: GPIO18");
+  DEBUG_SERIAL.println("LED biru buoy: GPIO1");
+  DEBUG_SERIAL.println("Debug: Serial0");
+  DEBUG_SERIAL.println("Sample rate: 50 Hz");
+  DEBUG_SERIAL.println("====================================");
+
+  Wire.begin(I2C_SDA, I2C_SCL);
+  Wire.setClock(100000);
+
+  setupMPU6050();
+
+  filter.begin(SAMPLE_RATE_HZ);
+
+  DEBUG_SERIAL.println("MPU6050 initialized.");
+  DEBUG_SERIAL.println("Madgwick initialized.");
+  DEBUG_SERIAL.println();
+  DEBUG_SERIAL.println("sample,ax_g,ay_g,az_g,gx_dps,gy_dps,gz_dps,roll_deg,pitch_deg,yaw_deg");
+}
+
+void loop() {
+  blinkLedActivity();
+
+  unsigned long nowMicros = micros();
+
+  if (nowMicros - lastSampleMicros < SAMPLE_INTERVAL_US) {
+    return;
+  }
+
+  lastSampleMicros = nowMicros;
+
+  int16_t ax_raw, ay_raw, az_raw;
+  int16_t gx_raw, gy_raw, gz_raw;
+
+  bool ok = readMPU6050(ax_raw, ay_raw, az_raw, gx_raw, gy_raw, gz_raw);
+
+  if (!ok) {
+    DEBUG_SERIAL.println("ERROR: MPU6050 read failed. Cek kabel SDA/SCL/VCC/GND.");
+    return;
+  }
+
+  // Konversi accelerometer hasil kalibrasi
+  float ax_g = (ax_raw - accel_bias_x) / accel_lsb_per_g_x;
+  float ay_g = (ay_raw - accel_bias_y) / accel_lsb_per_g_y;
+  float az_g = (az_raw - accel_bias_z) / accel_lsb_per_g_z;
+
+  // Konversi gyro hasil kalibrasi dalam derajat/detik
+  float gx_dps = (gx_raw - gyro_bias_x) / GYRO_LSB_PER_DPS;
+  float gy_dps = (gy_raw - gyro_bias_y) / GYRO_LSB_PER_DPS;
+  float gz_dps = (gz_raw - gyro_bias_z) / GYRO_LSB_PER_DPS;
+
+  /*
+    Library MadgwickAHRS Arduino umumnya menerima:
+    updateIMU(gx, gy, gz, ax, ay, az)
+
+    gx, gy, gz dalam deg/s
+    ax, ay, az dalam satuan g
+  */
+  filter.updateIMU(gx_dps, gy_dps, gz_dps, ax_g, ay_g, az_g);
+
+  float roll = filter.getRoll();
+  float pitch = filter.getPitch();
+  float yaw = filter.getYaw();
+
+  DEBUG_SERIAL.print(sampleCounter); DEBUG_SERIAL.print(",");
+  DEBUG_SERIAL.print(ax_g, 4); DEBUG_SERIAL.print(",");
+  DEBUG_SERIAL.print(ay_g, 4); DEBUG_SERIAL.print(",");
+  DEBUG_SERIAL.print(az_g, 4); DEBUG_SERIAL.print(",");
+  DEBUG_SERIAL.print(gx_dps, 4); DEBUG_SERIAL.print(",");
+  DEBUG_SERIAL.print(gy_dps, 4); DEBUG_SERIAL.print(",");
+  DEBUG_SERIAL.print(gz_dps, 4); DEBUG_SERIAL.print(",");
+  DEBUG_SERIAL.print(roll, 2); DEBUG_SERIAL.print(",");
+  DEBUG_SERIAL.print(pitch, 2); DEBUG_SERIAL.print(",");
+  DEBUG_SERIAL.println(yaw, 2);
+
+  sampleCounter++;
+}

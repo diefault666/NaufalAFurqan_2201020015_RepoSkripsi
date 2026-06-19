@@ -1,0 +1,18 @@
+C05 - Ringkasan Final Gravity Correction
+
+File valid:
+1. Gravity Correction NAIK TURUN.txt
+2. Gravity Correction RECOVERY.txt
+3. Gravity Correct Diam RETAKE.txt
+
+Hasil DIAM RETAKE:
+- acc_z_world_g rata-rata = 1.0026 g
+- heave_acc_g rata-rata = 0.0026 g
+- heave_acc_ms2 rata-rata = 0.0254 m/s²
+- heave_acc_ms2 minimum = -0.1224 m/s²
+- heave_acc_ms2 maksimum = 0.1756 m/s²
+- roll rata-rata = 1.0069°
+- pitch rata-rata = -3.5913°
+
+Kesimpulan:
+Koreksi gravitasi berhasil. Saat sensor diam, heave acceleration berada mendekati 0 m/s², sehingga data sudah layak digunakan untuk tahap integrasi akselerasi menjadi velocity dan heave.

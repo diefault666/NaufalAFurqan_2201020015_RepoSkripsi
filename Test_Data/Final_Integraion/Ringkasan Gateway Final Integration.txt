@@ -1,0 +1,28 @@
+E01 - Ringkasan Gateway Final Integration
+
+File:
+- Gateway Final Integration Log.txt
+
+Hasil:
+- Gateway berhasil booting normal.
+- OLED berhasil diinisialisasi.
+- LoRa berhasil diinisialisasi.
+- Gateway berhasil menerima payload final dari buoy.
+- Format payload:
+  Timestamp,Heave,Hs,Tp,Roll,Pitch,Status,CRC
+- Payload berhasil diparsing dan divalidasi CRC.
+- Jumlah payload valid: 97 paket.
+- Durasi pengujian data valid: sekitar 192 detik.
+- Status yang muncul:
+  1. TENANG = 84 paket
+  2. RENDAH = 12 paket
+  3. SEDANG = 1 paket
+- Rentang Hs: 0,047 m sampai 1,258 m.
+- Rata-rata Hs: sekitar 0,223 m.
+- Rentang heave: 0,736 m sampai 2,015 m.
+- Rentang RSSI: -51 sampai -31 dBm.
+- Rentang SNR: 6,75 sampai 10,50 dB.
+- Timeout muncul 2 kali pada awal/sebelum data stabil.
+
+Kesimpulan:
+E-1 berhasil dengan catatan. Gateway final integration sudah mampu menerima data LoRa dari buoy, memvalidasi CRC, menampilkan data, dan mengaktifkan status berdasarkan Hs. Nilai heave masih menunjukkan offset sehingga perlu menjadi catatan pada tahap validasi algoritma.

@@ -1,0 +1,15 @@
+D05 - Ringkasan Final Gateway Timeout Test
+
+File:
+- Gateway Timeout Test.txt
+
+Hasil:
+- Gateway berhasil menerima payload valid dari buoy sebelum timeout.
+- Payload berisi Timestamp, Heave, Hs, Tp, Roll, Pitch, Status, dan CRC.
+- Status terakhir sebelum timeout adalah TENANG.
+- Setelah data LoRa tidak diterima lebih dari 5 detik, gateway menampilkan pesan timeout.
+- Gateway masuk mode WAITING.
+- LED biru menyala terus sebagai indikator menunggu/tidak ada data.
+
+Kesimpulan:
+D-5 berhasil. Gateway mampu mendeteksi kondisi data LoRa terputus dan memberikan indikator WAITING sesuai rancangan sistem.

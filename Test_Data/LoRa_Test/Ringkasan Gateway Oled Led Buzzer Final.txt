@@ -1,0 +1,16 @@
+D04 - Ringkasan Final Gateway OLED LED Buzzer
+
+File:
+- Gateway OLED LED BUZZER retake.txt
+
+Hasil:
+- Gateway berhasil menerima payload asli dari buoy melalui LoRa 433 MHz.
+- Payload berisi Timestamp, Heave, Hs, Tp, Roll, Pitch, Status, dan CRC.
+- Gateway berhasil melakukan parsing payload dan validasi CRC.
+- Status TENANG, RENDAH, SEDANG, dan TINGGI berhasil diterima.
+- RSSI berkisar sekitar -63 sampai -91 dBm.
+- SNR berkisar sekitar 8,00 sampai 10,50 dB.
+- Terdapat sedikit karakter tidak terbaca pada log serial, tetapi tidak mengganggu penerimaan data valid.
+
+Kesimpulan:
+D-4 berhasil. Gateway sudah dapat menerima data Smart Buoy, menampilkan informasi utama, dan menjalankan indikator status berdasarkan payload LoRa.

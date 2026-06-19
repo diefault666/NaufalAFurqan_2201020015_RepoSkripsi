@@ -1,0 +1,24 @@
+E01A - Ringkasan Buoy Final Integration Tanpa OLED
+
+File:
+- Gateway Final Integration NoOLEDBuoy Log.txt
+
+Hasil:
+- Buoy final tanpa OLED berhasil mengirim payload ke gateway.
+- Gateway berhasil menerima payload final.
+- Format payload:
+  Timestamp,Heave,Hs,Tp,Roll,Pitch,Status,CRC
+- Jumlah payload valid: 76 paket.
+- Durasi data valid: sekitar 150 detik.
+- Status yang muncul:
+  1. TENANG = 28 paket
+  2. RENDAH = 45 paket
+  3. SEDANG = 3 paket
+- Rentang Hs: 0,026 m sampai 1,452 m.
+- Rata-rata Hs: sekitar 0,574 m.
+- Rentang heave: 0,022 m sampai 2,143 m.
+- Rentang RSSI: -65 sampai -32 dBm.
+- Rentang SNR: 6,00 sampai 12,00 dB.
+
+Kesimpulan:
+E-1A berhasil. Unit buoy tanpa OLED tetap dapat berfungsi sebagai node sensor, pengolah data Madgwick-Kalman, penghitung Hs, dan pengirim data LoRa. Gateway tetap mampu menerima, memvalidasi, parsing, dan menampilkan data. Catatan perbaikan terdapat pada nilai heave yang masih menunjukkan offset/drift sehingga perlu dianalisis pada tahap validasi algoritma.

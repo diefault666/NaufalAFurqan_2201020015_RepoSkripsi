@@ -1,0 +1,36 @@
+C03 - Ringkasan Final Kalibrasi GY-87 / MPU6050
+
+Hasil rata-rata 6 posisi setelah kalibrasi:
+
+1. Z ke atas:
+   ax_g_cal = 0,0711
+   ay_g_cal = 0,0181
+   az_g_cal = 0,9992
+
+2. Z ke bawah:
+   ax_g_cal = -0,0300
+   ay_g_cal = 0,0008
+   az_g_cal = -0,9982
+
+3. X ke atas:
+   ax_g_cal = 1,0005
+   ay_g_cal = -0,0135
+   az_g_cal = 0,0001
+
+4. X ke bawah:
+   ax_g_cal = -0,9996
+   ay_g_cal = 0,0076
+   az_g_cal = 0,0589
+
+5. Y ke atas:
+   ax_g_cal = 0,0017
+   ay_g_cal = 1,0009
+   az_g_cal = -0,0524
+
+6. Y ke bawah:
+   ax_g_cal = -0,0173
+   ay_g_cal = -1,0001
+   az_g_cal = 0,0033
+
+Kesimpulan:
+Kalibrasi awal GY-87/MPU6050 berhasil. Nilai sumbu dominan pada setiap posisi sudah mendekati nilai ideal ±1 g. Masih terdapat sedikit offset pada sumbu non-dominan, tetapi masih dapat diterima untuk tahap awal sebelum implementasi Madgwick Filter dan Kalman Filter.

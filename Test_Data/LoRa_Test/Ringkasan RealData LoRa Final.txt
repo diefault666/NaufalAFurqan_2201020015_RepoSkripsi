@@ -1,0 +1,19 @@
+D03 - Ringkasan Final Pengiriman Data Asli Buoy ke Gateway
+
+File:
+- Gateway RealData RX.txt
+
+Format payload:
+Timestamp,Heave,Hs,Tp,Roll,Pitch,Status,CRC
+
+Hasil:
+- Gateway berhasil menerima data asli dari buoy melalui LoRa 433 MHz.
+- Data yang diterima terdiri dari Timestamp, Heave, Hs, Tp, Roll, Pitch, Status, dan CRC.
+- Gateway berhasil melakukan parsing payload.
+- CRC berhasil digunakan untuk validasi paket.
+- Status TENANG, RENDAH, dan SEDANG berhasil diterima.
+- RSSI bervariasi sekitar -66 sampai -110 dBm.
+- SNR bervariasi sekitar 6,25 sampai 10,75 dB.
+
+Kesimpulan:
+Pengiriman data asli Smart Buoy melalui LoRa berhasil. Sistem buoy telah mampu membaca sensor, menghitung Hs, menentukan status gelombang, dan mengirimkan hasilnya ke gateway.

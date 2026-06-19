@@ -1,0 +1,18 @@
+D02 - Ringkasan Final LoRa Payload Smart Buoy
+
+File:
+- LoRa Payload RX GATEWAY.txt
+
+Format payload:
+Timestamp,Heave,Hs,Tp,Roll,Pitch,Status,CRC
+
+Hasil:
+- Gateway berhasil menerima payload Smart Buoy dari buoy.
+- Gateway berhasil parsing data Timestamp, Heave, Hs, Tp, Roll, Pitch, Status, dan CRC.
+- CRC sederhana berhasil digunakan untuk validasi paket.
+- Status simulasi berhasil berubah menjadi TENANG, RENDAH, dan SEDANG.
+- RSSI berkisar sekitar -73 sampai -78 dBm.
+- SNR berkisar sekitar 9,25 sampai 10,25 dB.
+
+Kesimpulan:
+Pengiriman payload Smart Buoy melalui LoRa berhasil. Data ini siap digunakan sebagai dasar untuk tahap D-3, yaitu penggabungan data asli hasil perhitungan buoy dengan pengiriman LoRa ke gateway.

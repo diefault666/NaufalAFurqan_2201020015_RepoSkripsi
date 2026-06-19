@@ -1,0 +1,2721 @@
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+/ RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...======
+LoRa initialized successfully.
+Waiting for packets...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30c0
+entry 0x403c88b8
+
+====================================
+SMART BUOY - D01 LoRa RX
+GATEWAY UNIT / RECEIVER
+Frequency: 433 MHz
+====================================
+LoRa initialized successfully.
+Waiting for packets...
+Received: HELLO_SMART_BUOY,0,3047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,1,5047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,2,7047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,3,9047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,4,11047 | RSSI: -48 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,5,13047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,6,15047 | RSSI: -48 dBm | SNR: 9.75
+Received: HELLO_SMART_BUOY,7,17047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,8,19047 | RSSI: -48 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,9,21047 | RSSI: -48 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,10,23047 | RSSI: -49 dBm | SNR: 9.50
+Received: HELLO_SMART_BUOY,11,25047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,12,27047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,13,29047 | RSSI: -49 dBm | SNR: 9.25
+Received: HELLO_SMART_BUOY,14,31047 | RSSI: -49 dBm | SNR: 9.00
+Received: HELLO_SMART_BUOY,15,33047 | RSSI: -48 dBm | SNR: 9.25
+V

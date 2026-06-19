@@ -1,0 +1,15 @@
+D01 - Ringkasan Final LoRa Basic TX-RX
+
+File:
+- LoRa RX GATEWAY.txt
+
+Hasil:
+- LoRa gateway berhasil diinisialisasi pada frekuensi 433 MHz.
+- Gateway berhasil menerima paket dari buoy.
+- Payload diterima: HELLO_SMART_BUOY,counter,millis.
+- Counter paket diterima berurutan dari 0 sampai 15.
+- RSSI berkisar sekitar -48 sampai -49 dBm.
+- SNR berkisar sekitar 9,00 sampai 9,75 dB.
+
+Kesimpulan:
+Uji komunikasi dasar LoRa berhasil. Modul buoy dan gateway dapat saling berkomunikasi pada frekuensi 433 MHz. Data ini layak digunakan sebagai dasar untuk tahap D-2, yaitu pengiriman payload data Smart Buoy.

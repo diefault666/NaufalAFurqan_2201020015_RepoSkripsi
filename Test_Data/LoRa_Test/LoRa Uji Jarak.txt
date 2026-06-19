@@ -1,0 +1,1848 @@
+=== JARAK 50 METER ===
+
+====================================
+SMART BUOY - D04 Gateway OLED LED Buzzer
+GATEWAY UNIT / RECEIVER
+LoRa DIO0 tetap GPIO7
+Buzzer gateway GPIO15
+Payload: Timestamp,Heave,Hs,Tp,Roll,Pitch,Status,CRC
+====================================
+OLED initialized.
+LoRa initialized successfully.
+Waiting for real smart buoy payload...
+
+TIMEOUT: Data LoRa tidak diterima lebih dari 5 detik.
+Gateway masuk mode WAITING.
+LED biru menyala terus.
+
+Raw Payload: 3257,0.000,0.000,2.80,0.06,-0.22,TENANG,2029
+RSSI: -88 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 3257
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 0.06 deg
+Pitch     : -0.22 deg
+Status    : TENANG
+CRC       : 2029
+
+Raw Payload: 5259,0.000,0.000,2.80,1.48,-5.77,TENANG,2055
+RSSI: -90 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 5259
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.48 deg
+Pitch     : -5.77 deg
+Status    : TENANG
+CRC       : 2055
+
+Raw Payload: 7261,0.000,0.000,2.80,1.59,-6.20,TENANG,2041
+RSSI: -88 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 7261
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.59 deg
+Pitch     : -6.20 deg
+Status    : TENANG
+CRC       : 2041
+
+Raw Payload: 9263,0.000,0.000,2.80,1.39,-5.82,TENANG,2050
+RSSI: -89 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 9263
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.39 deg
+Pitch     : -5.82 deg
+Status    : TENANG
+CRC       : 2050
+
+Raw Payload: 11265,0.000,0.000,2.80,1.28,-5.62,TENANG,2089
+RSSI: -87 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 11265
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.28 deg
+Pitch     : -5.62 deg
+Status    : TENANG
+CRC       : 2089
+
+Raw Payload: 13267,0.000,0.000,2.80,1.53,-5.80,TENANG,2091
+RSSI: -87 dBm | SNR: 9.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 13267
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.53 deg
+Pitch     : -5.80 deg
+Status    : TENANG
+CRC       : 2091
+
+Raw Payload: 15269,0.000,0.000,2.80,1.47,-5.80,TENANG,2098
+RSSI: -89 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 15269
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.47 deg
+Pitch     : -5.80 deg
+Status    : TENANG
+CRC       : 2098
+
+Raw Payload: 17271,0.000,0.000,2.80,1.41,-5.88,TENANG,2095
+RSSI: -93 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 17271
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.41 deg
+Pitch     : -5.88 deg
+Status    : TENANG
+CRC       : 2095
+
+Raw Payload: 19273,0.000,0.000,2.80,1.50,-5.61,TENANG,2090
+RSSI: -95 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 19273
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.50 deg
+Pitch     : -5.61 deg
+Status    : TENANG
+CRC       : 2090
+
+Raw Payload: 21275,0.000,0.000,2.80,1.31,-6.04,TENANG,2082
+RSSI: -93 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 21275
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.31 deg
+Pitch     : -6.04 deg
+Status    : TENANG
+CRC       : 2082
+
+Raw Payload: 23277,0.000,0.000,2.80,1.40,-5.72,TENANG,2090
+RSSI: -94 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 23277
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.40 deg
+Pitch     : -5.72 deg
+Status    : TENANG
+CRC       : 2090
+
+Raw Payload: 25279,0.000,0.000,2.80,1.39,-5.60,TENANG,2099
+RSSI: -94 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 25279
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.39 deg
+Pitch     : -5.60 deg
+Status    : TENANG
+CRC       : 2099
+
+Raw Payload: 27281,0.000,0.000,2.80,1.42,-5.83,TENANG,2093
+RSSI: -94 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 27281
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.42 deg
+Pitch     : -5.83 deg
+Status    : TENANG
+CRC       : 2093
+
+Raw Payload: 29283,0.000,0.000,2.80,1.46,-5.88,TENANG,2106
+RSSI: -95 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 29283
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.46 deg
+Pitch     : -5.88 deg
+Status    : TENANG
+CRC       : 2106
+
+Raw Payload: 31285,0.000,0.000,2.80,1.62,-5.78,TENANG,2098
+RSSI: -94 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 31285
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.62 deg
+Pitch     : -5.78 deg
+Status    : TENANG
+CRC       : 2098
+
+Raw Payload: 33287,0.000,0.000,2.80,1.30,-5.93,TENANG,2094
+RSSI: -92 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 33287
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.30 deg
+Pitch     : -5.93 deg
+Status    : TENANG
+CRC       : 2094
+
+Raw Payload: 35289,-0.000,0.000,2.80,1.56,-5.90,TENANG,2148
+RSSI: -92 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 35289
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.56 deg
+Pitch     : -5.90 deg
+Status    : TENANG
+CRC       : 2148
+
+Raw Payload: 37291,-0.000,0.000,2.80,1.37,-5.91,TENANG,2143
+RSSI: -92 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 37291
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.37 deg
+Pitch     : -5.91 deg
+Status    : TENANG
+CRC       : 2143
+
+Raw Payload: 39293,-0.000,0.000,2.80,1.26,-5.69,TENANG,2150
+RSSI: -96 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 39293
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.26 deg
+Pitch     : -5.69 deg
+Status    : TENANG
+CRC       : 2150
+
+Raw Payload: 41295,-0.000,0.000,2.80,1.34,-5.68,TENANG,2143
+RSSI: -96 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 41295
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.34 deg
+Pitch     : -5.68 deg
+Status    : TENANG
+CRC       : 2143
+
+Raw Payload: 43297,-0.000,0.000,2.80,1.22,-5.75,TENANG,2142
+RSSI: -96 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 43297
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.22 deg
+Pitch     : -5.75 deg
+Status    : TENANG
+CRC       : 2142
+
+Raw Payload: 45299,0.000,0.000,2.80,1.25,-5.88,TENANG,2108
+RSSI: -94 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 45299
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.25 deg
+Pitch     : -5.88 deg
+Status    : TENANG
+CRC       : 2108
+
+Raw Payload: 47301,0.000,0.000,2.80,1.39,-5.81,TENANG,2092
+RSSI: -96 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 47301
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.39 deg
+Pitch     : -5.81 deg
+Status    : TENANG
+CRC       : 2092
+
+Raw Payload: 49303,0.000,0.000,2.80,1.32,-5.88,TENANG,2096
+RSSI: -96 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 49303
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.32 deg
+Pitch     : -5.88 deg
+Status    : TENANG
+CRC       : 2096
+
+Raw Payload: 51305,0.000,0.000,2.80,1.65,-5.94,TENANG,2094
+RSSI: -96 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 51305
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.65 deg
+Pitch     : -5.94 deg
+Status    : TENANG
+CRC       : 2094
+
+Raw Payload: 53307,0.000,0.000,2.80,1.31,-5.60,TENANG,2084
+RSSI: -96 dBm | SNR: 9.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 53307
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.31 deg
+Pitch     : -5.60 deg
+Status    : TENANG
+CRC       : 2084
+
+Raw Payload: 55309,0.000,0.000,2.80,1.28,-5.80,TENANG,2096
+RSSI: -95 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 55309
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.28 deg
+Pitch     : -5.80 deg
+Status    : TENANG
+CRC       : 2096
+
+Raw Payload: 57311,0.000,0.000,2.80,1.26,-5.42,TENANG,2087
+RSSI: -96 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 57311
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.26 deg
+Pitch     : -5.42 deg
+Status    : TENANG
+CRC       : 2087
+
+Raw Payload: 59313,0.000,0.000,2.80,1.54,-6.03,TENANG,2090
+RSSI: -96 dBm | SNR: 9.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 59313
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.54 deg
+Pitch     : -6.03 deg
+Status    : TENANG
+CRC       : 2090
+
+Raw Payload: 61315,0.000,0.000,2.80,1.25,-5.89,TENANG,2096
+RSSI: -97 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 61315
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.25 deg
+Pitch     : -5.89 deg
+Status    : TENANG
+CRC       : 2096
+
+Raw Payload: 63317,0.000,0.000,2.80,1.52,-5.78,TENANG,2098
+RSSI: -96 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 63317
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.52 deg
+Pitch     : -5.78 deg
+Status    : TENANG
+CRC       : 2098
+
+Raw Payload: 65319,0.000,0.000,2.80,1.58,-5.71,TENANG,2101
+RSSI: -96 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 65319
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.58 deg
+Pitch     : -5.71 deg
+Status    : TENANG
+CRC       : 2101
+
+Raw Payload: 67321,0.000,0.000,2.80,1.69,-5.69,TENANG,2105
+RSSI: -95 dBm | SNR: 9.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 67321
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.69 deg
+Pitch     : -5.69 deg
+Status    : TENANG
+CRC       : 2105
+
+Raw Payload: 69323,0.000,0.000,2.80,1.40,-5.85,TENANG,2096
+RSSI: -95 dBm | SNR: 9.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 69323
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.40 deg
+Pitch     : -5.85 deg
+Status    : TENANG
+CRC       : 2096
+
+Raw Payload: 71325,0.000,0.000,2.80,1.52,-5.62,TENANG,2089
+RSSI: -95 dBm | SNR: 9.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 71325
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.52 deg
+Pitch     : -5.62 deg
+Status    : TENANG
+CRC       : 2089
+
+Raw Payload: 73327,0.000,0.000,2.80,1.40,-5.72,TENANG,2091
+RSSI: -96 dBm | SNR: 9.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 73327
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.40 deg
+Pitch     : -5.72 deg
+Status    : TENANG
+CRC       : 2091
+
+Raw Payload: 75329,0.000,0.000,2.80,1.45,-5.70,TENANG,2098
+RSSI: -96 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 75329
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.45 deg
+Pitch     : -5.70 deg
+Status    : TENANG
+CRC       : 2098
+
+Raw Payload: 77331,0.000,0.000,2.80,1.28,-5.73,TENANG,2097
+RSSI: -99 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 77331
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.28 deg
+Pitch     : -5.73 deg
+Status    : TENANG
+CRC       : 2097
+
+Raw Payload: 79333,0.000,0.000,2.80,1.38,-5.89,TENANG,2109
+RSSI: -97 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 79333
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.38 deg
+Pitch     : -5.89 deg
+Status    : TENANG
+CRC       : 2109
+
+Raw Payload: 81335,0.000,0.000,2.80,1.63,-5.88,TENANG,2101
+RSSI: -98 dBm | SNR: 9.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 81335
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.63 deg
+Pitch     : -5.88 deg
+Status    : TENANG
+CRC       : 2101
+
+Raw Payload: 83337,0.000,0.000,2.80,1.71,-5.79,TENANG,2104
+RSSI: -96 dBm | SNR: 9.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 83337
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.71 deg
+Pitch     : -5.79 deg
+Status    : TENANG
+CRC       : 2104
+
+Raw Payload: 85339,0.000,0.000,2.80,1.75,-5.72,TENANG,2105
+RSSI: -98 dBm | SNR: 9.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 85339
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.75 deg
+Pitch     : -5.72 deg
+Status    : TENANG
+CRC       : 2105
+
+Raw Payload: 87341,0.000,0.000,2.80,1.44,-5.87,TENANG,2102
+RSSI: -97 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 87341
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.44 deg
+Pitch     : -5.87 deg
+Status    : TENANG
+CRC       : 2102
+
+Raw Payload: 89343,0.000,0.000,2.80,1.43,-5.92,TENANG,2101
+RSSI: -97 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 89343
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.43 deg
+Pitch     : -5.92 deg
+Status    : TENANG
+CRC       : 2101
+
+Raw Payload: 91345,0.000,0.000,2.80,1.57,-5.54,TENANG,2099
+RSSI: -95 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 91345
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.57 deg
+Pitch     : -5.54 deg
+Status    : TENANG
+CRC       : 2099
+
+Raw Payload: 93347,0.000,0.000,2.80,1.51,-5.96,TENANG,2103
+RSSI: -96 dBm | SNR: 9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 93347
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.51 deg
+Pitch     : -5.96 deg
+Status    : TENANG
+CRC       : 2103
+
+Raw Payload: 95349,0.000,0.000,2.80,1.53,-5.81,TENANG,2103
+RSSI: -97 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 95349
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.53 deg
+Pitch     : -5.81 deg
+Status    : TENANG
+CRC       : 2103
+
+Raw Payload: 97351,0.000,0.000,2.80,1.19,-5.76,TENANG,2104
+RSSI: -95 dBm | SNR: 9.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 97351
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.19 deg
+Pitch     : -5.76 deg
+Status    : TENANG
+CRC       : 2104
+
+Raw Payload: 99353,0.000,0.000,2.80,1.59,-5.88,TENANG,2115
+RSSI: -94 dBm | SNR: 10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 99353
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.59 deg
+Pitch     : -5.88 deg
+Status    : TENANG
+CRC       : 2115
+
+=== JARAK 200 METER ===
+
+Raw Payload: 197451,0.000,0.000,2.80,1.48,-5.64,TENANG,2153
+RSSI: -99 dBm | SNR: -3.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 197451
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.48 deg
+Pitch     : -5.64 deg
+Status    : TENANG
+CRC       : 2153
+
+Raw Payload: 199453,0.000,0.000,2.80,1.57,-5.82,TENANG,2157
+RSSI: -97 dBm | SNR: 0.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 199453
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.57 deg
+Pitch     : -5.82 deg
+Status    : TENANG
+CRC       : 2157
+
+Raw Payload: 201455,0.000,0.000,2.80,1.54,-5.92,TENANG,2141
+RSSI: -97 dBm | SNR: 0.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 201455
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.54 deg
+Pitch     : -5.92 deg
+Status    : TENANG
+CRC       : 2141
+
+Raw Payload: 203457,0.000,0.000,2.80,1.14,-6.15,TENANG,2137
+RSSI: -97 dBm | SNR: 0.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 203457
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.14 deg
+Pitch     : -6.15 deg
+Status    : TENANG
+CRC       : 2137
+
+Raw Payload: 205459,0.000,0.000,2.80,1.39,-5.90,TENANG,2150
+RSSI: -97 dBm | SNR: 0.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 205459
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.39 deg
+Pitch     : -5.90 deg
+Status    : TENANG
+CRC       : 2150
+
+Raw Payload: 207461,0.000,0.000,2.80,1.59,-5.68,TENANG,2152
+RSSI: -98 dBm | SNR: -1.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 207461
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.59 deg
+Pitch     : -5.68 deg
+Status    : TENANG
+CRC       : 2152
+
+Raw Payload: 209463,0.000,0.000,2.80,1.53,-5.53,TENANG,2144
+RSSI: -97 dBm | SNR: -1.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 209463
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.53 deg
+Pitch     : -5.53 deg
+Status    : TENANG
+CRC       : 2144
+
+Raw Payload: 211465,0.000,0.000,2.80,1.62,-5.91,TENANG,2141
+RSSI: -97 dBm | SNR: 0.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 211465
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.62 deg
+Pitch     : -5.91 deg
+Status    : TENANG
+CRC       : 2141
+
+Raw Payload: 213467,0.000,0.000,2.80,1.53,-5.59,TENANG,2149
+RSSI: -98 dBm | SNR: -2.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 213467
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.53 deg
+Pitch     : -5.59 deg
+Status    : TENANG
+CRC       : 2149
+
+Raw Payload: 215469,0.000,0.000,2.80,1.66,-5.69,TENANG,2158
+RSSI: -98 dBm | SNR: -2.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 215469
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.66 deg
+Pitch     : -5.69 deg
+Status    : TENANG
+CRC       : 2158
+
+Raw Payload: 217471,0.000,0.000,2.80,1.26,-5.93,TENANG,2146
+RSSI: -98 dBm | SNR: -1.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 217471
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.26 deg
+Pitch     : -5.93 deg
+Status    : TENANG
+CRC       : 2146
+
+Raw Payload: 219473,0.000,0.000,2.80,1.44,-5.87,TENANG,2153
+RSSI: -99 dBm | SNR: -2.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 219473
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.44 deg
+Pitch     : -5.87 deg
+Status    : TENANG
+CRC       : 2153
+
+Raw Payload: 221475,0.000,0.000,2.80,1.38,-5.76,TENANG,2149
+RSSI: -98 dBm | SNR: -1.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 221475
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.38 deg
+Pitch     : -5.76 deg
+Status    : TENANG
+CRC       : 2149
+
+Raw Payload: 223477,0.000,0.000,2.80,1.69,-5.93,TENANG,2156
+RSSI: -98 dBm | SNR: -2.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 223477
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.69 deg
+Pitch     : -5.93 deg
+Status    : TENANG
+CRC       : 2156
+
+Raw Payload: 225479,0.000,0.000,2.80,1.46,-5.88,TENANG,2159
+RSSI: -100 dBm | SNR: -10.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 225479
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.46 deg
+Pitch     : -5.88 deg
+Status    : TENANG
+CRC       : 2159
+
+TIMEOUT: Data LoRa tidak diterima lebih dari 5 detik.
+Gateway masuk mode WAITING.
+LED biru menyala terus.
+
+Raw Payload: 233487,0.000,0.000,2.80,1.47,-5.75,TENANG,2154
+RSSI: -98 dBm | SNR: -2.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 233487
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.47 deg
+Pitch     : -5.75 deg
+Status    : TENANG
+CRC       : 2154
+
+Raw Payload: 235489,0.000,0.000,2.80,1.24,-6.11,TENANG,2144
+RSSI: -97 dBm | SNR: -7.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 235489
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.24 deg
+Pitch     : -6.11 deg
+Status    : TENANG
+CRC       : 2144
+
+TIMEOUT: Data LoRa tidak diterima lebih dari 5 detik.
+Gateway masuk mode WAITING.
+LED biru menyala terus.
+
+Raw Payload: 241495,0.000,0.000,2.80,1.70,-5.92,TENANG,2147
+RSSI: -97 dBm | SNR: -3.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 241495
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.70 deg
+Pitch     : -5.92 deg
+Status    : TENANG
+CRC       : 2147
+
+Raw Payload: 245499,0.000,0.000,2.80,1.41,-5.50,TENANG,2147
+RSSI: -97 dBm | SNR: -8.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 245499
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.41 deg
+Pitch     : -5.50 deg
+Status    : TENANG
+CRC       : 2147
+
+Raw Payload: 247501,0.000,0.000,2.80,1.18,-5.72,TENANG,2141
+RSSI: -99 dBm | SNR: -8.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 247501
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.18 deg
+Pitch     : -5.72 deg
+Status    : TENANG
+CRC       : 2141
+
+TIMEOUT: Data LoRa tidak diterima lebih dari 5 detik.
+Gateway masuk mode WAITING.
+LED biru menyala terus.
+
+Raw Payload: 255509,0.000,0.000,2.80,1.55,-5.65,TENANG,2151
+RSSI: -100 dBm | SNR: -9.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 255509
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.55 deg
+Pitch     : -5.65 deg
+Status    : TENANG
+CRC       : 2151
+
+Raw Payload: 257511,0.000,0.000,2.80,1.46,-5.87,TENANG,2150
+RSSI: -99 dBm | SNR: -8.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 257511
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.46 deg
+Pitch     : -5.87 deg
+Status    : TENANG
+CRC       : 2150
+
+Raw Payload: 259513,0.000,0.000,2.80,1.46,-5.80,TENANG,2147
+RSSI: -99 dBm | SNR: -7.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 259513
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.46 deg
+Pitch     : -5.80 deg
+Status    : TENANG
+CRC       : 2147
+
+TIMEOUT: Data LoRa tidak diterima lebih dari 5 detik.
+Gateway masuk mode WAITING.
+LED biru menyala terus.
+
+Raw Payload: 271525,0.000,0.002,2.80,1.28,-5.57,TENANG,2150
+RSSI: -96 dBm | SNR: 3.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 271525
+Heave     : 0.000 m
+Hs        : 0.002 m
+Tp        : 2.80 s
+Roll      : 1.28 deg
+Pitch     : -5.57 deg
+Status    : TENANG
+CRC       : 2150
+
+Raw Payload: 273527,0.000,0.002,2.80,1.52,-5.84,TENANG,2151
+RSSI: -100 dBm | SNR: -6.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 273527
+Heave     : 0.000 m
+Hs        : 0.002 m
+Tp        : 2.80 s
+Roll      : 1.52 deg
+Pitch     : -5.84 deg
+Status    : TENANG
+CRC       : 2151
+
+TIMEOUT: Data LoRa tidak diterima lebih dari 5 detik.
+Gateway masuk mode WAITING.
+LED biru menyala terus.
+
+Raw Payload: 281535,0.000,0.000,2.80,1.30,-5.74,TENANG,2142
+RSSI: -101 dBm | SNR: -4.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 281535
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.30 deg
+Pitch     : -5.74 deg
+Status    : TENANG
+CRC       : 2142
+
+Raw Payload: 285539,0.000,0.000,2.80,1.23,-5.64,TENANG,2151
+RSSI: -100 dBm | SNR: -4.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 285539
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.23 deg
+Pitch     : -5.64 deg
+Status    : TENANG
+CRC       : 2151
+
+TIMEOUT: Data LoRa tidak diterima lebih dari 5 detik.
+Gateway masuk mode WAITING.
+LED biru menyala terus.
+
+Raw Payload: 297551,0.000,0.000,2.80,1.46,-5.54,TENANG,2152
+RSSI: -100 dBm | SNR: -1.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 297551
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.46 deg
+Pitch     : -5.54 deg
+Status    : TENANG
+CRC       : 2152
+
+Raw Payload: 299553,0.000,0.000,2.80,1.32,-5.68,TENANG,2156
+RSSI: -100 dBm | SNR: -8.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 299553
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.32 deg
+Pitch     : -5.68 deg
+Status    : TENANG
+CRC       : 2156
+
+TIMEOUT: Data LoRa tidak diterima lebih dari 5 detik.
+Gateway masuk mode WAITING.
+LED biru menyala terus.
+
+Raw Payload: 313567,0.000,0.000,2.80,1.61,-5.70,TENANG,2143
+RSSI: -101 dBm | SNR: -5.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 313567
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.61 deg
+Pitch     : -5.70 deg
+Status    : TENANG
+CRC       : 2143
+
+TIMEOUT: Data LoRa tidak diterima lebih dari 5 detik.
+Gateway masuk mode WAITING.
+LED biru menyala terus.
+
+=== JARAK 500 METER ===
+
+
+Raw Payload: 383637,0.000,0.000,2.80,1.63,-5.74,TENANG,2154
+RSSI: -99 dBm | SNR: -2.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 383637
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.63 deg
+Pitch     : -5.74 deg
+Status    : TENANG
+CRC       : 2154
+
+Raw Payload: 385639,0.000,0.000,2.80,1.32,-5.89,TENANG,2160
+RSSI: -99 dBm | SNR: -1.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 385639
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.32 deg
+Pitch     : -5.89 deg
+Status    : TENANG
+CRC       : 2160
+
+Raw Payload: 387641,0.000,0.000,2.80,1.18,-5.63,TENANG,2151
+RSSI: -99 dBm | SNR: -2.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 387641
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.18 deg
+Pitch     : -5.63 deg
+Status    : TENANG
+CRC       : 2151
+
+Raw Payload: 389643,0.000,0.000,2.80,1.46,-5.90,TENANG,2156
+RSSI: -99 dBm | SNR: -2.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 389643
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.46 deg
+Pitch     : -5.90 deg
+Status    : TENANG
+CRC       : 2156
+
+Raw Payload: 391645,0.000,0.000,2.80,1.30,-5.73,TENANG,2145
+RSSI: -99 dBm | SNR: -1.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 391645
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.30 deg
+Pitch     : -5.73 deg
+Status    : TENANG
+CRC       : 2145
+
+Raw Payload: 393647,0.000,0.000,2.80,1.42,-5.86,TENANG,2156
+RSSI: -99 dBm | SNR: -1.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 393647
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.42 deg
+Pitch     : -5.86 deg
+Status    : TENANG
+CRC       : 2156
+
+Raw Payload: 395649,0.000,0.000,2.80,1.58,-5.81,TENANG,2162
+RSSI: -98 dBm | SNR: -1.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 395649
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.58 deg
+Pitch     : -5.81 deg
+Status    : TENANG
+CRC       : 2162
+
+Raw Payload: 397651,0.000,0.000,2.80,1.76,-5.70,TENANG,2155
+RSSI: -99 dBm | SNR: -2.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 397651
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.76 deg
+Pitch     : -5.70 deg
+Status    : TENANG
+CRC       : 2155
+
+Raw Payload: 399653,0.000,0.000,2.80,1.46,-5.71,TENANG,2157
+RSSI: -99 dBm | SNR: -2.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 399653
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.46 deg
+Pitch     : -5.71 deg
+Status    : TENANG
+CRC       : 2157
+
+Raw Payload: 401655,0.000,0.000,2.80,1.39,-5.92,TENANG,2148
+RSSI: -99 dBm | SNR: -2.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 401655
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.39 deg
+Pitch     : -5.92 deg
+Status    : TENANG
+CRC       : 2148
+
+Raw Payload: 403657,0.000,0.000,2.80,1.28,-5.78,TENANG,2154
+RSSI: -99 dBm | SNR: -2.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 403657
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.28 deg
+Pitch     : -5.78 deg
+Status    : TENANG
+CRC       : 2154
+
+Raw Payload: 405659,0.000,0.000,2.80,1.40,-5.48,TENANG,2149
+RSSI: -99 dBm | SNR: -1.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 405659
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.40 deg
+Pitch     : -5.48 deg
+Status    : TENANG
+CRC       : 2149
+
+Raw Payload: 407661,0.000,0.000,2.80,1.45,-5.69,TENANG,2152
+RSSI: -99 dBm | SNR: -2.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 407661
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.45 deg
+Pitch     : -5.69 deg
+Status    : TENANG
+CRC       : 2152
+
+Raw Payload: 409663,0.000,0.000,2.80,1.38,-6.03,TENANG,2147
+RSSI: -99 dBm | SNR: -1.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 409663
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.38 deg
+Pitch     : -6.03 deg
+Status    : TENANG
+CRC       : 2147
+
+Raw Payload: 411665,0.000,0.000,2.80,1.54,-5.92,TENANG,2147
+RSSI: -97 dBm | SNR: 0.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 411665
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.54 deg
+Pitch     : -5.92 deg
+Status    : TENANG
+CRC       : 2147
+
+Raw Payload: 413667,0.000,0.000,2.80,1.42,-5.61,TENANG,2144
+RSSI: -96 dBm | SNR: -2.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 413667
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.42 deg
+Pitch     : -5.61 deg
+Status    : TENANG
+CRC       : 2144
+
+Raw Payload: 415669,0.000,0.000,2.80,1.43,-5.78,TENANG,2157
+RSSI: -98 dBm | SNR: -1.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 415669
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.43 deg
+Pitch     : -5.78 deg
+Status    : TENANG
+CRC       : 2157
+
+Raw Payload: 417671,0.000,0.000,2.80,1.52,-5.55,TENANG,2147
+RSSI: -98 dBm | SNR: -1.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 417671
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.52 deg
+Pitch     : -5.55 deg
+Status    : TENANG
+CRC       : 2147
+
+Raw Payload: 419673,0.000,0.000,2.80,1.17,-5.63,TENANG,2151
+RSSI: -99 dBm | SNR: -1.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 419673
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.17 deg
+Pitch     : -5.63 deg
+Status    : TENANG
+CRC       : 2151
+
+Raw Payload: 421675,0.000,0.000,2.80,1.25,-5.57,TENANG,2148
+RSSI: -98 dBm | SNR: -1.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 421675
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.25 deg
+Pitch     : -5.57 deg
+Status    : TENANG
+CRC       : 2148
+
+Raw Payload: 423677,0.000,0.000,2.80,1.41,-5.71,TENANG,2146
+RSSI: -99 dBm | SNR: -1.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 423677
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.41 deg
+Pitch     : -5.71 deg
+Status    : TENANG
+CRC       : 2146
+
+Raw Payload: 425679,0.000,0.000,2.80,1.51,-5.84,TENANG,2155
+RSSI: -99 dBm | SNR: -1.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 425679
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.51 deg
+Pitch     : -5.84 deg
+Status    : TENANG
+CRC       : 2155
+
+Raw Payload: 427681,0.000,0.000,2.80,1.37,-5.89,TENANG,2159
+RSSI: -99 dBm | SNR: -1.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 427681
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.37 deg
+Pitch     : -5.89 deg
+Status    : TENANG
+CRC       : 2159
+
+Raw Payload: 429683,0.000,0.000,2.80,1.50,-5.72,TENANG,2150
+RSSI: -98 dBm | SNR: -1.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 429683
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.50 deg
+Pitch     : -5.72 deg
+Status    : TENANG
+CRC       : 2150
+
+Raw Payload: 431685,0.000,0.000,2.80,1.55,-5.58,TENANG,2154
+RSSI: -100 dBm | SNR: -2.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 431685
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.55 deg
+Pitch     : -5.58 deg
+Status    : TENANG
+CRC       : 2154
+
+Raw Payload: 433687,0.000,0.000,2.80,1.44,-6.10,TENANG,2145
+RSSI: -99 dBm | SNR: -1.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 433687
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.44 deg
+Pitch     : -6.10 deg
+Status    : TENANG
+CRC       : 2145
+
+Raw Payload: 435689,0.000,0.000,2.80,1.51,-5.85,TENANG,2158
+RSSI: -99 dBm | SNR: -1.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 435689
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.51 deg
+Pitch     : -5.85 deg
+Status    : TENANG
+CRC       : 2158
+
+Raw Payload: 437691,0.000,0.000,2.80,1.53,-5.76,TENANG,2155
+RSSI: -99 dBm | SNR: -1.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 437691
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.53 deg
+Pitch     : -5.76 deg
+Status    : TENANG
+CRC       : 2155
+
+Raw Payload: 439693,0.000,0.000,2.80,1.69,-5.70,TENANG,2160
+RSSI: -99 dBm | SNR: -1.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 439693
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.69 deg
+Pitch     : -5.70 deg
+Status    : TENANG
+CRC       : 2160
+
+Raw Payload: 441695,0.000,0.000,2.80,1.37,-5.92,TENANG,2154
+RSSI: -99 dBm | SNR: -1.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 441695
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.37 deg
+Pitch     : -5.92 deg
+Status    : TENANG
+CRC       : 2154
+
+Raw Payload: 443697,0.000,0.000,2.80,1.36,-5.56,TENANG,2157
+RSSI: -99 dBm | SNR: -1.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 443697
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.36 deg
+Pitch     : -5.56 deg
+Status    : TENANG
+CRC       : 2157
+
+Raw Payload: 445699,0.000,0.000,2.80,1.38,-5.84,TENANG,2164
+RSSI: -99 dBm | SNR: -0.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 445699
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.38 deg
+Pitch     : -5.84 deg
+Status    : TENANG
+CRC       : 2164
+
+Raw Payload: 447701,0.000,0.000,2.80,1.33,-5.64,TENANG,2143
+RSSI: -99 dBm | SNR: -1.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 447701
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.33 deg
+Pitch     : -5.64 deg
+Status    : TENANG
+CRC       : 2143
+
+Raw Payload: 449703,0.000,0.000,2.80,1.64,-5.65,TENANG,2152
+RSSI: -99 dBm | SNR: -1.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 449703
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.64 deg
+Pitch     : -5.65 deg
+Status    : TENANG
+CRC       : 2152
+
+Raw Payload: 451705,0.000,0.000,2.80,1.14,-5.95,TENANG,2145
+RSSI: -98 dBm | SNR: -0.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 451705
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.14 deg
+Pitch     : -5.95 deg
+Status    : TENANG
+CRC       : 2145
+
+Raw Payload: 453707,0.000,0.000,2.80,1.66,-5.87,TENANG,2157
+RSSI: -99 dBm | SNR: -1.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 453707
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.66 deg
+Pitch     : -5.87 deg
+Status    : TENANG
+CRC       : 2157
+
+Raw Payload: 455709,0.000,0.000,2.80,1.43,-5.78,TENANG,2156
+RSSI: -99 dBm | SNR: -1.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 455709
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.43 deg
+Pitch     : -5.78 deg
+Status    : TENANG
+CRC       : 2156
+
+Raw Payload: 457711,0.000,0.000,2.80,1.57,-6.15,TENANG,2148
+RSSI: -98 dBm | SNR: -1.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 457711
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.57 deg
+Pitch     : -6.15 deg
+Status    : TENANG
+CRC       : 2148
+
+Raw Payload: 459713,0.000,0.000,2.80,1.52,-6.09,TENANG,2150
+RSSI: -98 dBm | SNR: -1.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 459713
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.52 deg
+Pitch     : -6.09 deg
+Status    : TENANG
+CRC       : 2150
+
+Raw Payload: 461715,0.000,0.000,2.80,1.58,-5.85,TENANG,2154
+RSSI: -99 dBm | SNR: -1.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 461715
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.58 deg
+Pitch     : -5.85 deg
+Status    : TENANG
+CRC       : 2154
+
+Raw Payload: 463717,0.000,0.000,2.80,1.24,-5.81,TENANG,2147
+RSSI: -99 dBm | SNR: -1.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 463717
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.24 deg
+Pitch     : -5.81 deg
+Status    : TENANG
+CRC       : 2147
+
+Raw Payload: 465719,0.000,0.000,2.80,1.25,-5.79,TENANG,2159
+RSSI: -99 dBm | SNR: -1.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 465719
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.25 deg
+Pitch     : -5.79 deg
+Status    : TENANG
+CRC       : 2159
+
+Raw Payload: 467721,0.000,0.000,2.80,1.22,-5.93,TENANG,2147
+RSSI: -98 dBm | SNR: 0.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 467721
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.22 deg
+Pitch     : -5.93 deg
+Status    : TENANG
+CRC       : 2147
+
+Raw Payload: 469723,0.000,0.000,2.80,1.23,-5.94,TENANG,2153
+RSSI: -98 dBm | SNR: 0.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 469723
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.23 deg
+Pitch     : -5.94 deg
+Status    : TENANG
+CRC       : 2153
+
+Raw Payload: 471725,0.000,0.000,2.80,1.40,-5.74,TENANG,2145
+RSSI: -98 dBm | SNR: -0.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 471725
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.40 deg
+Pitch     : -5.74 deg
+Status    : TENANG
+CRC       : 2145
+
+Raw Payload: 473727,0.000,0.000,2.80,1.44,-5.45,TENANG,2151
+RSSI: -97 dBm | SNR: 0.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 473727
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.44 deg
+Pitch     : -5.45 deg
+Status    : TENANG
+CRC       : 2151
+
+Raw Payload: 475729,0.000,0.000,2.80,1.58,-5.49,TENANG,2164
+RSSI: -99 dBm | SNR: -0.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 475729
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.58 deg
+Pitch     : -5.49 deg
+Status    : TENANG
+CRC       : 2164
+
+Raw Payload: 477731,0.000,0.000,2.80,1.78,-5.86,TENANG,2162
+RSSI: -100 dBm | SNR: -1.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 477731
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.78 deg
+Pitch     : -5.86 deg
+Status    : TENANG
+CRC       : 2162
+
+Raw Payload: 479733,0.000,0.000,2.80,1.10,-5.90,TENANG,2147
+RSSI: -100 dBm | SNR: -2.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 479733
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.10 deg
+Pitch     : -5.90 deg
+Status    : TENANG
+CRC       : 2147
+
+Raw Payload: 481735,0.000,0.000,2.80,1.36,-5.57,TENANG,2153
+RSSI: -100 dBm | SNR: -1.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 481735
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.36 deg
+Pitch     : -5.57 deg
+Status    : TENANG
+CRC       : 2153
+
+Raw Payload: 483737,0.000,0.000,2.80,1.65,-5.74,TENANG,2158
+RSSI: -100 dBm | SNR: -1.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 483737
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.65 deg
+Pitch     : -5.74 deg
+Status    : TENANG
+CRC       : 2158
+
+Raw Payload: 485739,0.000,0.000,2.80,1.41,-5.93,TENANG,2157
+RSSI: -100 dBm | SNR: -2.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 485739
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.41 deg
+Pitch     : -5.93 deg
+Status    : TENANG
+CRC       : 2157
+
+Raw Payload: 487741,0.000,0.000,2.80,1.45,-5.94,TENANG,2157
+RSSI: -114 dBm | SNR: -5.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 487741
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.45 deg
+Pitch     : -5.94 deg
+Status    : TENANG
+CRC       : 2157
+
+Raw Payload: 489743,0.000,0.000,2.80,1.55,-5.77,TENANG,2163
+RSSI: -115 dBm | SNR: -5.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 489743
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.55 deg
+Pitch     : -5.77 deg
+Status    : TENANG
+CRC       : 2163
+
+Raw Payload: 491745,0.000,0.000,2.80,1.34,-5.70,TENANG,2148
+RSSI: -115 dBm | SNR: -5.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 491745
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.34 deg
+Pitch     : -5.70 deg
+Status    : TENANG
+CRC       : 2148
+
+Raw Payload: 493747,0.000,0.000,2.80,1.50,-5.91,TENANG,2153
+RSSI: -115 dBm | SNR: -4.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 493747
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.50 deg
+Pitch     : -5.91 deg
+Status    : TENANG
+CRC       : 2153
+
+Raw Payload: 495749,0.000,0.000,2.80,1.62,-5.64,TENANG,2160
+RSSI: -115 dBm | SNR: -4.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 495749
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.62 deg
+Pitch     : -5.64 deg
+Status    : TENANG
+CRC       : 2160
+
+Raw Payload: 497751,0.000,0.000,2.80,1.52,-5.89,TENANG,2161
+RSSI: -115 dBm | SNR: -4.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 497751
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.52 deg
+Pitch     : -5.89 deg
+Status    : TENANG
+CRC       : 2161
+
+Raw Payload: 499753,0.000,0.000,2.80,1.68,-5.96,TENANG,2170
+RSSI: -115 dBm | SNR: -5.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 499753
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.68 deg
+Pitch     : -5.96 deg
+Status    : TENANG
+CRC       : 2170
+
+Raw Payload: 501755,0.000,0.000,2.80,1.48,-5.68,TENANG,2153
+RSSI: -115 dBm | SNR: -5.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 501755
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.48 deg
+Pitch     : -5.68 deg
+Status    : TENANG
+CRC       : 2153
+
+=== 1 KM ===
+
+TIMEOUT: Data LoRa tidak diterima lebih dari 5 detik.
+Gateway masuk mode WAITING.
+LED biru menyala terus.
+
+Raw Payload: 565819,0.000,0.000,2.80,1.39,-5.73,TENANG,2160
+RSSI: -101 dBm | SNR: -9.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 565819
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.39 deg
+Pitch     : -5.73 deg
+Status    : TENANG
+CRC       : 2160
+
+TIMEOUT: Data LoRa tidak diterima lebih dari 5 detik.
+Gateway masuk mode WAITING.
+LED biru menyala terus.
+
+Raw Payload: 583837,0.000,0.000,2.80,1.55,-5.90,TENANG,2157
+RSSI: -100 dBm | SNR: -2.75
+---- VALID SMART BUOY DATA ----
+Timestamp : 583837
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.55 deg
+Pitch     : -5.90 deg
+Status    : TENANG
+CRC       : 2157
+
+Raw Payload: 585839,0.000,0.000,2.80,1.55,-5.83,TENANG,2163
+RSSI: -100 dBm | SNR: -7.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 585839
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.55 deg
+Pitch     : -5.83 deg
+Status    : TENANG
+CRC       : 2163
+
+Raw Payload: 587841,-0.000,0.000,2.80,1.54,-5.56,TENANG,2202
+RSSI: -100 dBm | SNR: -8.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 587841
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.54 deg
+Pitch     : -5.56 deg
+Status    : TENANG
+CRC       : 2202
+
+Raw Payload: 589843,-0.000,0.002,2.80,1.60,-5.59,TENANG,2208
+RSSI: -100 dBm | SNR: -8.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 589843
+Heave     : 0.000 m
+Hs        : 0.002 m
+Tp        : 2.80 s
+Roll      : 1.60 deg
+Pitch     : -5.59 deg
+Status    : TENANG
+CRC       : 2208
+
+Raw Payload: 591845,-0.000,0.002,2.80,1.60,-6.10,TENANG,2191
+RSSI: -100 dBm | SNR: -8.00
+---- VALID SMART BUOY DATA ----
+Timestamp : 591845
+Heave     : 0.000 m
+Hs        : 0.002 m
+Tp        : 2.80 s
+Roll      : 1.60 deg
+Pitch     : -6.10 deg
+Status    : TENANG
+CRC       : 2191
+
+TIMEOUT: Data LoRa tidak diterima lebih dari 5 detik.
+Gateway masuk mode WAITING.
+LED biru menyala terus.
+
+Raw Payload: 597851,0.000,0.002,2.80,1.61,-5.92,TENANG,2159
+RSSI: -101 dBm | SNR: -7.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 597851
+Heave     : 0.000 m
+Hs        : 0.002 m
+Tp        : 2.80 s
+Roll      : 1.61 deg
+Pitch     : -5.92 deg
+Status    : TENANG
+CRC       : 2159
+
+Raw Payload: 601855,0.000,0.000,2.80,1.54,-5.99,TENANG,2156
+RSSI: -99 dBm | SNR: -7.25
+---- VALID SMART BUOY DATA ----
+Timestamp : 601855
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.54 deg
+Pitch     : -5.99 deg
+Status    : TENANG
+CRC       : 2156
+
+Raw Payload: 603857,0.000,0.000,2.80,1.53,-5.51,TENANG,2147
+RSSI: -99 dBm | SNR: -3.50
+---- VALID SMART BUOY DATA ----
+Timestamp : 603857
+Heave     : 0.000 m
+Hs        : 0.000 m
+Tp        : 2.80 s
+Roll      : 1.53 deg
+Pitch     : -5.51 deg
+Status    : TENANG
+CRC       : 2147
+
+TIMEOUT: Data LoRa tidak diterima lebih dari 5 detik.
+Gateway masuk mode WAITING.
+LED biru menyala terus.
+
