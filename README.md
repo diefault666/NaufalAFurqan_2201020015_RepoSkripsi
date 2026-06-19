@@ -4,7 +4,7 @@
 
 Repository ini berisi kode program, data pengujian, dan dokumentasi pendukung untuk penelitian skripsi mengenai **prototype Smart Buoy** berbasis Internet of Things (IoT). Sistem ini dirancang untuk melakukan monitoring gelombang laut dengan memanfaatkan sensor IMU 6-DoF, komunikasi LoRa, serta integrasi penyimpanan data ke Google Sheets.
 
-## Identitas Penelitian
+## Identitas Peneliti
 
 | Keterangan | Detail |
 |---|---|
@@ -165,7 +165,7 @@ Pilih board ESP32 yang sesuai, kemudian sesuaikan konfigurasi berikut jika diper
 
 ### 4. Upload Program ke Mikrokontroler
 
-- Upload kode buoy ke ESP32 DevkitC.
+- Upload kode buoy ke ESP32-S3 N16R8.
 - Upload kode gateway ke ESP32-S3 N16R8.
 - Buka Serial Monitor untuk melihat proses pembacaan sensor, pengiriman LoRa, penerimaan payload, dan pengiriman data ke Google Sheets.
 
@@ -183,10 +183,6 @@ Data pengujian pada repository ini digunakan sebagai pendukung analisis pada pen
 - data pengujian LoRa,
 - data integrasi gateway,
 - data log Google Sheets.
-
-## Catatan Keamanan
-
-Jika terdapat konfigurasi seperti SSID WiFi, password WiFi, URL Google Apps Script, token, atau kredensial lain, sebaiknya data tersebut tidak dipublikasikan secara langsung di repository publik. Gunakan placeholder atau file konfigurasi lokal yang tidak ikut diunggah ke GitHub.
 
 ## Tujuan Repository
 
