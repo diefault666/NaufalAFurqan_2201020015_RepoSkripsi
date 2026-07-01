@@ -107,7 +107,7 @@ NaufalAFurqan_2201020015_RepoSkripsi/
 | `Test_Data/Calibration` | Berisi data hasil kalibrasi sensor GY-87 pada beberapa kondisi orientasi. |
 | `Test_Data/Algorithm_Test` | Berisi data pengujian algoritma Madgwick, koreksi gravitasi, heave, Kalman Filter, dan Hs. |
 | `Test_Data/LoRa_Test` | Berisi data pengujian komunikasi LoRa, payload, gateway, timeout, OLED, LED, dan buzzer. |
-| `Test_Data/Google_Sheets` | Berisi data log hasil integrasi sistem dengan Google Sheets. |
+| `Test_Data/Google_Sheets` | Berisi data log hasil integrasi sistem dengan Google Sheets dan juga hasil pengujian dengan alat manual. |
 | `Test_Data/Final_Integraion` | Berisi log dan ringkasan pengujian sistem terintegrasi. |
 
 ## Alur Kerja Sistem
